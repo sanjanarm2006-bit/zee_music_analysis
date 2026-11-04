@@ -1,0 +1,1801 @@
+﻿StreamID,DateKey,ArtistKey,AlbumKey,TrackName,ListenerID,ListenerCountry,SubscriptionType,Device,StreamCount,MinutesListened,RevenueUSD,IsCompleted,SkipCount,PlaylistSource,Rating
+STR01208,20240101,5,13,Electric Hearts,LST1369,Australia,Free,Smart Speaker,9,28.4,0.0135,Yes,0,User Playlist,3
+STR01129,20240102,9,27,Little Sky,LST1221,France,Family,Smart TV,16,45.4,0.0858,No,5,Editorial Playlist,4
+STR01202,20240102,16,48,Distant Dreams,LST1043,Japan,Premium,Desktop,17,40.2,0.1115,Yes,0,Search,3
+STR01669,20240102,19,57,Summer Light,LST1290,UK,Premium,Smart Speaker,12,27.5,0.089,Yes,5,Search,4
+STR01716,20240102,6,18,Fading Stars,LST1080,Brazil,Premium,Mobile,3,8.6,0.0485,Yes,5,User Playlist,2
+STR01342,20240103,16,46,Distant Home,LST1240,India,Free,Smart Speaker,6,19.9,0.009,Yes,4,Search,4
+STR01459,20240103,11,31,Endless Sky,LST1040,Canada,Free,Smart TV,14,65.4,0.021,No,5,Editorial Playlist,3
+STR01633,20240103,17,49,Summer Stars,LST1236,UK,Free,Tablet,12,36.9,0.018,Yes,1,User Playlist,5
+STR00101,20240104,14,40,Midnight Stars,LST1077,Brazil,Premium,Tablet,6,13.7,0.062,No,5,User Playlist,2
+STR00493,20240104,15,44,Dancing Echoes,LST1247,USA,Free,Smart Speaker,9,38.8,0.0135,Yes,0,Album Page,3
+STR00566,20240104,1,1,Broken Road,LST1093,Germany,Premium,Tablet,12,51.3,0.089,Yes,0,Search,4
+STR00621,20240104,18,52,Little Rain,LST1138,UK,Premium,Mobile,5,12.9,0.0575,Yes,1,Search,2
+STR00957,20240104,17,50,Fading Light,LST1212,USA,Premium,Smart Speaker,14,45.0,0.098,Yes,5,Album Page,4
+STR01014,20240104,5,14,Shining Road,LST1434,India,Free,Mobile,12,54.6,0.018,Yes,0,Album Page,2
+STR01270,20240104,16,47,Distant Dreams,LST1172,France,Free,Desktop,9,19.6,0.0135,Yes,0,Album Page,3
+STR00185,20240105,3,8,Midnight Hearts,LST1213,Germany,Student,Desktop,3,12.9,0.027,No,0,Album Page,2
+STR00565,20240105,10,29,Midnight Waves,LST1053,Japan,Family,Tablet,16,71.8,0.0858,Yes,5,Search,1
+STR00295,20240106,14,42,Electric Road,LST1072,Germany,Free,Desktop,3,11.8,0.0045,Yes,5,Search,2
+STR00427,20240106,10,28,Little Light,LST1024,UAE,Free,Tablet,8,33.1,0.012,Yes,1,Radio,2
+STR00910,20240106,9,27,Midnight Memories,LST1443,Japan,Free,Smart Speaker,2,7.9,0.003,No,4,User Playlist,4
+STR00999,20240106,5,13,Dancing Fire,LST1140,Brazil,Student,Smart TV,15,41.6,0.063,Yes,1,Search,3
+STR00895,20240107,1,1,Distant Sky,LST1080,USA,Premium,Desktop,11,28.8,0.0845,Yes,3,Album Page,3
+STR01252,20240107,18,52,Distant Dreams,LST1173,India,Free,Desktop,17,71.2,0.0255,No,5,Editorial Playlist,4
+STR01527,20240107,7,20,Shining Fire,LST1420,India,Premium,Mobile,8,21.3,0.071,No,1,Editorial Playlist,5
+STR00023,20240108,4,12,Dancing Memories,LST1239,France,Student,Smart TV,15,55.5,0.063,Yes,3,User Playlist,3
+STR00790,20240108,5,15,Fading Dreams,LST1311,UK,Free,Smart Speaker,1,3.8,0.0015,No,5,User Playlist,5
+STR01483,20240108,9,26,Distant Road,LST1265,Canada,Premium,Mobile,15,59.6,0.1025,Yes,5,User Playlist,1
+STR00510,20240109,7,19,Summer Echoes,LST1025,India,Free,Smart Speaker,16,39.6,0.024,Yes,5,Editorial Playlist,4
+STR00521,20240109,18,53,Silent Sky,LST1100,Germany,Free,Tablet,16,42.0,0.024,Yes,2,Radio,5
+STR01402,20240110,5,14,Summer Waves,LST1248,Brazil,Free,Smart TV,9,26.3,0.0135,Yes,1,Editorial Playlist,1
+STR00130,20240111,3,9,Shining Dreams,LST1273,Canada,Free,Smart Speaker,1,2.4,0.0015,Yes,5,Radio,3
+STR00559,20240111,4,11,Little Light,LST1449,India,Premium,Tablet,6,17.4,0.062,No,0,User Playlist,3
+STR00758,20240111,18,52,Silent Rain,LST1015,UAE,Premium,Smart Speaker,10,37.8,0.08,No,4,Search,1
+STR00841,20240111,7,19,Fading Dreams,LST1250,Canada,Student,Smart TV,13,48.8,0.057,No,3,Album Page,2
+STR00609,20240112,13,37,Broken Rain,LST1231,Australia,Family,Tablet,7,17.8,0.0516,Yes,1,Editorial Playlist,1
+STR01086,20240113,9,26,Endless Home,LST1347,India,Free,Smart Speaker,7,19.8,0.0105,Yes,2,Search,1
+STR01344,20240113,8,23,Golden Memories,LST1182,Japan,Student,Smart TV,3,11.3,0.027,Yes,3,User Playlist,1
+STR00135,20240114,3,8,Golden Waves,LST1065,Germany,Free,Smart TV,14,36.7,0.021,Yes,5,Search,5
+STR00198,20240114,2,4,Midnight Stars,LST1178,UAE,Free,Smart TV,3,13.5,0.0045,Yes,4,Search,2
+STR01314,20240114,4,12,Distant Stars,LST1250,France,Premium,Smart TV,12,41.2,0.089,No,1,Editorial Playlist,5
+STR01372,20240114,2,4,Distant Dreams,LST1337,Germany,Premium,Desktop,3,7.8,0.0485,No,3,Album Page,1
+STR00020,20240116,5,14,Shining Rain,LST1126,Australia,Free,Smart TV,5,10.9,0.0075,Yes,1,Editorial Playlist,2
+STR00260,20240116,2,6,Little Rain,LST1295,Brazil,Student,Mobile,4,16.1,0.03,No,3,Search,5
+STR01249,20240116,8,23,Golden Waves,LST1259,USA,Premium,Mobile,17,67.7,0.1115,No,0,User Playlist,4
+STR00089,20240117,19,56,Little Home,LST1275,India,Free,Smart TV,10,29.3,0.015,Yes,4,Album Page,1
+STR00887,20240117,5,13,Endless Rain,LST1398,USA,Free,Desktop,1,4.6,0.0015,No,4,Search,1
+STR01464,20240117,16,47,Broken Waves,LST1080,USA,Free,Smart Speaker,15,48.2,0.0225,No,0,Radio,4
+STR00541,20240118,17,50,Golden Sky,LST1133,UAE,Free,Desktop,8,31.0,0.012,Yes,2,Editorial Playlist,2
+STR01503,20240118,5,15,Dancing Dreams,LST1130,UK,Free,Smart TV,15,68.1,0.0225,No,4,Album Page,4
+STR00149,20240119,6,17,Little Rain,LST1311,UK,Free,Mobile,9,19.3,0.0135,No,5,Search,3
+STR00174,20240119,11,32,Broken Road,LST1400,Canada,Free,Desktop,15,57.0,0.0225,Yes,1,Radio,3
+STR00900,20240119,10,30,Broken Rain,LST1135,India,Free,Desktop,8,29.9,0.012,Yes,4,Search,1
+STR01119,20240119,20,60,Fading Waves,LST1196,Japan,Premium,Mobile,9,41.9,0.0755,Yes,5,Editorial Playlist,1
+STR00550,20240122,1,1,Little Sky,LST1227,UAE,Premium,Mobile,3,13.2,0.0485,No,1,Album Page,4
+STR01020,20240122,6,16,Midnight Echoes,LST1071,Canada,Family,Desktop,17,73.5,0.0896,No,4,Radio,5
+STR01213,20240122,5,15,Golden Hearts,LST1342,Australia,Premium,Smart TV,13,57.0,0.0935,Yes,4,Radio,2
+STR01310,20240122,14,42,Shining Echoes,LST1052,Japan,Premium,Desktop,7,33.1,0.0665,No,3,Search,2
+STR01664,20240122,9,25,Broken Home,LST1393,Germany,Free,Desktop,7,23.3,0.0105,Yes,1,Editorial Playlist,4
+STR01256,20240123,5,13,Little Sky,LST1161,Canada,Family,Smart Speaker,5,12.9,0.044,Yes,2,Radio,2
+STR01589,20240123,9,27,Distant Sky,LST1207,Germany,Premium,Tablet,2,4.2,0.044,No,4,Album Page,3
+STR00105,20240124,13,38,Summer Echoes,LST1221,Japan,Free,Desktop,16,55.2,0.024,No,2,Album Page,1
+STR00507,20240124,8,22,Golden Fire,LST1156,Canada,Premium,Smart Speaker,16,37.5,0.107,Yes,3,Radio,1
+STR00383,20240126,10,29,Endless Light,LST1140,Japan,Free,Mobile,9,42.4,0.0135,Yes,3,Album Page,3
+STR01403,20240126,16,47,Electric Waves,LST1051,Canada,Premium,Desktop,5,10.6,0.0575,No,3,User Playlist,4
+STR00564,20240127,10,29,Golden Sky,LST1249,UK,Free,Smart Speaker,17,74.1,0.0255,Yes,5,Editorial Playlist,3
+STR00690,20240127,20,58,Distant Echoes,LST1181,Brazil,Premium,Mobile,8,27.1,0.071,Yes,5,User Playlist,4
+STR01166,20240127,17,49,Golden Memories,LST1008,UAE,Free,Tablet,10,24.1,0.015,Yes,2,User Playlist,1
+STR01629,20240127,10,29,Distant Hearts,LST1069,Canada,Free,Tablet,17,80.4,0.0255,Yes,3,Album Page,1
+STR00048,20240128,13,38,Dancing Memories,LST1041,Japan,Free,Smart Speaker,6,13.0,0.009,Yes,1,Editorial Playlist,4
+STR00986,20240128,12,36,Summer Memories,LST1141,Australia,Free,Desktop,4,10.8,0.006,No,4,Editorial Playlist,5
+STR00590,20240130,20,60,Summer Light,LST1201,UAE,Free,Tablet,4,14.8,0.006,Yes,1,User Playlist,4
+STR00960,20240130,4,11,Broken Stars,LST1319,Brazil,Premium,Desktop,12,43.0,0.089,No,5,Radio,1
+STR01758,20240130,12,36,Fading Memories,LST1411,Australia,Premium,Mobile,13,46.1,0.0935,No,5,Search,2
+STR00622,20240131,16,48,Golden Waves,LST1267,Australia,Premium,Smart TV,7,21.9,0.0665,Yes,3,Radio,1
+STR00739,20240131,3,8,Golden Home,LST1199,France,Free,Tablet,9,25.4,0.0135,No,1,User Playlist,3
+STR00819,20240131,16,48,Silent Rain,LST1434,France,Premium,Mobile,3,13.7,0.0485,No,3,Search,3
+STR01172,20240131,15,45,Dancing Home,LST1006,Japan,Premium,Smart Speaker,11,50.1,0.0845,No,3,Radio,3
+STR00282,20240201,16,48,Shining Fire,LST1169,Germany,Free,Tablet,6,19.8,0.009,Yes,3,Editorial Playlist,1
+STR00537,20240201,20,60,Silent Hearts,LST1244,Canada,Family,Smart TV,8,36.7,0.0554,Yes,0,Album Page,4
+STR01591,20240201,3,8,Summer Home,LST1318,Brazil,Free,Desktop,17,53.7,0.0255,Yes,3,Search,3
+STR00072,20240202,7,21,Broken Fire,LST1405,Brazil,Free,Smart Speaker,10,27.8,0.015,No,3,Radio,1
+STR00117,20240202,6,16,Midnight Home,LST1363,UAE,Premium,Smart TV,7,19.4,0.0665,Yes,4,Radio,2
+STR00531,20240202,20,60,Fading Memories,LST1436,Brazil,Free,Desktop,9,36.0,0.0135,Yes,2,Album Page,3
+STR00830,20240202,7,21,Endless Road,LST1271,Japan,Free,Smart Speaker,17,55.1,0.0255,Yes,3,Search,1
+STR01526,20240203,3,9,Dancing Echoes,LST1077,USA,Student,Tablet,10,32.1,0.048,No,5,Album Page,3
+STR01183,20240204,15,45,Fading Sky,LST1087,UAE,Free,Mobile,2,8.8,0.003,Yes,1,Search,2
+STR01246,20240204,16,47,Broken Home,LST1339,Australia,Free,Smart Speaker,11,46.6,0.0165,Yes,2,Radio,3
+STR01501,20240204,18,52,Dancing Home,LST1076,USA,Free,Mobile,17,52.3,0.0255,No,1,Album Page,3
+STR00990,20240205,2,5,Midnight Memories,LST1053,Australia,Free,Mobile,6,26.2,0.009,Yes,5,Editorial Playlist,1
+STR01006,20240205,8,24,Fading Stars,LST1007,UK,Student,Tablet,15,37.8,0.063,Yes,0,Radio,2
+STR01238,20240205,8,23,Broken Echoes,LST1274,Brazil,Premium,Mobile,14,53.1,0.098,No,2,Editorial Playlist,2
+STR00294,20240206,8,22,Electric Waves,LST1321,France,Family,Mobile,7,27.1,0.0516,Yes,2,Editorial Playlist,4
+STR00419,20240206,1,1,Electric Memories,LST1277,India,Free,Tablet,9,40.5,0.0135,Yes,3,Search,4
+STR01362,20240206,1,2,Broken Sky,LST1054,UAE,Free,Smart TV,9,38.1,0.0135,Yes,4,Editorial Playlist,1
+STR01696,20240206,4,10,Distant Waves,LST1362,France,Free,Desktop,8,27.4,0.012,No,1,Radio,4
+STR00304,20240207,8,24,Summer Waves,LST1160,UK,Student,Smart Speaker,6,14.6,0.036,Yes,2,Radio,2
+STR00568,20240207,16,47,Electric Home,LST1202,USA,Premium,Mobile,10,26.5,0.08,No,1,Search,2
+STR01173,20240207,4,12,Broken Stars,LST1091,India,Family,Smart TV,7,27.9,0.0516,No,3,User Playlist,1
+STR01184,20240207,18,53,Silent Waves,LST1230,Canada,Family,Tablet,11,36.0,0.0668,No,0,User Playlist,1
+STR01373,20240207,10,30,Shining Stars,LST1270,Germany,Premium,Smart TV,6,27.6,0.062,No,3,Radio,4
+STR00607,20240208,5,14,Midnight Light,LST1336,USA,Free,Tablet,17,41.1,0.0255,Yes,4,Editorial Playlist,3
+STR00266,20240209,6,17,Golden Echoes,LST1374,Brazil,Family,Smart Speaker,11,40.7,0.0668,Yes,1,Search,4
+STR00618,20240209,9,25,Midnight Memories,LST1394,Japan,Family,Smart TV,7,17.8,0.0516,Yes,3,Radio,1
+STR01703,20240209,3,9,Fading Light,LST1351,UAE,Student,Smart TV,1,3.6,0.021,No,2,Editorial Playlist,3
+STR00262,20240210,8,22,Shining Stars,LST1030,France,Free,Mobile,4,11.0,0.006,Yes,5,Radio,3
+STR00741,20240210,11,32,Shining Sky,LST1225,USA,Free,Smart Speaker,13,37.4,0.0195,Yes,5,Radio,5
+STR00746,20240210,17,50,Endless Light,LST1176,UK,Premium,Smart Speaker,17,43.1,0.1115,Yes,3,Radio,5
+STR00987,20240210,17,51,Silent Memories,LST1222,UAE,Student,Smart Speaker,7,15.5,0.039,Yes,2,Editorial Playlist,1
+STR00578,20240211,6,18,Fading Dreams,LST1089,UAE,Premium,Mobile,17,72.4,0.1115,Yes,1,Search,1
+STR01521,20240211,9,25,Distant Home,LST1088,India,Family,Smart Speaker,12,33.7,0.0706,No,0,Radio,3
+STR01699,20240211,20,59,Summer Rain,LST1171,Brazil,Free,Smart TV,11,37.4,0.0165,No,0,Search,2
+STR00856,20240212,5,13,Summer Fire,LST1291,Brazil,Student,Tablet,8,18.5,0.042,Yes,4,Editorial Playlist,5
+STR00339,20240214,6,17,Fading Echoes,LST1261,UAE,Premium,Desktop,13,44.6,0.0935,Yes,0,Radio,5
+STR01071,20240214,15,44,Endless Echoes,LST1201,Brazil,Family,Smart Speaker,7,18.8,0.0516,Yes,0,Editorial Playlist,1
+STR01131,20240214,20,58,Endless Hearts,LST1102,USA,Student,Desktop,16,65.5,0.066,No,4,Radio,2
+STR01190,20240214,20,59,Silent Fire,LST1155,USA,Premium,Smart TV,13,31.6,0.0935,No,3,User Playlist,3
+STR01335,20240214,12,35,Endless Fire,LST1177,Germany,Free,Smart Speaker,2,7.7,0.003,No,2,Album Page,4
+STR01609,20240214,20,58,Endless Sky,LST1093,Australia,Free,Mobile,5,16.0,0.0075,No,3,User Playlist,3
+STR01722,20240215,12,35,Golden Waves,LST1396,USA,Free,Tablet,17,75.9,0.0255,No,3,Editorial Playlist,5
+STR01176,20240217,4,11,Midnight Echoes,LST1011,UAE,Premium,Desktop,12,51.7,0.089,Yes,4,Album Page,2
+STR00238,20240218,9,25,Midnight Waves,LST1049,Brazil,Free,Smart Speaker,7,17.1,0.0105,Yes,5,Radio,5
+STR00755,20240218,8,24,Distant Stars,LST1387,UK,Premium,Mobile,8,22.0,0.071,Yes,4,Search,4
+STR00107,20240219,7,20,Silent Stars,LST1300,Australia,Free,Smart Speaker,2,7.9,0.003,Yes,4,User Playlist,3
+STR01082,20240219,18,52,Midnight Hearts,LST1204,UK,Premium,Smart Speaker,13,56.7,0.0935,Yes,0,Search,5
+STR01489,20240219,16,47,Summer Stars,LST1047,Brazil,Free,Smart Speaker,8,20.0,0.012,Yes,4,Search,4
+STR00619,20240221,3,9,Dancing Road,LST1335,Germany,Free,Tablet,13,32.6,0.0195,Yes,5,Search,4
+STR00379,20240222,10,30,Fading Sky,LST1001,UAE,Free,Smart TV,11,24.1,0.0165,No,3,User Playlist,4
+STR00742,20240222,17,51,Distant Hearts,LST1320,India,Free,Smart TV,3,10.9,0.0045,No,3,Radio,1
+STR01554,20240222,16,48,Broken Light,LST1259,UAE,Family,Desktop,12,53.9,0.0706,No,1,Search,5
+STR01673,20240222,20,59,Midnight Road,LST1186,USA,Free,Smart Speaker,5,22.2,0.0075,Yes,1,Radio,3
+STR01745,20240223,12,34,Electric Stars,LST1241,Germany,Free,Smart TV,12,32.3,0.018,No,5,Album Page,4
+STR00935,20240224,10,28,Dancing Fire,LST1075,Germany,Free,Mobile,10,36.6,0.015,No,2,User Playlist,2
+STR00973,20240224,16,48,Broken Waves,LST1237,Brazil,Free,Tablet,6,25.4,0.009,No,5,Radio,2
+STR01631,20240224,8,22,Distant Dreams,LST1414,Australia,Student,Smart Speaker,1,3.9,0.021,No,2,Editorial Playlist,5
+STR00747,20240226,8,24,Midnight Stars,LST1214,Germany,Premium,Tablet,12,36.3,0.089,Yes,3,User Playlist,3
+STR00775,20240226,15,45,Summer Home,LST1404,India,Premium,Mobile,7,18.3,0.0665,No,5,User Playlist,4
+STR01308,20240227,15,43,Broken Light,LST1241,UAE,Family,Smart Speaker,9,19.4,0.0592,Yes,1,Radio,3
+STR00816,20240228,11,32,Golden Dreams,LST1116,Canada,Family,Tablet,17,43.6,0.0896,Yes,1,Album Page,3
+STR01291,20240228,20,59,Endless Dreams,LST1153,India,Premium,Smart Speaker,15,41.9,0.1025,Yes,5,Search,1
+STR00159,20240229,10,28,Distant Echoes,LST1338,Australia,Premium,Desktop,11,47.7,0.0845,Yes,0,Editorial Playlist,4
+STR01571,20240229,3,8,Fading Hearts,LST1140,Germany,Free,Desktop,17,71.7,0.0255,Yes,0,Album Page,5
+STR01081,20240301,3,8,Little Road,LST1399,Australia,Free,Desktop,2,4.9,0.003,Yes,2,Search,4
+STR00151,20240302,13,39,Dancing Light,LST1229,UK,Premium,Tablet,6,19.7,0.062,Yes,4,Radio,2
+STR00398,20240302,4,12,Dancing Hearts,LST1377,USA,Student,Tablet,7,23.9,0.039,Yes,5,Album Page,1
+STR00842,20240302,16,46,Dancing Sky,LST1006,UAE,Free,Desktop,3,11.4,0.0045,No,3,Radio,2
+STR01048,20240302,19,57,Summer Sky,LST1241,USA,Premium,Smart Speaker,17,41.1,0.1115,Yes,1,User Playlist,4
+STR00601,20240303,3,9,Shining Memories,LST1058,Australia,Free,Tablet,16,39.0,0.024,Yes,0,Album Page,2
+STR00976,20240303,10,28,Electric Home,LST1170,Japan,Premium,Tablet,5,15.0,0.0575,Yes,3,User Playlist,3
+STR00473,20240304,5,14,Summer Memories,LST1422,USA,Free,Smart Speaker,14,53.0,0.021,Yes,2,User Playlist,4
+STR00448,20240305,19,55,Electric Rain,LST1320,Brazil,Free,Tablet,10,41.4,0.015,No,1,Radio,5
+STR01263,20240305,2,5,Shining Fire,LST1003,Japan,Premium,Desktop,2,4.5,0.044,Yes,0,Radio,2
+STR01441,20240305,17,51,Summer Fire,LST1073,France,Free,Desktop,17,59.9,0.0255,Yes,5,Radio,4
+STR00415,20240306,9,25,Endless Sky,LST1392,UAE,Premium,Smart TV,10,44.8,0.08,No,1,User Playlist,3
+STR01251,20240306,13,39,Little Fire,LST1319,Brazil,Family,Smart Speaker,5,17.2,0.044,Yes,1,Editorial Playlist,3
+STR01529,20240306,13,39,Little Light,LST1409,Australia,Premium,Mobile,17,68.0,0.1115,No,0,Radio,3
+STR01651,20240306,15,45,Dancing Home,LST1083,India,Free,Smart Speaker,2,4.2,0.003,Yes,5,Editorial Playlist,5
+STR00079,20240307,17,50,Dancing Stars,LST1171,Canada,Free,Tablet,1,3.7,0.0015,No,1,Album Page,3
+STR00546,20240307,12,35,Electric Home,LST1428,Brazil,Free,Tablet,12,51.1,0.018,No,2,Search,2
+STR01353,20240307,5,14,Broken Sky,LST1119,Germany,Free,Mobile,10,24.5,0.015,Yes,3,Radio,1
+STR01753,20240307,17,49,Summer Rain,LST1202,India,Free,Mobile,7,17.7,0.0105,Yes,0,Search,3
+STR00630,20240308,18,52,Distant Home,LST1068,Japan,Premium,Smart Speaker,12,44.1,0.089,Yes,4,User Playlist,5
+STR00301,20240309,4,12,Dancing Memories,LST1137,Japan,Premium,Desktop,1,2.6,0.0395,No,0,Album Page,1
+STR00671,20240309,5,13,Silent Memories,LST1097,Canada,Family,Smart TV,5,23.2,0.044,No,5,Editorial Playlist,5
+STR01410,20240309,15,45,Little Stars,LST1407,Brazil,Family,Tablet,10,21.8,0.063,Yes,4,User Playlist,2
+STR00096,20240310,16,47,Broken Memories,LST1015,USA,Free,Tablet,15,34.2,0.0225,Yes,4,Editorial Playlist,1
+STR00394,20240310,5,15,Midnight Hearts,LST1445,France,Free,Tablet,3,14.2,0.0045,No,5,User Playlist,4
+STR00420,20240310,19,57,Summer Light,LST1165,Germany,Free,Tablet,8,20.3,0.012,Yes,1,Radio,5
+STR00511,20240310,2,6,Silent Home,LST1040,Australia,Free,Mobile,7,23.0,0.0105,Yes,1,User Playlist,2
+STR00697,20240310,11,33,Shining Waves,LST1032,Brazil,Free,Mobile,14,42.1,0.021,No,1,Album Page,2
+STR01562,20240311,19,56,Dancing Rain,LST1180,USA,Premium,Tablet,10,46.1,0.08,Yes,4,Editorial Playlist,3
+STR00308,20240313,20,58,Endless Light,LST1035,Japan,Premium,Smart Speaker,10,37.3,0.08,No,3,Album Page,4
+STR01458,20240313,3,7,Golden Echoes,LST1440,UK,Student,Desktop,5,19.8,0.033,Yes,1,User Playlist,1
+STR01508,20240313,14,40,Broken Stars,LST1040,India,Family,Smart Speaker,14,31.0,0.0782,No,1,Editorial Playlist,1
+STR00611,20240314,15,43,Silent Road,LST1235,USA,Free,Tablet,17,50.4,0.0255,Yes,1,Search,3
+STR01600,20240314,15,45,Electric Sky,LST1373,Brazil,Free,Smart TV,6,14.4,0.009,Yes,2,Search,4
+STR00300,20240315,14,42,Little Waves,LST1380,UAE,Free,Mobile,10,22.5,0.015,No,0,Album Page,2
+STR01009,20240315,5,14,Fading Memories,LST1241,India,Free,Tablet,13,62.2,0.0195,No,4,Album Page,2
+STR01156,20240315,12,36,Midnight Fire,LST1204,India,Premium,Mobile,3,9.2,0.0485,Yes,3,Radio,5
+STR01079,20240316,14,40,Distant Rain,LST1194,Germany,Free,Tablet,8,24.5,0.012,No,3,Radio,5
+STR01170,20240316,8,24,Distant Waves,LST1186,Brazil,Premium,Smart Speaker,6,26.4,0.062,Yes,0,Radio,2
+STR00236,20240317,1,2,Summer Home,LST1073,USA,Free,Smart TV,3,7.1,0.0045,No,1,User Playlist,2
+STR00886,20240317,12,35,Endless Road,LST1012,Brazil,Premium,Desktop,13,27.3,0.0935,Yes,5,Radio,2
+STR01450,20240317,3,9,Golden Sky,LST1333,India,Premium,Smart TV,10,32.9,0.08,Yes,0,Editorial Playlist,3
+STR01547,20240317,16,47,Broken Waves,LST1425,India,Student,Smart TV,16,49.0,0.066,Yes,4,User Playlist,4
+STR00180,20240318,20,60,Endless Fire,LST1178,UAE,Family,Desktop,4,14.5,0.0402,Yes,4,Editorial Playlist,2
+STR00538,20240318,2,5,Electric Road,LST1033,Canada,Student,Smart TV,3,7.7,0.027,Yes,4,Search,4
+STR01575,20240318,14,41,Endless Memories,LST1417,USA,Family,Tablet,17,59.6,0.0896,No,4,Album Page,2
+STR00042,20240319,20,58,Distant Hearts,LST1273,UAE,Free,Smart TV,4,16.1,0.006,No,4,Editorial Playlist,5
+STR00303,20240319,19,56,Summer Stars,LST1387,UK,Free,Smart Speaker,3,7.8,0.0045,Yes,0,Search,3
+STR00947,20240319,3,9,Shining Echoes,LST1361,USA,Free,Smart Speaker,17,76.2,0.0255,No,5,User Playlist,2
+STR00030,20240320,6,16,Golden Stars,LST1441,France,Free,Desktop,3,10.1,0.0045,Yes,1,Radio,1
+STR00200,20240320,14,41,Silent Dreams,LST1082,France,Free,Desktop,14,49.4,0.021,No,0,Album Page,3
+STR00992,20240320,10,28,Silent Sky,LST1210,Japan,Free,Desktop,15,67.2,0.0225,No,0,Radio,4
+STR00528,20240321,6,18,Golden Waves,LST1166,Brazil,Free,Desktop,6,24.2,0.009,No,1,Search,4
+STR01258,20240321,2,6,Silent Rain,LST1269,Australia,Premium,Mobile,9,32.7,0.0755,No,5,Album Page,2
+STR01536,20240321,9,27,Golden Dreams,LST1095,USA,Free,Smart TV,11,41.4,0.0165,Yes,3,Search,3
+STR01186,20240322,13,39,Endless Fire,LST1298,USA,Free,Smart Speaker,10,45.0,0.015,Yes,0,Radio,5
+STR01204,20240322,2,5,Summer Road,LST1350,UAE,Free,Mobile,1,4.6,0.0015,No,5,Editorial Playlist,1
+STR01209,20240322,4,12,Distant Fire,LST1210,UAE,Free,Tablet,16,75.8,0.024,Yes,3,Editorial Playlist,2
+STR01587,20240322,12,34,Midnight Sky,LST1048,UK,Free,Tablet,10,25.5,0.015,Yes,2,Editorial Playlist,5
+STR01299,20240323,18,53,Broken Stars,LST1059,France,Premium,Smart TV,16,51.8,0.107,Yes,2,Album Page,4
+STR00221,20240324,6,18,Dancing Fire,LST1130,USA,Premium,Tablet,13,51.1,0.0935,Yes,5,Editorial Playlist,5
+STR00593,20240324,18,54,Distant Memories,LST1423,Brazil,Free,Smart TV,14,53.1,0.021,Yes,5,Editorial Playlist,4
+STR00936,20240324,10,29,Summer Waves,LST1391,France,Family,Desktop,15,46.6,0.082,Yes,4,Radio,3
+STR01041,20240324,13,37,Endless Dreams,LST1249,UAE,Free,Smart Speaker,10,26.3,0.015,No,1,Radio,5
+STR00085,20240325,20,60,Endless Light,LST1251,Canada,Free,Smart Speaker,2,5.4,0.003,No,4,Album Page,4
+STR00258,20240325,17,50,Shining Home,LST1259,UK,Student,Tablet,3,7.8,0.027,No,1,Album Page,4
+STR00740,20240325,15,44,Broken Fire,LST1100,UAE,Family,Smart TV,1,3.5,0.0288,No,4,Editorial Playlist,4
+STR00446,20240326,7,21,Dancing Home,LST1288,Australia,Free,Smart TV,3,10.5,0.0045,No,0,Radio,3
+STR00033,20240327,19,55,Silent Stars,LST1117,UAE,Premium,Tablet,17,58.9,0.1115,No,0,User Playlist,3
+STR00217,20240327,4,10,Dancing Stars,LST1054,Japan,Free,Smart TV,11,30.4,0.0165,Yes,3,Search,4
+STR00498,20240327,10,30,Midnight Home,LST1063,USA,Family,Mobile,2,9.1,0.0326,No,4,Search,3
+STR01666,20240327,20,58,Broken Light,LST1242,UAE,Premium,Mobile,15,33.5,0.1025,Yes,2,Search,5
+STR00444,20240328,9,26,Dancing Light,LST1447,France,Free,Smart Speaker,17,70.3,0.0255,No,5,Radio,5
+STR00583,20240328,3,8,Shining Home,LST1357,USA,Free,Desktop,10,41.4,0.015,No,2,User Playlist,3
+STR00666,20240328,9,27,Dancing Fire,LST1281,UK,Premium,Desktop,8,36.7,0.071,No,2,Radio,4
+STR00770,20240328,8,22,Dancing Echoes,LST1228,Japan,Student,Smart TV,15,51.2,0.063,Yes,5,Editorial Playlist,3
+STR00877,20240328,2,6,Summer Light,LST1433,UAE,Free,Smart TV,5,14.2,0.0075,No,2,Editorial Playlist,2
+STR01063,20240328,10,29,Silent Waves,LST1281,UK,Family,Smart Speaker,13,48.7,0.0744,No,1,Album Page,1
+STR01339,20240329,2,5,Dancing Echoes,LST1374,USA,Premium,Smart TV,3,7.5,0.0485,No,3,Editorial Playlist,5
+STR01596,20240329,9,26,Midnight Sky,LST1017,UAE,Free,Tablet,17,60.7,0.0255,Yes,4,Editorial Playlist,5
+STR00106,20240330,6,16,Dancing Memories,LST1374,UAE,Premium,Smart TV,10,22.4,0.08,Yes,0,Album Page,5
+STR00138,20240330,20,58,Broken Echoes,LST1050,Japan,Student,Mobile,10,37.4,0.048,No,1,Album Page,3
+STR00503,20240330,6,17,Electric Hearts,LST1395,France,Student,Tablet,15,43.5,0.063,Yes,2,User Playlist,5
+STR00504,20240330,14,41,Silent Fire,LST1425,Australia,Free,Mobile,11,44.3,0.0165,Yes,0,Radio,3
+STR00156,20240331,16,47,Shining Hearts,LST1278,UK,Free,Tablet,14,55.0,0.021,No,1,User Playlist,3
+STR00958,20240331,4,11,Midnight Fire,LST1159,UAE,Family,Smart TV,11,45.3,0.0668,No,0,User Playlist,5
+STR01325,20240331,8,24,Fading Memories,LST1165,India,Free,Smart Speaker,17,64.4,0.0255,Yes,2,Album Page,5
+STR00594,20240401,4,12,Electric Echoes,LST1117,UK,Free,Smart TV,4,17.3,0.006,Yes,2,Editorial Playlist,4
+STR01648,20240401,11,32,Electric Hearts,LST1337,UK,Family,Smart Speaker,17,47.9,0.0896,No,2,User Playlist,1
+STR01800,20240401,1,2,Shining Fire,LST1224,Canada,Free,Tablet,2,7.6,0.003,Yes,5,Album Page,1
+STR01330,20240402,10,30,Endless Light,LST1202,India,Student,Mobile,6,27.3,0.036,No,2,Album Page,1
+STR01350,20240402,7,20,Dancing Hearts,LST1290,Germany,Premium,Tablet,4,13.7,0.053,Yes,4,Album Page,5
+STR00479,20240403,1,2,Electric Echoes,LST1166,UK,Family,Mobile,16,50.5,0.0858,Yes,1,Radio,2
+STR00725,20240403,4,12,Shining Road,LST1034,Canada,Family,Mobile,16,34.1,0.0858,Yes,4,Radio,1
+STR01525,20240403,19,55,Shining Memories,LST1194,UAE,Free,Desktop,14,48.0,0.021,Yes,1,Album Page,5
+STR00425,20240404,2,6,Midnight Home,LST1370,USA,Free,Tablet,10,26.8,0.015,No,3,Album Page,3
+STR00665,20240404,4,11,Endless Echoes,LST1196,Canada,Premium,Desktop,15,38.9,0.1025,Yes,0,User Playlist,2
+STR01726,20240404,17,49,Silent Memories,LST1081,USA,Free,Desktop,1,2.5,0.0015,Yes,5,Radio,3
+STR00154,20240405,3,7,Shining Home,LST1290,Brazil,Free,Tablet,2,9.3,0.003,Yes,3,User Playlist,4
+STR01496,20240405,14,41,Little Dreams,LST1294,Germany,Free,Tablet,10,31.6,0.015,No,5,Album Page,3
+STR00134,20240406,3,9,Broken Memories,LST1326,France,Free,Smart TV,1,3.5,0.0015,Yes,1,Album Page,1
+STR00163,20240406,10,30,Electric Road,LST1203,USA,Family,Smart TV,4,12.7,0.0402,No,3,Album Page,5
+STR00390,20240406,5,13,Fading Echoes,LST1323,India,Family,Mobile,4,16.6,0.0402,Yes,2,Album Page,5
+STR01365,20240406,19,55,Golden Stars,LST1176,USA,Free,Smart TV,8,23.7,0.012,No,1,User Playlist,4
+STR01646,20240406,20,58,Fading Home,LST1278,UK,Premium,Tablet,9,27.8,0.0755,No,2,Editorial Playlist,3
+STR00324,20240408,12,36,Little Home,LST1234,USA,Free,Desktop,3,7.1,0.0045,Yes,0,Editorial Playlist,1
+STR00668,20240408,17,50,Dancing Home,LST1048,Brazil,Premium,Smart TV,13,61.5,0.0935,No,2,Search,2
+STR01078,20240408,20,59,Silent Echoes,LST1278,India,Free,Smart Speaker,7,21.9,0.0105,No,1,User Playlist,2
+STR01539,20240408,9,27,Summer Rain,LST1120,Germany,Premium,Smart TV,2,9.5,0.044,Yes,0,Radio,5
+STR01615,20240408,8,22,Silent Waves,LST1247,Australia,Premium,Smart TV,12,49.7,0.089,No,5,Radio,4
+STR00543,20240409,3,9,Summer Hearts,LST1412,India,Free,Desktop,11,38.5,0.0165,Yes,3,Radio,5
+STR00402,20240410,18,52,Midnight Rain,LST1149,UAE,Premium,Mobile,3,10.1,0.0485,No,5,User Playlist,5
+STR01062,20240410,9,25,Little Home,LST1090,UAE,Premium,Mobile,12,48.8,0.089,No,0,Album Page,2
+STR01556,20240410,10,30,Golden Home,LST1177,Germany,Premium,Desktop,12,43.1,0.089,Yes,1,Radio,2
+STR00441,20240411,9,26,Little Sky,LST1398,Japan,Free,Smart TV,13,35.9,0.0195,Yes,5,Album Page,4
+STR01248,20240411,5,13,Fading Home,LST1140,UAE,Free,Smart Speaker,2,9.5,0.003,Yes,2,Editorial Playlist,4
+STR00026,20240412,6,16,Fading Dreams,LST1129,Japan,Family,Mobile,16,67.6,0.0858,No,1,Radio,5
+STR00182,20240412,20,58,Midnight Light,LST1222,USA,Student,Mobile,4,17.1,0.03,No,3,User Playlist,1
+STR00340,20240412,9,27,Golden Road,LST1341,Brazil,Premium,Desktop,7,24.1,0.0665,Yes,0,Editorial Playlist,1
+STR00489,20240412,8,22,Golden Memories,LST1233,Canada,Premium,Mobile,9,31.6,0.0755,No,5,Editorial Playlist,4
+STR01165,20240412,15,45,Broken Sky,LST1110,Japan,Free,Mobile,14,39.5,0.021,Yes,0,Radio,2
+STR00049,20240413,2,4,Little Dreams,LST1446,USA,Free,Smart TV,11,50.7,0.0165,Yes,4,User Playlist,3
+STR00810,20240413,4,11,Shining Sky,LST1087,Germany,Premium,Mobile,5,10.6,0.0575,Yes,5,User Playlist,3
+STR00554,20240414,12,36,Broken Light,LST1198,Brazil,Free,Desktop,6,20.3,0.009,Yes,0,Album Page,1
+STR00907,20240414,15,45,Summer Dreams,LST1420,France,Free,Tablet,16,44.3,0.024,No,5,Radio,1
+STR01683,20240414,12,34,Little Light,LST1269,Canada,Free,Tablet,5,22.5,0.0075,Yes,0,Editorial Playlist,2
+STR00128,20240415,17,49,Endless Dreams,LST1263,UK,Free,Mobile,15,55.2,0.0225,No,3,Album Page,4
+STR00248,20240415,4,12,Broken Fire,LST1165,Canada,Free,Tablet,9,35.8,0.0135,Yes,3,Radio,2
+STR00783,20240415,17,50,Little Hearts,LST1125,Brazil,Free,Mobile,7,24.2,0.0105,Yes,2,User Playlist,2
+STR01332,20240415,20,60,Dancing Waves,LST1254,Germany,Free,Desktop,13,29.2,0.0195,Yes,1,Radio,4
+STR00242,20240416,1,3,Fading Memories,LST1171,France,Premium,Tablet,9,34.7,0.0755,No,3,Search,1
+STR00644,20240416,8,22,Silent Sky,LST1395,Japan,Free,Smart Speaker,15,36.4,0.0225,Yes,1,Album Page,2
+STR01655,20240417,7,19,Electric Home,LST1305,Canada,Premium,Tablet,6,24.5,0.062,Yes,5,Radio,5
+STR00177,20240418,16,48,Broken Rain,LST1131,Germany,Premium,Mobile,5,22.4,0.0575,No,5,Album Page,4
+STR00472,20240418,7,20,Broken Sky,LST1326,UK,Free,Smart Speaker,10,35.7,0.015,Yes,0,User Playlist,2
+STR00658,20240418,4,10,Fading Waves,LST1250,India,Premium,Smart TV,11,40.2,0.0845,Yes,0,Editorial Playlist,5
+STR00695,20240418,11,33,Silent Stars,LST1156,USA,Free,Smart TV,15,55.4,0.0225,Yes,2,Editorial Playlist,1
+STR01295,20240418,14,41,Dancing Home,LST1173,UAE,Free,Desktop,10,39.6,0.015,Yes,1,Album Page,4
+STR01327,20240418,8,23,Little Echoes,LST1210,USA,Premium,Desktop,1,4.8,0.0395,No,0,Radio,1
+STR01244,20240419,13,39,Midnight Fire,LST1300,Australia,Premium,Smart TV,10,41.0,0.08,No,4,Editorial Playlist,5
+STR01397,20240419,11,32,Shining Sky,LST1086,Australia,Free,Mobile,5,13.6,0.0075,No,4,Search,4
+STR01418,20240419,10,28,Silent Echoes,LST1146,Japan,Free,Desktop,7,31.6,0.0105,No,0,Radio,4
+STR01783,20240419,5,13,Fading Memories,LST1305,Germany,Family,Tablet,13,39.5,0.0744,Yes,0,Album Page,2
+STR00077,20240420,9,27,Summer Dreams,LST1174,Canada,Premium,Smart Speaker,12,31.6,0.089,Yes,1,User Playlist,4
+STR00824,20240420,13,37,Summer Echoes,LST1183,India,Premium,Mobile,4,12.8,0.053,No,3,Search,4
+STR01201,20240420,2,5,Little Sky,LST1270,India,Family,Mobile,5,15.4,0.044,Yes,4,Radio,1
+STR01690,20240421,7,19,Broken Light,LST1068,Japan,Free,Smart TV,4,12.3,0.006,Yes,1,User Playlist,1
+STR01728,20240421,4,10,Golden Fire,LST1359,UK,Family,Desktop,14,66.3,0.0782,Yes,1,Editorial Playlist,1
+STR01733,20240421,14,42,Distant Home,LST1182,Japan,Free,Tablet,8,30.8,0.012,Yes,0,Album Page,5
+STR00110,20240422,12,34,Midnight Fire,LST1393,Australia,Free,Smart TV,14,52.2,0.021,Yes,2,Search,4
+STR00256,20240422,11,32,Fading Fire,LST1359,Canada,Free,Mobile,3,14.2,0.0045,Yes,4,Search,3
+STR00681,20240422,3,9,Fading Home,LST1309,Germany,Premium,Smart TV,5,22.9,0.0575,Yes,0,User Playlist,1
+STR00766,20240422,10,28,Silent Fire,LST1099,USA,Free,Smart TV,6,23.3,0.009,No,3,User Playlist,1
+STR00949,20240422,5,13,Endless Fire,LST1307,Australia,Premium,Desktop,3,13.6,0.0485,Yes,2,Search,5
+STR01257,20240422,11,32,Golden Dreams,LST1044,Brazil,Free,Tablet,12,43.5,0.018,Yes,5,Album Page,1
+STR00253,20240423,6,16,Endless Dreams,LST1431,Australia,Premium,Mobile,1,4.5,0.0395,Yes,0,User Playlist,4
+STR00604,20240423,17,50,Dancing Rain,LST1296,UK,Family,Smart Speaker,12,26.9,0.0706,No,1,Editorial Playlist,4
+STR01126,20240423,14,40,Golden Dreams,LST1223,USA,Free,Smart TV,13,59.3,0.0195,No,4,User Playlist,5
+STR00567,20240424,12,34,Midnight Light,LST1336,Japan,Free,Smart Speaker,1,4.1,0.0015,Yes,4,User Playlist,1
+STR01375,20240424,17,49,Golden Echoes,LST1041,Canada,Premium,Desktop,17,52.1,0.1115,Yes,2,Album Page,5
+STR01667,20240424,9,25,Shining Dreams,LST1298,USA,Free,Desktop,8,25.8,0.012,Yes,0,User Playlist,4
+STR00470,20240425,3,9,Little Light,LST1193,Germany,Premium,Mobile,17,48.5,0.1115,No,4,Editorial Playlist,5
+STR00657,20240425,12,35,Distant Dreams,LST1073,Brazil,Premium,Desktop,2,7.8,0.044,No,1,Album Page,1
+STR01415,20240426,19,57,Shining Hearts,LST1135,Germany,Premium,Smart TV,12,48.0,0.089,Yes,2,Editorial Playlist,3
+STR00007,20240427,15,44,Little Memories,LST1333,India,Family,Tablet,12,27.6,0.0706,No,1,Radio,5
+STR01574,20240427,11,33,Shining Waves,LST1416,Germany,Free,Smart Speaker,11,41.2,0.0165,No,0,Search,1
+STR01628,20240427,16,46,Fading Rain,LST1050,Australia,Family,Mobile,6,25.4,0.0478,No,3,Radio,1
+STR01207,20240428,3,8,Little Sky,LST1143,Australia,Family,Desktop,12,46.0,0.0706,No,2,Album Page,3
+STR01276,20240428,9,25,Summer Road,LST1298,USA,Premium,Desktop,2,5.3,0.044,Yes,2,Album Page,2
+STR00796,20240429,11,33,Dancing Waves,LST1281,Australia,Free,Desktop,12,35.1,0.018,Yes,1,User Playlist,3
+STR01498,20240429,18,52,Endless Stars,LST1003,France,Premium,Mobile,4,15.9,0.053,Yes,0,User Playlist,3
+STR01656,20240429,5,13,Electric Home,LST1138,France,Free,Smart TV,16,44.1,0.024,No,1,Editorial Playlist,2
+STR00070,20240430,18,54,Endless Echoes,LST1052,Canada,Student,Smart Speaker,16,73.8,0.066,No,2,Album Page,2
+STR00343,20240430,3,9,Electric Rain,LST1270,Japan,Premium,Smart Speaker,9,20.6,0.0755,No,4,User Playlist,5
+STR01316,20240430,16,46,Midnight Sky,LST1169,Canada,Student,Smart TV,2,6.1,0.024,Yes,3,Album Page,5
+STR01357,20240430,6,16,Summer Hearts,LST1083,Germany,Free,Smart TV,8,18.8,0.012,Yes,5,User Playlist,4
+STR01570,20240430,15,45,Golden Fire,LST1384,India,Family,Smart TV,13,47.4,0.0744,Yes,4,Album Page,5
+STR01661,20240430,5,13,Dancing Hearts,LST1263,Canada,Premium,Smart Speaker,8,24.6,0.071,Yes,1,Editorial Playlist,1
+STR00187,20240501,14,40,Distant Dreams,LST1129,Japan,Free,Mobile,12,49.1,0.018,Yes,4,User Playlist,4
+STR00252,20240501,18,54,Midnight Hearts,LST1128,Japan,Free,Smart Speaker,12,38.8,0.018,Yes,3,Radio,4
+STR00798,20240501,19,55,Summer Fire,LST1413,Japan,Free,Tablet,14,66.3,0.021,Yes,5,Radio,1
+STR00423,20240502,16,47,Broken Fire,LST1290,USA,Free,Smart TV,16,41.8,0.024,Yes,4,User Playlist,5
+STR00405,20240503,7,20,Electric Home,LST1225,USA,Premium,Smart TV,16,73.6,0.107,No,2,Search,3
+STR00913,20240504,4,10,Dancing Light,LST1221,Japan,Free,Tablet,10,37.6,0.015,Yes,3,Album Page,4
+STR00424,20240505,3,9,Electric Echoes,LST1270,France,Student,Mobile,9,29.0,0.045,Yes,1,Album Page,1
+STR01153,20240505,14,40,Broken Light,LST1325,USA,Free,Smart TV,1,2.9,0.0015,No,2,Album Page,2
+STR01771,20240505,15,44,Midnight Rain,LST1137,UAE,Free,Tablet,9,43.0,0.0135,No,2,Radio,3
+STR00628,20240506,7,19,Shining Sky,LST1250,UAE,Family,Desktop,5,10.8,0.044,No,3,Search,5
+STR00752,20240506,16,46,Broken Stars,LST1240,France,Premium,Smart Speaker,16,68.2,0.107,Yes,2,Radio,4
+STR01336,20240506,9,26,Summer Fire,LST1324,Canada,Free,Tablet,3,7.0,0.0045,Yes,4,Radio,1
+STR00131,20240507,14,42,Distant Waves,LST1393,USA,Family,Smart TV,17,66.9,0.0896,Yes,2,User Playlist,3
+STR00264,20240507,15,44,Broken Road,LST1140,USA,Free,Smart TV,3,10.7,0.0045,No,0,Search,3
+STR00481,20240508,12,36,Broken Stars,LST1212,Japan,Premium,Desktop,1,2.2,0.0395,No,0,Editorial Playlist,2
+STR00381,20240509,7,21,Shining Sky,LST1204,UAE,Free,Desktop,5,21.2,0.0075,Yes,2,Album Page,2
+STR00894,20240509,20,58,Golden Waves,LST1211,India,Free,Smart Speaker,2,6.0,0.003,Yes,1,Album Page,5
+STR01125,20240509,6,18,Golden Light,LST1229,USA,Premium,Smart Speaker,3,8.8,0.0485,No,1,Editorial Playlist,3
+STR01603,20240509,5,15,Midnight Hearts,LST1011,UAE,Student,Mobile,4,8.9,0.03,No,2,User Playlist,5
+STR01752,20240509,5,13,Summer Home,LST1354,Brazil,Free,Desktop,15,59.7,0.0225,Yes,5,User Playlist,4
+STR01422,20240510,13,37,Midnight Echoes,LST1188,Japan,Premium,Smart Speaker,17,38.2,0.1115,No,3,Search,5
+STR00112,20240511,9,27,Silent Light,LST1022,Japan,Premium,Tablet,2,8.3,0.044,No,1,Editorial Playlist,1
+STR01606,20240511,4,12,Electric Hearts,LST1078,UK,Free,Smart TV,14,63.5,0.021,Yes,2,User Playlist,2
+STR00069,20240512,17,50,Distant Memories,LST1393,India,Family,Tablet,6,20.4,0.0478,No,5,Editorial Playlist,1
+STR00189,20240512,3,9,Endless Sky,LST1395,UAE,Free,Desktop,2,9.5,0.003,No,1,User Playlist,1
+STR00284,20240512,3,7,Electric Light,LST1368,France,Free,Tablet,2,8.1,0.003,No,0,Radio,5
+STR00826,20240512,18,53,Dancing Fire,LST1063,Japan,Student,Desktop,5,14.5,0.033,Yes,5,Editorial Playlist,2
+STR00355,20240513,10,28,Endless Rain,LST1253,Canada,Free,Smart TV,10,34.0,0.015,No,1,Radio,4
+STR01359,20240513,19,55,Golden Hearts,LST1242,Brazil,Free,Smart Speaker,15,64.8,0.0225,Yes,3,Editorial Playlist,1
+STR01649,20240513,7,19,Golden Stars,LST1089,Brazil,Free,Desktop,16,73.9,0.024,No,3,User Playlist,2
+STR00632,20240514,1,1,Fading Home,LST1079,USA,Family,Smart Speaker,12,30.1,0.0706,Yes,2,User Playlist,4
+STR01152,20240515,5,15,Midnight Home,LST1117,UK,Premium,Tablet,12,52.6,0.089,Yes,0,Album Page,3
+STR01383,20240515,18,52,Summer Echoes,LST1352,UK,Free,Smart TV,16,59.4,0.024,Yes,5,Radio,5
+STR01518,20240515,12,34,Midnight Memories,LST1379,Canada,Premium,Smart TV,7,25.8,0.0665,No,3,Album Page,4
+STR01611,20240515,9,25,Summer Echoes,LST1224,UAE,Free,Smart Speaker,12,43.5,0.018,Yes,5,Search,2
+STR01065,20240516,16,46,Midnight Home,LST1355,UAE,Free,Smart TV,9,22.5,0.0135,Yes,5,Radio,5
+STR01680,20240516,12,34,Fading Sky,LST1085,Brazil,Premium,Tablet,3,10.3,0.0485,No,5,Editorial Playlist,3
+STR01046,20240517,18,54,Golden Light,LST1026,France,Free,Mobile,4,12.3,0.006,No,1,Editorial Playlist,2
+STR01254,20240517,17,49,Shining Road,LST1054,Japan,Free,Tablet,7,26.6,0.0105,No,0,Editorial Playlist,3
+STR01371,20240518,10,28,Endless Hearts,LST1048,Brazil,Premium,Smart Speaker,3,7.9,0.0485,Yes,4,User Playlist,3
+STR01791,20240518,1,2,Midnight Memories,LST1142,Canada,Student,Mobile,7,24.5,0.039,Yes,1,Radio,4
+STR01243,20240519,16,46,Endless Waves,LST1445,Brazil,Premium,Mobile,14,43.4,0.098,No,1,Album Page,4
+STR00243,20240520,7,19,Silent Echoes,LST1416,France,Premium,Mobile,7,25.4,0.0665,No,5,Album Page,1
+STR00833,20240520,10,30,Broken Sky,LST1413,France,Student,Tablet,3,10.3,0.027,No,3,Radio,5
+STR00898,20240520,18,54,Endless Rain,LST1430,India,Premium,Smart TV,3,12.9,0.0485,Yes,2,Editorial Playlist,5
+STR00608,20240521,12,36,Little Dreams,LST1066,Japan,Premium,Desktop,8,26.1,0.071,Yes,5,Radio,1
+STR00263,20240522,11,33,Electric Memories,LST1073,Brazil,Free,Mobile,16,60.0,0.024,No,5,Radio,5
+STR00835,20240522,9,27,Golden Road,LST1260,UK,Premium,Mobile,16,64.7,0.107,Yes,3,User Playlist,4
+STR00118,20240523,18,53,Distant Memories,LST1149,Canada,Student,Smart Speaker,15,69.2,0.063,No,5,User Playlist,5
+STR00713,20240523,15,45,Little Stars,LST1062,Brazil,Premium,Smart TV,6,23.7,0.062,Yes,4,User Playlist,1
+STR01490,20240523,5,15,Summer Sky,LST1263,Germany,Family,Tablet,8,18.4,0.0554,No,5,Album Page,2
+STR00558,20240524,15,43,Electric Home,LST1242,USA,Family,Smart TV,7,23.4,0.0516,No,1,Editorial Playlist,4
+STR01507,20240524,10,29,Distant Home,LST1073,USA,Premium,Smart TV,9,38.7,0.0755,Yes,3,Search,5
+STR01424,20240525,5,15,Broken Echoes,LST1400,UK,Free,Smart TV,16,58.5,0.024,Yes,4,Editorial Playlist,1
+STR00146,20240526,13,37,Fading Sky,LST1074,USA,Premium,Tablet,6,21.7,0.062,Yes,4,Editorial Playlist,4
+STR00805,20240526,8,23,Golden Rain,LST1147,Germany,Premium,Desktop,8,29.5,0.071,Yes,0,Album Page,2
+STR00373,20240527,2,6,Summer Echoes,LST1416,Brazil,Premium,Smart TV,12,51.8,0.089,Yes,1,Search,3
+STR00384,20240527,12,35,Summer Fire,LST1249,Brazil,Student,Mobile,14,44.9,0.06,Yes,4,Radio,3
+STR00592,20240527,18,53,Golden Road,LST1006,UAE,Free,Desktop,13,31.7,0.0195,Yes,1,User Playlist,2
+STR01084,20240527,7,19,Silent Echoes,LST1268,UK,Family,Desktop,11,23.9,0.0668,Yes,2,User Playlist,4
+STR01516,20240527,6,17,Midnight Echoes,LST1252,UK,Premium,Mobile,17,76.9,0.1115,Yes,2,Radio,1
+STR00059,20240528,11,31,Summer Hearts,LST1227,Germany,Free,Desktop,7,17.6,0.0105,Yes,3,User Playlist,3
+STR01460,20240529,17,50,Midnight Road,LST1091,Canada,Premium,Desktop,8,35.7,0.071,Yes,3,Album Page,4
+STR01194,20240531,9,25,Silent Memories,LST1141,France,Family,Mobile,16,60.8,0.0858,No,2,Search,5
+STR01592,20240531,2,4,Golden Hearts,LST1339,Germany,Free,Desktop,13,31.5,0.0195,No,2,Search,4
+STR01660,20240531,17,49,Fading Sky,LST1011,UAE,Premium,Mobile,12,33.6,0.089,No,0,Search,1
+STR00455,20240601,17,51,Shining Stars,LST1118,Japan,Free,Smart TV,9,25.7,0.0135,No,1,Radio,1
+STR00792,20240601,20,59,Summer Home,LST1372,UAE,Family,Smart TV,13,43.1,0.0744,Yes,4,Album Page,2
+STR01465,20240602,1,3,Silent Road,LST1110,Australia,Free,Tablet,1,4.5,0.0015,Yes,0,Album Page,2
+STR01709,20240602,20,59,Endless Home,LST1306,UAE,Family,Smart Speaker,10,41.3,0.063,No,0,Search,1
+STR01708,20240603,1,3,Broken Hearts,LST1255,India,Free,Mobile,2,4.6,0.003,Yes,1,User Playlist,5
+STR01430,20240604,7,21,Distant Waves,LST1358,India,Free,Mobile,4,16.8,0.006,Yes,2,Search,3
+STR01115,20240606,15,45,Summer Dreams,LST1357,France,Premium,Smart TV,8,20.2,0.071,Yes,3,Search,5
+STR01302,20240607,16,48,Distant Light,LST1384,Japan,Free,Mobile,14,56.8,0.021,Yes,2,User Playlist,4
+STR00684,20240608,1,2,Little Rain,LST1016,Japan,Free,Smart TV,17,48.6,0.0255,No,4,Editorial Playlist,1
+STR00623,20240609,5,13,Golden Echoes,LST1107,USA,Premium,Mobile,3,6.5,0.0485,Yes,4,Editorial Playlist,5
+STR01075,20240609,2,4,Electric Memories,LST1190,USA,Free,Mobile,11,43.0,0.0165,No,2,User Playlist,3
+STR00977,20240611,17,49,Broken Light,LST1209,UAE,Free,Tablet,3,13.5,0.0045,No,5,Radio,2
+STR01559,20240611,2,5,Summer Dreams,LST1267,USA,Free,Mobile,4,14.2,0.006,Yes,5,User Playlist,5
+STR00083,20240612,9,27,Shining Stars,LST1326,France,Premium,Tablet,2,8.9,0.044,No,5,Radio,4
+STR00696,20240613,7,21,Summer Rain,LST1202,USA,Family,Smart Speaker,8,28.5,0.0554,Yes,5,Search,4
+STR00287,20240615,7,20,Silent Light,LST1343,USA,Free,Smart Speaker,14,41.4,0.021,Yes,2,Search,3
+STR01232,20240615,9,27,Broken Memories,LST1238,UK,Free,Desktop,8,24.5,0.012,Yes,4,Album Page,1
+STR00132,20240616,16,48,Midnight Road,LST1100,USA,Free,Mobile,4,16.3,0.006,No,2,User Playlist,3
+STR01223,20240616,13,38,Fading Home,LST1279,UK,Free,Mobile,13,53.4,0.0195,Yes,3,Search,4
+STR00046,20240617,6,18,Little Dreams,LST1124,Brazil,Premium,Smart TV,6,13.1,0.062,Yes,1,Radio,1
+STR01199,20240617,20,59,Silent Road,LST1385,Australia,Free,Desktop,13,55.2,0.0195,Yes,3,Radio,5
+STR01265,20240617,11,32,Broken Waves,LST1331,Germany,Premium,Tablet,15,47.4,0.1025,No,3,User Playlist,4
+STR01376,20240618,18,54,Shining Home,LST1397,Germany,Free,Tablet,7,30.2,0.0105,No,4,User Playlist,1
+STR00206,20240619,17,51,Midnight Stars,LST1294,Australia,Free,Smart Speaker,8,36.7,0.012,Yes,3,Editorial Playlist,2
+STR00346,20240619,12,36,Broken Rain,LST1006,Germany,Family,Mobile,6,19.6,0.0478,No,0,Album Page,5
+STR00832,20240619,2,4,Summer Stars,LST1166,Canada,Premium,Smart Speaker,15,33.5,0.1025,Yes,5,Editorial Playlist,5
+STR01011,20240619,7,20,Distant Stars,LST1226,Brazil,Student,Desktop,16,56.9,0.066,No,3,Album Page,2
+STR01597,20240619,8,22,Silent Stars,LST1391,USA,Free,Mobile,9,24.1,0.0135,No,0,Radio,3
+STR01008,20240620,4,12,Dancing Light,LST1280,Australia,Student,Tablet,6,25.5,0.036,Yes,2,Search,1
+STR01106,20240620,19,57,Shining Dreams,LST1157,Australia,Family,Tablet,10,38.3,0.063,Yes,2,User Playlist,1
+STR01537,20240620,2,5,Electric Waves,LST1057,India,Student,Desktop,14,60.3,0.06,No,1,Search,1
+STR00047,20240621,7,21,Midnight Sky,LST1171,Germany,Free,Desktop,16,50.2,0.024,Yes,2,Search,2
+STR00357,20240621,13,38,Endless Light,LST1142,India,Free,Tablet,3,9.0,0.0045,No,1,User Playlist,4
+STR00439,20240621,3,9,Electric Rain,LST1042,UK,Free,Smart Speaker,11,39.2,0.0165,No,5,Radio,3
+STR01329,20240621,14,42,Electric Fire,LST1385,France,Premium,Desktop,5,18.7,0.0575,Yes,3,User Playlist,1
+STR00230,20240622,11,32,Little Echoes,LST1298,UAE,Premium,Smart Speaker,8,26.1,0.071,No,0,Search,3
+STR00286,20240622,2,5,Shining Sky,LST1100,USA,Premium,Desktop,5,12.0,0.0575,No,1,Editorial Playlist,4
+STR01028,20240622,8,23,Little Hearts,LST1120,Canada,Student,Desktop,6,20.7,0.036,Yes,0,Editorial Playlist,3
+STR00574,20240623,8,23,Dancing Waves,LST1330,Canada,Free,Desktop,8,33.5,0.012,Yes,3,Radio,1
+STR00985,20240623,15,45,Shining Light,LST1274,France,Family,Tablet,10,25.8,0.063,No,5,Radio,2
+STR00313,20240624,13,38,Fading Waves,LST1065,France,Premium,Tablet,3,8.6,0.0485,Yes,3,Radio,1
+STR00767,20240624,18,53,Distant Stars,LST1020,Australia,Free,Desktop,16,52.6,0.024,No,4,User Playlist,4
+STR00104,20240625,13,39,Endless Echoes,LST1106,Germany,Free,Mobile,13,46.5,0.0195,Yes,1,Album Page,4
+STR00552,20240625,14,42,Fading Home,LST1214,Germany,Family,Tablet,9,25.1,0.0592,Yes,0,Editorial Playlist,4
+STR00971,20240625,17,49,Endless Hearts,LST1314,India,Free,Smart TV,9,39.4,0.0135,No,0,Search,1
+STR01122,20240625,19,55,Fading Sky,LST1037,UK,Premium,Desktop,5,10.8,0.0575,Yes,1,User Playlist,2
+STR01262,20240625,7,21,Summer Light,LST1143,Brazil,Student,Mobile,17,64.6,0.069,Yes,4,User Playlist,1
+STR01226,20240626,6,18,Fading Sky,LST1316,Japan,Free,Mobile,13,62.1,0.0195,No,0,Search,2
+STR00035,20240627,15,44,Silent Hearts,LST1440,USA,Free,Mobile,16,41.7,0.024,Yes,1,Album Page,1
+STR00827,20240627,13,39,Silent Road,LST1208,Australia,Free,Mobile,17,65.7,0.0255,Yes,2,Album Page,2
+STR00844,20240627,11,33,Fading Road,LST1157,UK,Premium,Smart TV,17,65.0,0.1115,Yes,0,Album Page,2
+STR01429,20240627,2,4,Silent Echoes,LST1238,Japan,Free,Tablet,8,17.7,0.012,Yes,1,Search,4
+STR01506,20240627,5,13,Fading Memories,LST1064,USA,Free,Mobile,13,36.4,0.0195,No,5,Editorial Playlist,4
+STR01531,20240627,12,34,Fading Home,LST1291,France,Free,Desktop,2,5.5,0.003,No,3,Album Page,4
+STR01626,20240627,11,32,Shining Road,LST1344,Australia,Premium,Smart Speaker,13,38.1,0.0935,Yes,2,Album Page,3
+STR00551,20240628,19,55,Fading Sky,LST1176,Germany,Free,Smart Speaker,11,38.8,0.0165,Yes,0,User Playlist,2
+STR00577,20240628,2,6,Broken Dreams,LST1324,Brazil,Premium,Desktop,9,25.3,0.0755,No,1,User Playlist,1
+STR00733,20240628,4,11,Little Road,LST1200,UAE,Premium,Smart TV,4,15.3,0.053,Yes,3,Search,2
+STR01174,20240628,8,23,Distant Road,LST1397,Australia,Free,Tablet,11,40.3,0.0165,No,2,Album Page,2
+STR01612,20240628,13,37,Endless Memories,LST1078,UK,Student,Tablet,11,34.6,0.051,No,1,Radio,3
+STR00709,20240629,1,1,Silent Home,LST1002,Brazil,Family,Smart Speaker,12,39.7,0.0706,Yes,4,Search,1
+STR01235,20240629,9,26,Midnight Echoes,LST1012,UAE,Premium,Desktop,17,50.8,0.1115,No,5,Search,1
+STR00228,20240630,4,10,Midnight Sky,LST1346,UK,Free,Smart TV,2,6.2,0.003,No,1,User Playlist,3
+STR00645,20240630,16,46,Endless Stars,LST1195,India,Family,Mobile,11,32.0,0.0668,No,5,User Playlist,2
+STR01283,20240630,1,3,Electric Stars,LST1193,India,Student,Smart TV,6,24.1,0.036,No,4,Search,2
+STR01624,20240630,19,55,Dancing Stars,LST1397,India,Free,Mobile,8,30.7,0.012,No,3,Editorial Playlist,4
+STR00288,20240701,4,12,Endless Memories,LST1247,Australia,Free,Desktop,13,59.6,0.0195,No,1,User Playlist,5
+STR00337,20240701,13,37,Electric Hearts,LST1086,France,Premium,Desktop,3,11.5,0.0485,No,0,Album Page,3
+STR00203,20240702,7,21,Fading Dreams,LST1224,USA,Student,Mobile,14,30.6,0.06,Yes,0,Album Page,4
+STR01133,20240702,7,19,Broken Waves,LST1430,Canada,Family,Smart TV,11,48.8,0.0668,Yes,0,User Playlist,4
+STR01538,20240703,9,25,Endless Memories,LST1209,France,Student,Tablet,10,23.8,0.048,Yes,4,User Playlist,1
+STR00416,20240704,5,15,Electric Memories,LST1130,Australia,Free,Smart Speaker,12,29.4,0.018,Yes,5,Album Page,2
+STR01282,20240704,15,44,Electric Waves,LST1170,India,Free,Tablet,7,30.0,0.0105,No,3,Editorial Playlist,5
+STR01380,20240704,8,22,Silent Road,LST1330,Germany,Family,Smart TV,9,38.5,0.0592,Yes,2,User Playlist,4
+STR01572,20240704,2,5,Broken Light,LST1121,Canada,Free,Mobile,4,9.9,0.006,No,0,Radio,1
+STR01662,20240704,7,21,Little Light,LST1382,India,Premium,Mobile,10,30.8,0.08,Yes,1,Search,3
+STR00639,20240705,12,34,Little Light,LST1449,UAE,Free,Tablet,4,9.6,0.006,Yes,0,User Playlist,2
+STR01027,20240705,18,54,Fading Hearts,LST1238,UK,Premium,Tablet,14,44.1,0.098,Yes,3,Editorial Playlist,1
+STR01145,20240705,13,37,Shining Sky,LST1330,UK,Free,Mobile,11,42.4,0.0165,Yes,2,Editorial Playlist,2
+STR00066,20240706,9,27,Endless Fire,LST1054,India,Student,Mobile,7,32.4,0.039,No,1,Search,1
+STR00653,20240707,19,55,Summer Rain,LST1327,UAE,Family,Smart TV,3,8.6,0.0364,Yes,2,Album Page,4
+STR01799,20240707,4,12,Silent Sky,LST1189,Brazil,Free,Smart TV,1,3.7,0.0015,Yes,2,Editorial Playlist,4
+STR00899,20240708,6,17,Golden Sky,LST1234,France,Free,Smart TV,14,42.5,0.021,No,2,Album Page,4
+STR01524,20240708,13,39,Broken Road,LST1255,Brazil,Free,Desktop,3,8.9,0.0045,Yes,4,Editorial Playlist,5
+STR01222,20240709,6,16,Shining Hearts,LST1259,Japan,Student,Smart Speaker,14,50.5,0.06,Yes,3,Radio,5
+STR00100,20240710,10,28,Silent Home,LST1391,USA,Premium,Desktop,4,12.4,0.053,Yes,3,Search,1
+STR01017,20240711,4,12,Broken Home,LST1028,Japan,Free,Mobile,9,31.0,0.0135,No,5,Radio,5
+STR01179,20240711,12,35,Midnight Memories,LST1302,France,Free,Desktop,11,38.7,0.0165,Yes,5,Editorial Playlist,2
+STR01341,20240712,11,32,Silent Hearts,LST1206,USA,Free,Tablet,4,15.5,0.006,No,5,Search,3
+STR01421,20240712,2,4,Little Light,LST1144,Japan,Premium,Tablet,10,41.0,0.08,Yes,4,Radio,1
+STR01602,20240712,1,2,Endless Hearts,LST1375,UK,Free,Smart TV,10,34.8,0.015,No,4,Search,1
+STR00338,20240713,6,18,Shining Light,LST1041,Canada,Student,Smart Speaker,1,3.3,0.021,Yes,3,Search,4
+STR00981,20240713,5,13,Silent Fire,LST1271,USA,Premium,Smart TV,8,17.5,0.071,No,4,Album Page,4
+STR00012,20240714,7,21,Silent Sky,LST1279,UK,Free,Tablet,11,50.6,0.0165,Yes,0,Album Page,4
+STR01149,20240714,15,45,Endless Memories,LST1318,France,Premium,Smart Speaker,6,13.4,0.062,Yes,3,Radio,1
+STR01393,20240714,15,43,Broken Stars,LST1280,UK,Free,Smart Speaker,13,47.8,0.0195,Yes,4,Search,3
+STR00229,20240715,7,21,Dancing Light,LST1367,Japan,Free,Smart TV,6,17.8,0.009,No,1,Radio,5
+STR00731,20240715,11,31,Broken Stars,LST1228,UAE,Premium,Mobile,14,62.9,0.098,Yes,5,Search,4
+STR00843,20240715,3,9,Silent Dreams,LST1083,UAE,Premium,Smart Speaker,17,48.6,0.1115,Yes,5,Album Page,2
+STR00464,20240716,8,24,Distant Echoes,LST1011,Brazil,Free,Tablet,1,2.5,0.0015,No,0,User Playlist,4
+STR00610,20240716,20,58,Distant Fire,LST1326,Brazil,Free,Smart TV,8,21.0,0.012,No,1,Album Page,1
+STR00499,20240717,20,59,Fading Memories,LST1230,UAE,Free,Mobile,5,11.0,0.0075,Yes,0,Album Page,2
+STR01360,20240718,17,49,Shining Hearts,LST1036,Australia,Free,Smart TV,2,9.4,0.003,No,2,Album Page,2
+STR00225,20240719,19,55,Little Waves,LST1293,France,Free,Mobile,17,48.1,0.0255,Yes,3,Album Page,1
+STR01042,20240719,20,60,Dancing Echoes,LST1194,Canada,Free,Smart Speaker,13,61.2,0.0195,No,0,Editorial Playlist,1
+STR01211,20240719,9,27,Little Memories,LST1172,USA,Free,Mobile,5,15.7,0.0075,Yes,1,Radio,1
+STR00001,20240720,17,51,Silent Memories,LST1101,Canada,Free,Desktop,15,49.9,0.0225,Yes,0,User Playlist,1
+STR00670,20240722,20,58,Distant Memories,LST1062,UK,Premium,Smart Speaker,10,35.8,0.08,Yes,3,Search,3
+STR00912,20240722,13,38,Shining Rain,LST1323,India,Premium,Smart TV,13,60.7,0.0935,Yes,0,Album Page,2
+STR01514,20240722,12,36,Shining Memories,LST1043,Brazil,Family,Mobile,5,22.2,0.044,Yes,0,Search,2
+STR01765,20240722,19,55,Little Echoes,LST1377,USA,Premium,Desktop,3,10.1,0.0485,No,4,Album Page,4
+STR00133,20240723,13,38,Little Memories,LST1267,Japan,Premium,Mobile,17,51.2,0.1115,Yes,5,Album Page,5
+STR00034,20240724,19,56,Distant Dreams,LST1126,USA,Family,Tablet,3,13.2,0.0364,No,1,Search,3
+STR00119,20240724,12,35,Endless Road,LST1188,Australia,Free,Mobile,9,32.0,0.0135,Yes,2,Editorial Playlist,1
+STR00748,20240724,19,57,Distant Light,LST1323,UK,Free,Mobile,6,17.2,0.009,No,5,User Playlist,4
+STR01271,20240724,4,11,Summer Hearts,LST1445,France,Student,Smart Speaker,9,42.7,0.045,Yes,5,User Playlist,3
+STR01719,20240724,1,2,Electric Echoes,LST1264,India,Free,Smart TV,6,28.2,0.009,No,2,Editorial Playlist,2
+STR01720,20240724,2,4,Little Dreams,LST1389,USA,Free,Desktop,9,38.2,0.0135,No,4,Search,5
+STR00293,20240725,2,5,Endless Fire,LST1085,UK,Free,Smart TV,8,37.1,0.012,Yes,4,Radio,2
+STR01637,20240725,7,19,Silent Memories,LST1349,UK,Premium,Mobile,7,30.5,0.0665,No,4,Search,1
+STR00534,20240726,12,35,Electric Hearts,LST1189,Germany,Free,Smart TV,11,28.3,0.0165,Yes,4,User Playlist,3
+STR01102,20240726,4,10,Dancing Memories,LST1128,Brazil,Free,Desktop,8,30.6,0.012,No,2,Radio,4
+STR01130,20240726,5,13,Golden Rain,LST1213,Canada,Family,Desktop,13,52.7,0.0744,Yes,0,Search,4
+STR00019,20240727,16,46,Electric Echoes,LST1063,Brazil,Free,Smart TV,8,26.3,0.012,Yes,3,Editorial Playlist,3
+STR00254,20240727,17,50,Endless Road,LST1067,Brazil,Free,Mobile,4,18.3,0.006,Yes,1,User Playlist,2
+STR00929,20240727,13,39,Midnight Memories,LST1266,USA,Free,Smart Speaker,13,39.9,0.0195,Yes,5,Search,2
+STR00170,20240728,9,25,Dancing Home,LST1089,India,Premium,Smart TV,6,26.5,0.062,No,5,Album Page,5
+STR01713,20240728,6,16,Electric Rain,LST1148,USA,Premium,Smart TV,8,34.5,0.071,No,1,Album Page,5
+STR00201,20240729,16,47,Broken Fire,LST1042,Japan,Family,Tablet,17,74.5,0.0896,Yes,1,Album Page,4
+STR00380,20240729,2,5,Summer Memories,LST1422,India,Free,Desktop,6,27.2,0.009,Yes,0,User Playlist,4
+STR00575,20240729,18,53,Silent Dreams,LST1173,USA,Free,Tablet,9,40.0,0.0135,Yes,3,Radio,4
+STR00950,20240729,18,54,Fading Memories,LST1276,UAE,Free,Smart Speaker,16,62.5,0.024,No,1,Radio,2
+STR00215,20240730,15,45,Shining Echoes,LST1283,Brazil,Free,Tablet,9,27.5,0.0135,No,4,Radio,4
+STR00561,20240730,5,13,Endless Home,LST1327,France,Free,Smart Speaker,4,9.8,0.006,No,2,Search,3
+STR01203,20240730,20,60,Golden Waves,LST1205,UAE,Family,Tablet,14,55.6,0.0782,Yes,2,Radio,2
+STR01761,20240730,18,52,Summer Sky,LST1240,UAE,Premium,Smart TV,14,50.9,0.098,No,5,Radio,5
+STR00062,20240731,18,53,Silent Sky,LST1237,Australia,Family,Desktop,16,40.9,0.0858,No,1,Editorial Playlist,3
+STR01281,20240731,20,58,Silent Rain,LST1077,USA,Family,Mobile,8,17.1,0.0554,Yes,0,Search,1
+STR00834,20240801,5,13,Summer Waves,LST1372,Germany,Premium,Mobile,11,48.6,0.0845,Yes,5,Editorial Playlist,4
+STR01171,20240802,7,21,Endless Road,LST1364,India,Free,Smart TV,10,28.4,0.015,Yes,0,User Playlist,3
+STR00516,20240803,4,11,Broken Home,LST1323,Germany,Family,Smart Speaker,11,33.7,0.0668,No,2,Album Page,2
+STR01366,20240803,15,45,Endless Memories,LST1242,Germany,Free,Tablet,16,44.6,0.024,Yes,4,Album Page,3
+STR01540,20240803,2,6,Fading Echoes,LST1035,India,Free,Desktop,8,28.2,0.012,Yes,1,Editorial Playlist,5
+STR00139,20240804,6,17,Summer Echoes,LST1023,USA,Free,Desktop,4,18.4,0.006,No,3,Search,3
+STR01058,20240804,10,28,Golden Hearts,LST1156,Japan,Free,Smart TV,17,67.8,0.0255,No,2,Editorial Playlist,3
+STR01301,20240804,17,49,Electric Light,LST1190,Japan,Free,Desktop,11,44.3,0.0165,No,2,Radio,1
+STR01582,20240804,10,30,Broken Stars,LST1300,India,Family,Tablet,16,75.3,0.0858,No,5,Album Page,1
+STR01627,20240804,4,10,Endless Home,LST1389,Australia,Free,Smart TV,16,34.6,0.024,Yes,3,Editorial Playlist,4
+STR00358,20240805,14,42,Little Hearts,LST1061,France,Free,Tablet,7,23.0,0.0105,No,3,Search,1
+STR00959,20240805,6,18,Silent Dreams,LST1110,Germany,Free,Smart TV,15,52.8,0.0225,Yes,2,Editorial Playlist,1
+STR00073,20240806,18,52,Dancing Waves,LST1018,UK,Free,Smart TV,11,42.5,0.0165,Yes,3,Radio,4
+STR00691,20240806,14,42,Silent Waves,LST1440,USA,Family,Desktop,9,29.7,0.0592,Yes,5,Editorial Playlist,2
+STR01036,20240806,10,28,Fading Hearts,LST1087,India,Family,Desktop,2,4.4,0.0326,No,3,Editorial Playlist,1
+STR01120,20240806,6,16,Shining Fire,LST1203,Australia,Student,Smart Speaker,2,5.3,0.024,No,3,User Playlist,4
+STR00162,20240807,14,41,Electric Sky,LST1002,France,Free,Tablet,6,19.8,0.009,Yes,1,Radio,1
+STR01123,20240807,16,47,Electric Dreams,LST1211,Brazil,Free,Mobile,3,7.4,0.0045,No,3,Editorial Playlist,3
+STR00027,20240808,16,46,Shining Rain,LST1442,UK,Free,Smart Speaker,17,37.6,0.0255,Yes,5,Radio,3
+STR00522,20240808,5,13,Midnight Road,LST1359,India,Premium,Tablet,13,60.5,0.0935,No,4,Album Page,4
+STR00648,20240808,1,3,Distant Dreams,LST1106,Japan,Free,Tablet,15,53.8,0.0225,No,3,Radio,2
+STR01087,20240808,15,43,Endless Road,LST1378,France,Free,Smart Speaker,17,61.4,0.0255,Yes,1,Editorial Playlist,5
+STR01196,20240808,19,55,Electric Echoes,LST1178,Japan,Premium,Desktop,15,46.9,0.1025,Yes,0,Editorial Playlist,1
+STR01321,20240808,17,49,Broken Echoes,LST1097,UK,Free,Mobile,5,13.2,0.0075,Yes,4,Radio,1
+STR01543,20240808,7,21,Broken Echoes,LST1271,UK,Free,Tablet,4,14.9,0.006,Yes,3,Album Page,2
+STR01741,20240809,3,9,Distant Rain,LST1085,USA,Family,Tablet,2,9.1,0.0326,No,4,Search,2
+STR01772,20240809,1,2,Golden Echoes,LST1326,Canada,Free,Mobile,15,52.7,0.0225,No,0,User Playlist,5
+STR00672,20240810,2,5,Fading Stars,LST1050,France,Family,Desktop,9,34.0,0.0592,No,5,Radio,2
+STR00875,20240810,6,18,Fading Waves,LST1374,Australia,Student,Smart Speaker,9,23.9,0.045,No,4,Editorial Playlist,1
+STR01558,20240810,10,29,Broken Rain,LST1092,Canada,Free,Smart Speaker,16,50.6,0.024,No,4,Editorial Playlist,4
+STR00825,20240811,14,42,Endless Dreams,LST1083,UK,Free,Tablet,13,31.1,0.0195,Yes,3,User Playlist,3
+STR01111,20240811,1,1,Silent Road,LST1318,Germany,Free,Desktop,9,40.1,0.0135,No,2,Editorial Playlist,4
+STR00906,20240812,13,38,Silent Road,LST1419,USA,Premium,Mobile,5,15.4,0.0575,Yes,1,Editorial Playlist,1
+STR01499,20240812,18,53,Midnight Echoes,LST1032,France,Family,Tablet,14,35.9,0.0782,No,0,User Playlist,2
+STR00053,20240814,11,31,Silent Rain,LST1347,UK,Family,Smart Speaker,8,18.8,0.0554,No,0,Search,1
+STR00120,20240814,4,12,Electric Echoes,LST1107,Japan,Free,Mobile,7,24.7,0.0105,Yes,5,Editorial Playlist,5
+STR00246,20240814,17,51,Silent Rain,LST1450,India,Family,Smart Speaker,14,29.7,0.0782,Yes,0,Radio,4
+STR00780,20240815,9,27,Distant Rain,LST1248,Brazil,Free,Tablet,1,3.6,0.0015,No,3,User Playlist,1
+STR00469,20240816,10,29,Shining Memories,LST1254,Germany,Family,Smart Speaker,15,34.0,0.082,Yes,1,Search,2
+STR01182,20240816,10,28,Silent Rain,LST1115,USA,Free,Smart TV,16,64.5,0.024,No,5,Radio,3
+STR01541,20240816,20,58,Distant Road,LST1090,UAE,Free,Smart TV,14,36.2,0.021,No,0,User Playlist,4
+STR00167,20240817,12,36,Silent Memories,LST1015,Japan,Student,Smart Speaker,9,22.4,0.045,Yes,4,User Playlist,2
+STR00468,20240817,12,36,Summer Dreams,LST1422,France,Premium,Tablet,11,46.8,0.0845,Yes,5,User Playlist,1
+STR00734,20240817,20,58,Summer Light,LST1314,UAE,Premium,Smart TV,9,33.1,0.0755,Yes,1,Editorial Playlist,3
+STR00754,20240817,11,31,Endless Memories,LST1108,Canada,Family,Mobile,11,52.2,0.0668,Yes,5,Radio,2
+STR00029,20240818,6,18,Shining Rain,LST1204,Japan,Premium,Mobile,2,8.8,0.044,Yes,0,User Playlist,3
+STR00088,20240818,17,50,Endless Light,LST1090,Brazil,Free,Mobile,2,5.8,0.003,No,0,User Playlist,4
+STR00519,20240818,20,59,Distant Light,LST1419,Australia,Student,Tablet,4,8.9,0.03,Yes,1,Search,3
+STR00058,20240819,1,3,Summer Stars,LST1148,France,Free,Desktop,13,44.9,0.0195,Yes,2,Album Page,2
+STR00688,20240819,20,59,Midnight Echoes,LST1386,Canada,Premium,Smart Speaker,8,32.5,0.071,Yes,4,Radio,2
+STR00708,20240819,2,6,Summer Waves,LST1097,UK,Premium,Mobile,13,52.2,0.0935,No,1,Search,2
+STR00897,20240819,10,28,Broken Home,LST1127,Germany,Premium,Tablet,1,4.6,0.0395,Yes,0,Radio,1
+STR01324,20240819,20,58,Little Stars,LST1089,Canada,Free,Tablet,14,43.5,0.021,Yes,3,Radio,4
+STR00245,20240820,15,44,Electric Road,LST1110,USA,Free,Smart Speaker,14,61.7,0.021,Yes,1,Editorial Playlist,4
+STR00274,20240820,10,29,Electric Light,LST1115,Japan,Free,Smart Speaker,7,19.0,0.0105,No,0,Radio,4
+STR01296,20240820,11,33,Fading Fire,LST1180,France,Premium,Smart TV,13,27.5,0.0935,No,3,User Playlist,5
+STR01306,20240820,5,13,Broken Hearts,LST1264,Australia,Family,Smart Speaker,17,56.3,0.0896,Yes,2,User Playlist,4
+STR01155,20240821,12,34,Broken Memories,LST1385,Japan,Premium,Smart TV,8,19.9,0.071,No,3,Album Page,2
+STR01159,20240821,18,54,Distant Echoes,LST1291,Australia,Free,Smart TV,16,59.8,0.024,Yes,1,Editorial Playlist,4
+STR01247,20240821,4,12,Dancing Light,LST1151,UAE,Free,Smart Speaker,10,25.6,0.015,Yes,3,Search,5
+STR01476,20240821,9,26,Fading Rain,LST1395,Canada,Premium,Tablet,16,45.2,0.107,Yes,2,User Playlist,3
+STR01736,20240821,2,4,Endless Memories,LST1325,UAE,Family,Tablet,3,13.9,0.0364,No,0,Search,1
+STR00041,20240822,16,47,Shining Memories,LST1337,Brazil,Student,Smart TV,12,29.4,0.054,No,5,Album Page,5
+STR00123,20240822,1,1,Dancing Hearts,LST1285,UK,Premium,Desktop,15,62.2,0.1025,No,5,Radio,4
+STR00315,20240822,10,28,Summer Rain,LST1250,Germany,Free,Desktop,5,11.8,0.0075,Yes,3,User Playlist,5
+STR01124,20240823,3,7,Broken Hearts,LST1050,Canada,Family,Mobile,6,27.4,0.0478,Yes,3,Editorial Playlist,2
+STR01224,20240823,6,16,Midnight Road,LST1116,UK,Free,Smart TV,3,14.2,0.0045,No,5,Search,1
+STR01670,20240823,19,56,Broken Hearts,LST1258,Brazil,Premium,Desktop,13,51.4,0.0935,Yes,5,User Playlist,4
+STR00327,20240824,8,22,Dancing Light,LST1052,France,Premium,Tablet,3,10.8,0.0485,Yes,1,Search,5
+STR00969,20240825,4,12,Midnight Stars,LST1306,Australia,Family,Tablet,11,44.4,0.0668,Yes,3,Search,4
+STR01108,20240825,9,26,Fading Stars,LST1250,Germany,Student,Smart TV,7,28.0,0.039,No,1,Album Page,1
+STR00352,20240827,11,31,Shining Home,LST1227,UAE,Free,Smart Speaker,12,47.0,0.018,No,0,Album Page,3
+STR00366,20240828,18,53,Midnight Sky,LST1031,USA,Free,Mobile,15,65.3,0.0225,Yes,2,Album Page,5
+STR00815,20240828,6,17,Fading Rain,LST1200,Japan,Family,Desktop,12,36.4,0.0706,No,1,User Playlist,3
+STR01635,20240828,15,44,Midnight Home,LST1358,USA,Premium,Mobile,9,29.8,0.0755,Yes,4,User Playlist,5
+STR01234,20240829,5,15,Dancing Road,LST1198,USA,Premium,Smart Speaker,6,18.3,0.062,Yes,2,Album Page,3
+STR01789,20240829,5,14,Midnight Echoes,LST1060,France,Premium,Tablet,7,18.9,0.0665,Yes,4,Radio,3
+STR00014,20240830,4,10,Golden Fire,LST1153,Brazil,Free,Smart Speaker,15,34.4,0.0225,Yes,4,Editorial Playlist,4
+STR00865,20240830,17,50,Little Dreams,LST1141,USA,Free,Tablet,6,17.9,0.009,No,0,Album Page,1
+STR01497,20240830,13,39,Fading Home,LST1381,Brazil,Family,Smart Speaker,2,5.2,0.0326,Yes,4,Radio,3
+STR00458,20240831,10,28,Summer Dreams,LST1298,Japan,Free,Mobile,4,15.2,0.006,No,2,User Playlist,5
+STR00789,20240831,18,53,Electric Road,LST1155,Germany,Premium,Tablet,15,46.3,0.1025,No,0,Radio,3
+STR01214,20240831,6,17,Broken Echoes,LST1322,Germany,Free,Desktop,2,7.3,0.003,No,1,Radio,3
+STR01231,20240831,11,31,Midnight Fire,LST1098,India,Family,Mobile,6,27.3,0.0478,Yes,0,Radio,2
+STR01625,20240831,19,57,Summer Home,LST1190,USA,Premium,Desktop,5,21.3,0.0575,No,1,User Playlist,1
+STR00207,20240901,19,57,Electric Echoes,LST1033,Japan,Premium,Desktop,1,4.7,0.0395,No,0,Editorial Playlist,4
+STR00750,20240901,3,8,Golden Dreams,LST1164,UK,Student,Tablet,14,56.8,0.06,No,3,Radio,1
+STR00091,20240902,1,3,Little Sky,LST1427,Japan,Premium,Desktop,17,70.4,0.1115,Yes,1,Search,3
+STR00347,20240904,4,12,Electric Light,LST1272,Germany,Free,Desktop,10,43.9,0.015,Yes,0,Editorial Playlist,5
+STR00862,20240904,19,56,Endless Waves,LST1108,UK,Free,Desktop,5,21.0,0.0075,Yes,1,Album Page,1
+STR00896,20240904,10,30,Summer Light,LST1200,Canada,Premium,Tablet,11,30.5,0.0845,Yes,2,Album Page,4
+STR01491,20240904,16,48,Summer Fire,LST1162,USA,Free,Mobile,7,26.5,0.0105,No,2,Album Page,4
+STR00880,20240905,10,30,Dancing Memories,LST1081,Canada,Free,Smart TV,4,15.4,0.006,Yes,0,Search,1
+STR01502,20240905,16,48,Summer Waves,LST1269,Australia,Free,Desktop,9,25.0,0.0135,No,0,Search,3
+STR01620,20240905,16,48,Midnight Road,LST1425,UK,Free,Tablet,12,53.0,0.018,Yes,0,Radio,1
+STR01050,20240906,16,47,Golden Waves,LST1431,UK,Premium,Desktop,5,13.1,0.0575,Yes,0,Radio,3
+STR01694,20240906,3,8,Shining Fire,LST1355,USA,Student,Tablet,7,28.2,0.039,Yes,4,Search,1
+STR00711,20240907,19,56,Fading Road,LST1139,UAE,Premium,Mobile,10,47.9,0.08,No,1,Search,3
+STR01092,20240907,19,55,Broken Stars,LST1326,Canada,Free,Tablet,6,14.0,0.009,No,2,Search,5
+STR01431,20240907,20,58,Electric Fire,LST1191,Japan,Premium,Tablet,14,66.9,0.098,No,4,Album Page,5
+STR01698,20240907,18,53,Midnight Rain,LST1057,USA,Free,Tablet,2,6.2,0.003,Yes,0,Album Page,3
+STR01750,20240907,4,11,Broken Memories,LST1099,Japan,Premium,Tablet,16,34.4,0.107,Yes,1,Editorial Playlist,5
+STR01794,20240907,10,30,Little Rain,LST1224,UK,Student,Smart Speaker,13,44.0,0.057,Yes,2,Album Page,5
+STR01077,20240908,16,48,Broken Echoes,LST1076,France,Free,Desktop,3,7.0,0.0045,No,3,Album Page,5
+STR01367,20240908,7,21,Electric Sky,LST1244,UK,Premium,Mobile,4,8.5,0.053,No,4,Editorial Playlist,3
+STR01513,20240908,20,59,Silent Dreams,LST1300,Australia,Free,Smart TV,15,66.2,0.0225,Yes,4,Album Page,5
+STR00956,20240910,20,60,Summer Waves,LST1037,UK,Free,Smart Speaker,12,54.7,0.018,No,2,Search,5
+STR01103,20240910,15,44,Electric Sky,LST1223,UK,Premium,Tablet,9,35.6,0.0755,No,3,Search,5
+STR01127,20240910,20,60,Electric Echoes,LST1102,Germany,Student,Mobile,15,37.7,0.063,No,3,Editorial Playlist,3
+STR01312,20240910,11,32,Golden Echoes,LST1031,Japan,Free,Smart Speaker,4,12.8,0.006,Yes,3,Editorial Playlist,2
+STR01032,20240911,16,46,Little Rain,LST1150,UK,Student,Smart Speaker,15,66.7,0.063,Yes,4,User Playlist,2
+STR01477,20240911,15,44,Midnight Rain,LST1049,France,Free,Tablet,12,34.2,0.018,Yes,5,Radio,2
+STR00699,20240913,8,24,Dancing Home,LST1155,Germany,Free,Mobile,3,8.2,0.0045,No,2,Radio,4
+STR01083,20240913,4,11,Little Road,LST1017,France,Student,Smart Speaker,8,17.4,0.042,Yes,0,User Playlist,2
+STR01551,20240916,10,28,Midnight Stars,LST1128,Japan,Premium,Mobile,3,8.4,0.0485,Yes,4,Radio,2
+STR00241,20240918,2,4,Electric Fire,LST1173,Australia,Premium,Tablet,3,13.8,0.0485,Yes,2,User Playlist,5
+STR01405,20240919,9,25,Distant Waves,LST1135,Brazil,Free,Desktop,1,3.0,0.0015,No,1,Album Page,5
+STR01419,20240919,3,9,Little Sky,LST1301,France,Student,Tablet,2,6.4,0.024,No,5,Search,5
+STR01647,20240919,3,9,Summer Hearts,LST1062,USA,Student,Smart TV,7,30.5,0.039,No,1,Editorial Playlist,4
+STR00485,20240920,9,27,Distant Home,LST1001,Brazil,Premium,Smart Speaker,4,18.7,0.053,Yes,4,Editorial Playlist,3
+STR00718,20240920,12,36,Dancing Road,LST1197,Japan,Student,Smart Speaker,8,29.3,0.042,Yes,1,Editorial Playlist,4
+STR01292,20240921,5,15,Fading Hearts,LST1122,USA,Premium,Tablet,14,31.1,0.098,No,5,Search,3
+STR01645,20240921,1,1,Endless Waves,LST1418,Canada,Family,Desktop,11,27.9,0.0668,Yes,0,User Playlist,1
+STR01773,20240921,3,7,Golden Stars,LST1011,Australia,Free,Desktop,16,37.0,0.024,Yes,3,Editorial Playlist,5
+STR00021,20240922,19,57,Dancing Rain,LST1294,Australia,Premium,Smart Speaker,6,14.4,0.062,Yes,2,Editorial Playlist,2
+STR01493,20240922,14,41,Distant Fire,LST1230,Japan,Student,Smart TV,1,3.1,0.021,No,0,Album Page,1
+STR00466,20240923,8,24,Fading Waves,LST1008,France,Family,Smart Speaker,3,8.0,0.0364,Yes,3,Search,1
+STR00772,20240923,8,24,Shining Road,LST1286,France,Family,Smart Speaker,6,22.5,0.0478,Yes,2,Album Page,2
+STR00350,20240924,6,18,Midnight Road,LST1237,Brazil,Free,Smart TV,6,26.9,0.009,Yes,5,Search,3
+STR00858,20240924,15,45,Endless Stars,LST1373,UK,Free,Smart Speaker,1,3.0,0.0015,Yes,2,Radio,5
+STR01080,20240924,18,53,Summer Light,LST1293,UAE,Premium,Smart TV,17,40.8,0.1115,Yes,4,Radio,2
+STR01776,20240924,15,43,Midnight Home,LST1050,UAE,Free,Smart Speaker,16,39.6,0.024,Yes,4,Editorial Playlist,4
+STR00113,20240925,6,16,Broken Home,LST1337,Canada,Free,Smart Speaker,6,13.8,0.009,Yes,2,Radio,4
+STR00348,20240925,8,23,Shining Memories,LST1228,Germany,Free,Smart Speaker,16,43.2,0.024,No,2,Radio,2
+STR00991,20240926,9,27,Little Home,LST1375,UK,Free,Tablet,4,8.7,0.006,Yes,4,Search,4
+STR00871,20240927,1,2,Endless Sky,LST1174,Canada,Free,Smart TV,17,58.2,0.0255,No,0,Radio,1
+STR00052,20240928,20,58,Endless Memories,LST1139,USA,Premium,Desktop,13,59.9,0.0935,Yes,5,Search,5
+STR00629,20240928,15,45,Summer Home,LST1295,Brazil,Student,Smart Speaker,11,42.7,0.051,Yes,1,User Playlist,2
+STR01584,20240928,20,60,Distant Memories,LST1439,USA,Premium,Smart Speaker,6,24.4,0.062,Yes,3,User Playlist,2
+STR01687,20240928,14,42,Electric Dreams,LST1111,Australia,Free,Tablet,8,19.6,0.012,No,4,Editorial Playlist,2
+STR00764,20240929,10,28,Distant Echoes,LST1317,Canada,Free,Smart Speaker,5,15.3,0.0075,Yes,1,Album Page,2
+STR00988,20240929,15,45,Electric Stars,LST1380,India,Free,Smart Speaker,13,30.3,0.0195,No,5,Radio,3
+STR01657,20240929,8,24,Summer Echoes,LST1187,Brazil,Free,Tablet,10,30.9,0.015,No,5,User Playlist,3
+STR00094,20240930,16,48,Dancing Waves,LST1174,UK,Free,Tablet,7,18.1,0.0105,Yes,0,User Playlist,2
+STR00218,20240930,10,28,Little Hearts,LST1083,India,Free,Desktop,14,35.7,0.021,Yes,1,Search,5
+STR00296,20240930,20,60,Fading Memories,LST1073,Canada,Family,Smart TV,12,36.0,0.0706,Yes,4,Search,3
+STR01577,20241001,11,31,Golden Road,LST1425,Brazil,Free,Tablet,1,2.6,0.0015,Yes,4,Search,1
+STR00490,20241002,19,56,Dancing Home,LST1140,France,Premium,Tablet,13,41.3,0.0935,Yes,3,Album Page,1
+STR00633,20241002,19,56,Midnight Memories,LST1447,Japan,Student,Mobile,17,46.5,0.069,No,5,Editorial Playlist,2
+STR01468,20241002,18,52,Silent Home,LST1426,Germany,Family,Tablet,5,10.9,0.044,Yes,5,Album Page,3
+STR01492,20241002,17,51,Electric Hearts,LST1430,UAE,Free,Mobile,9,23.5,0.0135,Yes,5,Radio,5
+STR00099,20241004,13,38,Little Sky,LST1373,Japan,Premium,Smart Speaker,6,14.8,0.062,Yes,0,Search,4
+STR00354,20241004,7,19,Endless Home,LST1018,Germany,Premium,Mobile,16,47.8,0.107,Yes,1,Radio,2
+STR01438,20241004,19,56,Distant Fire,LST1169,Canada,Family,Desktop,12,37.1,0.0706,Yes,0,Editorial Playlist,3
+STR01665,20241004,5,14,Silent Rain,LST1298,USA,Free,Smart TV,17,65.5,0.0255,Yes,0,User Playlist,3
+STR01005,20241006,7,19,Little Echoes,LST1246,Canada,Free,Smart TV,14,32.2,0.021,No,1,Editorial Playlist,2
+STR00478,20241007,18,54,Fading Fire,LST1107,Germany,Family,Smart Speaker,9,25.8,0.0592,Yes,3,User Playlist,2
+STR00737,20241007,14,42,Endless Rain,LST1387,USA,Premium,Mobile,12,52.6,0.089,Yes,0,Album Page,4
+STR00879,20241007,11,33,Shining Waves,LST1337,UK,Free,Mobile,9,23.1,0.0135,No,3,Search,3
+STR01313,20241007,16,46,Little Echoes,LST1074,Australia,Premium,Smart TV,6,23.3,0.062,Yes,2,Editorial Playlist,2
+STR00334,20241008,13,37,Endless Memories,LST1289,France,Free,Smart Speaker,3,12.1,0.0045,No,3,User Playlist,5
+STR01188,20241008,14,42,Midnight Hearts,LST1252,UAE,Free,Mobile,7,23.7,0.0105,Yes,4,Editorial Playlist,1
+STR01481,20241008,2,5,Silent Waves,LST1276,UK,Premium,Desktop,13,28.7,0.0935,Yes,5,Search,3
+STR01601,20241008,15,45,Summer Light,LST1074,USA,Student,Tablet,9,32.7,0.045,No,5,Editorial Playlist,2
+STR01105,20241009,13,39,Golden Hearts,LST1148,UK,Free,Smart Speaker,6,27.9,0.009,Yes,5,Search,3
+STR00786,20241010,1,2,Dancing Stars,LST1079,Canada,Free,Smart TV,15,55.0,0.0225,Yes,2,Radio,1
+STR01349,20241010,16,48,Little Memories,LST1163,France,Premium,Tablet,8,31.0,0.071,Yes,5,Editorial Playlist,5
+STR00529,20241012,11,31,Midnight Memories,LST1247,Japan,Student,Desktop,4,13.2,0.03,No,1,Editorial Playlist,5
+STR00814,20241013,19,56,Golden Fire,LST1056,USA,Premium,Desktop,13,51.0,0.0935,No,0,Editorial Playlist,5
+STR00893,20241013,12,36,Electric Waves,LST1354,Japan,Premium,Tablet,15,55.5,0.1025,Yes,3,User Playlist,3
+STR01072,20241013,5,13,Shining Light,LST1230,France,Free,Smart TV,10,24.1,0.015,Yes,0,Editorial Playlist,2
+STR00272,20241014,16,47,Dancing Sky,LST1142,Australia,Free,Smart Speaker,3,7.4,0.0045,Yes,5,Editorial Playlist,5
+STR01003,20241014,6,16,Fading Rain,LST1166,USA,Free,Tablet,10,38.6,0.015,Yes,1,Search,3
+STR01641,20241014,13,39,Broken Dreams,LST1009,UAE,Family,Tablet,16,67.2,0.0858,Yes,5,Radio,3
+STR01732,20241014,9,27,Silent Memories,LST1031,Brazil,Family,Mobile,1,3.4,0.0288,Yes,5,Radio,3
+STR01198,20241015,5,13,Silent Echoes,LST1339,UK,Free,Smart TV,3,11.0,0.0045,No,3,Album Page,3
+STR01414,20241015,15,43,Broken Memories,LST1370,Canada,Free,Desktop,16,68.6,0.024,Yes,5,Search,5
+STR01474,20241015,15,45,Dancing Road,LST1041,Australia,Free,Desktop,7,27.8,0.0105,Yes,2,Radio,2
+STR01494,20241015,7,21,Distant Hearts,LST1185,Germany,Free,Mobile,12,53.5,0.018,No,4,Search,5
+STR01779,20241015,7,19,Dancing Light,LST1414,Brazil,Student,Smart Speaker,1,4.2,0.021,No,2,Editorial Playlist,5
+STR01386,20241016,15,45,Golden Stars,LST1227,UAE,Free,Desktop,9,41.2,0.0135,Yes,1,Radio,4
+STR00160,20241017,18,53,Dancing Home,LST1314,USA,Student,Tablet,5,22.1,0.033,Yes,0,User Playlist,5
+STR01040,20241017,18,54,Midnight Fire,LST1030,Brazil,Family,Mobile,8,28.4,0.0554,No,2,Radio,1
+STR01723,20241017,17,49,Broken Fire,LST1081,Japan,Premium,Desktop,9,42.0,0.0755,Yes,3,User Playlist,3
+STR00888,20241018,5,13,Summer Waves,LST1186,Brazil,Premium,Smart Speaker,11,45.3,0.0845,Yes,5,Album Page,4
+STR00677,20241019,18,52,Fading Road,LST1123,UK,Student,Smart TV,6,28.7,0.036,No,1,Editorial Playlist,2
+STR01676,20241019,7,20,Midnight Waves,LST1129,Brazil,Free,Smart TV,3,14.3,0.0045,Yes,1,User Playlist,2
+STR01022,20241020,3,9,Shining Dreams,LST1378,Japan,Premium,Desktop,3,13.4,0.0485,Yes,4,User Playlist,1
+STR01567,20241021,13,38,Fading Fire,LST1136,Canada,Free,Smart TV,16,49.6,0.024,Yes,4,Editorial Playlist,2
+STR01780,20241021,9,25,Fading Road,LST1287,India,Student,Smart TV,9,43.1,0.045,Yes,2,Search,5
+STR01793,20241021,18,53,Golden Light,LST1366,UK,Free,Tablet,6,18.8,0.009,No,0,User Playlist,2
+STR00305,20241022,4,12,Distant Light,LST1032,USA,Free,Smart Speaker,1,2.3,0.0015,No,2,Album Page,2
+STR00662,20241022,2,6,Summer Rain,LST1303,Brazil,Premium,Tablet,12,50.1,0.089,Yes,2,Radio,5
+STR01586,20241022,10,28,Little Echoes,LST1213,UK,Free,Desktop,9,33.3,0.0135,Yes,0,Editorial Playlist,3
+STR00407,20241024,5,15,Summer Hearts,LST1439,Australia,Free,Tablet,5,21.5,0.0075,No,0,Album Page,3
+STR00851,20241024,4,12,Little Road,LST1153,USA,Premium,Mobile,15,33.2,0.1025,No,4,Album Page,3
+STR00682,20241025,9,25,Endless Road,LST1261,Brazil,Premium,Smart TV,8,25.6,0.071,No,5,Radio,2
+STR01060,20241025,10,28,Golden Home,LST1319,Brazil,Free,Desktop,9,27.6,0.0135,Yes,5,User Playlist,3
+STR01408,20241025,20,59,Broken Home,LST1408,France,Free,Smart Speaker,3,14.2,0.0045,No,0,Search,5
+STR01595,20241025,13,37,Silent Fire,LST1414,UAE,Free,Smart TV,7,31.1,0.0105,Yes,4,Radio,3
+STR01796,20241025,13,38,Fading Hearts,LST1275,Japan,Family,Smart Speaker,11,51.6,0.0668,No,5,Editorial Playlist,2
+STR00093,20241026,20,58,Endless Hearts,LST1270,Brazil,Student,Smart TV,5,22.6,0.033,No,4,Radio,1
+STR01215,20241026,4,10,Midnight Road,LST1348,France,Premium,Tablet,9,23.5,0.0755,Yes,5,Search,1
+STR01482,20241026,4,10,Distant Light,LST1336,UK,Premium,Smart TV,2,6.7,0.044,Yes,5,Editorial Playlist,1
+STR01555,20241026,20,58,Silent Road,LST1393,UK,Premium,Desktop,5,13.4,0.0575,Yes,1,Album Page,2
+STR00627,20241027,15,44,Fading Rain,LST1050,UAE,Family,Mobile,10,33.4,0.063,Yes,2,Search,3
+STR00972,20241027,4,10,Golden Sky,LST1165,Brazil,Family,Smart TV,8,20.2,0.0554,No,4,Album Page,2
+STR00216,20241028,17,50,Distant Rain,LST1450,USA,Free,Smart Speaker,6,20.6,0.009,Yes,2,Album Page,3
+STR00680,20241028,9,25,Little Hearts,LST1397,UAE,Student,Smart Speaker,7,16.7,0.039,Yes,2,Album Page,1
+STR01439,20241028,14,40,Golden Fire,LST1184,Canada,Free,Mobile,9,24.4,0.0135,Yes,1,User Playlist,3
+STR01304,20241029,19,56,Golden Rain,LST1450,UK,Premium,Mobile,1,3.7,0.0395,No,0,Search,4
+STR01608,20241029,19,56,Midnight Home,LST1151,Australia,Family,Smart TV,10,24.2,0.063,Yes,2,Editorial Playlist,3
+STR01737,20241029,10,30,Dancing Rain,LST1225,Germany,Family,Tablet,3,7.5,0.0364,Yes,1,Editorial Playlist,3
+STR00763,20241030,16,47,Little Hearts,LST1414,Japan,Premium,Mobile,4,9.5,0.053,Yes,2,Search,5
+STR00911,20241030,10,28,Distant Hearts,LST1315,UAE,Family,Smart Speaker,8,25.1,0.0554,Yes,5,Editorial Playlist,4
+STR01029,20241030,19,55,Midnight Dreams,LST1383,Japan,Premium,Smart TV,1,2.7,0.0395,Yes,2,User Playlist,1
+STR01205,20241030,9,27,Shining Echoes,LST1360,Japan,Premium,Mobile,7,31.4,0.0665,Yes,5,User Playlist,2
+STR01355,20241030,5,13,Midnight Dreams,LST1319,USA,Free,Mobile,15,37.2,0.0225,Yes,1,Album Page,4
+STR00145,20241031,9,27,Distant Home,LST1066,UK,Premium,Smart Speaker,7,19.0,0.0665,Yes,5,Radio,2
+STR00292,20241031,17,50,Little Dreams,LST1289,UK,Family,Smart Speaker,5,19.6,0.044,Yes,4,Editorial Playlist,4
+STR00344,20241031,17,49,Silent Light,LST1246,Australia,Free,Desktop,10,37.6,0.015,Yes,2,Editorial Playlist,1
+STR00945,20241031,8,24,Silent Memories,LST1372,India,Family,Smart TV,9,43.1,0.0592,Yes,5,Search,1
+STR01200,20241031,15,44,Distant Dreams,LST1007,Brazil,Family,Smart Speaker,3,11.1,0.0364,No,2,User Playlist,2
+STR00649,20241101,12,35,Shining Light,LST1295,Germany,Free,Mobile,11,37.4,0.0165,Yes,0,Album Page,1
+STR00692,20241101,1,2,Golden Dreams,LST1061,USA,Premium,Mobile,5,14.5,0.0575,Yes,3,User Playlist,3
+STR00799,20241101,18,53,Electric Home,LST1099,France,Premium,Desktop,12,40.7,0.089,No,5,Radio,3
+STR00184,20241102,11,33,Broken Echoes,LST1180,USA,Premium,Tablet,5,16.9,0.0575,Yes,1,Radio,3
+STR00452,20241102,17,50,Endless Echoes,LST1041,Japan,Student,Tablet,1,4.0,0.021,Yes,5,Album Page,5
+STR01398,20241102,11,31,Endless Rain,LST1173,France,Free,Mobile,13,33.3,0.0195,Yes,4,Search,1
+STR01790,20241102,15,43,Dancing Fire,LST1208,Germany,Free,Tablet,14,44.1,0.021,Yes,1,Radio,5
+STR00905,20241103,15,43,Silent Sky,LST1137,Japan,Free,Mobile,15,45.0,0.0225,No,1,Search,1
+STR01094,20241103,7,19,Midnight Sky,LST1429,India,Family,Mobile,1,2.5,0.0288,No,0,Radio,3
+STR00497,20241105,6,18,Silent Memories,LST1094,UK,Premium,Smart Speaker,2,7.2,0.044,No,4,User Playlist,5
+STR00779,20241106,15,44,Little Road,LST1252,UAE,Free,Desktop,9,21.8,0.0135,No,3,Editorial Playlist,2
+STR01053,20241106,16,46,Shining Light,LST1414,Brazil,Free,Desktop,13,53.0,0.0195,No,1,Search,4
+STR01561,20241106,15,43,Broken Echoes,LST1115,France,Student,Desktop,15,62.1,0.063,Yes,1,Album Page,1
+STR00220,20241107,18,53,Electric Road,LST1128,Brazil,Premium,Smart TV,9,33.4,0.0755,Yes,0,User Playlist,5
+STR00674,20241108,14,41,Dancing Fire,LST1147,France,Student,Mobile,11,31.2,0.051,No,5,Editorial Playlist,1
+STR01157,20241108,8,22,Summer Fire,LST1198,UAE,Free,Mobile,11,43.6,0.0165,Yes,4,Search,3
+STR01407,20241108,7,20,Golden Light,LST1134,Germany,Student,Smart Speaker,2,9.0,0.024,Yes,3,User Playlist,4
+STR00267,20241109,7,21,Fading Fire,LST1039,Canada,Free,Mobile,2,8.4,0.003,No,3,Radio,1
+STR00873,20241110,19,57,Endless Hearts,LST1418,Australia,Student,Desktop,11,40.9,0.051,Yes,0,Editorial Playlist,3
+STR00193,20241111,6,17,Silent Waves,LST1077,France,Free,Mobile,6,23.0,0.009,No,0,Editorial Playlist,2
+STR00515,20241111,7,21,Broken Echoes,LST1043,UK,Premium,Desktop,12,39.9,0.089,Yes,0,Search,1
+STR00714,20241111,11,31,Endless Rain,LST1124,Japan,Premium,Desktop,13,60.8,0.0935,Yes,1,Search,1
+STR01216,20241111,16,47,Summer Home,LST1184,France,Free,Tablet,9,35.0,0.0135,Yes,5,User Playlist,2
+STR01461,20241111,15,43,Midnight Memories,LST1344,UAE,Premium,Tablet,2,5.8,0.044,No,5,User Playlist,2
+STR00341,20241112,6,17,Electric Home,LST1425,Australia,Family,Mobile,3,8.9,0.0364,Yes,5,Editorial Playlist,5
+STR01164,20241112,11,33,Summer Light,LST1196,France,Premium,Smart Speaker,7,29.9,0.0665,No,4,User Playlist,2
+STR00127,20241113,3,9,Fading Sky,LST1217,Canada,Student,Smart Speaker,6,21.9,0.036,Yes,2,Editorial Playlist,3
+STR00155,20241113,12,35,Electric Rain,LST1012,UAE,Student,Smart Speaker,17,47.7,0.069,Yes,5,Editorial Playlist,1
+STR00353,20241113,4,12,Shining Rain,LST1349,Canada,Premium,Desktop,16,50.6,0.107,Yes,3,Radio,1
+STR00820,20241113,5,14,Distant Fire,LST1169,India,Premium,Desktop,5,11.0,0.0575,Yes,0,Editorial Playlist,1
+STR01644,20241113,20,58,Summer Fire,LST1226,UK,Free,Smart Speaker,14,65.7,0.021,Yes,0,Album Page,3
+STR01727,20241113,3,7,Endless Rain,LST1351,UK,Premium,Desktop,6,22.3,0.062,No,1,Search,3
+STR00074,20241114,11,32,Golden Memories,LST1043,Australia,Free,Desktop,8,37.3,0.012,No,2,Album Page,5
+STR00759,20241115,5,14,Distant Light,LST1143,Brazil,Free,Smart TV,3,13.4,0.0045,No,2,Editorial Playlist,3
+STR00018,20241116,18,53,Electric Rain,LST1069,Japan,Free,Mobile,5,19.8,0.0075,Yes,3,Editorial Playlist,2
+STR00476,20241116,3,7,Shining Hearts,LST1308,India,Premium,Smart Speaker,7,26.8,0.0665,No,0,Editorial Playlist,4
+STR01138,20241116,9,26,Fading Light,LST1010,Germany,Free,Desktop,8,38.2,0.012,Yes,3,Editorial Playlist,4
+STR01712,20241116,4,12,Summer Rain,LST1327,UK,Free,Tablet,9,24.5,0.0135,Yes,0,User Playlist,4
+STR00940,20241117,15,43,Golden Light,LST1056,France,Free,Desktop,3,13.6,0.0045,No,3,User Playlist,1
+STR01798,20241117,5,14,Endless Echoes,LST1127,France,Family,Desktop,7,27.0,0.0516,Yes,0,Editorial Playlist,4
+STR00005,20241118,3,8,Golden Road,LST1248,Brazil,Premium,Smart Speaker,4,9.2,0.053,No,0,Search,4
+STR00520,20241119,8,22,Dancing Memories,LST1113,UAE,Free,Mobile,12,39.9,0.018,Yes,1,User Playlist,4
+STR00655,20241119,9,25,Dancing Memories,LST1347,France,Free,Smart TV,15,60.8,0.0225,Yes,2,Search,4
+STR00983,20241120,8,24,Little Dreams,LST1058,Canada,Free,Tablet,3,7.9,0.0045,No,3,Editorial Playlist,2
+STR01013,20241120,15,45,Golden Dreams,LST1428,USA,Free,Smart TV,10,34.0,0.015,Yes,2,Search,4
+STR01449,20241120,4,10,Little Light,LST1151,Brazil,Premium,Smart TV,3,8.3,0.0485,No,3,User Playlist,2
+STR00409,20241121,11,31,Midnight Sky,LST1139,USA,Family,Mobile,4,13.2,0.0402,Yes,3,Search,2
+STR00589,20241122,2,6,Summer Light,LST1034,France,Free,Tablet,4,14.8,0.006,No,2,Editorial Playlist,3
+STR00643,20241122,3,7,Dancing Fire,LST1341,France,Student,Smart TV,7,20.8,0.039,Yes,4,Radio,3
+STR01363,20241122,10,29,Broken Stars,LST1016,UAE,Free,Mobile,9,24.3,0.0135,Yes,1,Search,1
+STR00812,20241123,12,34,Silent Hearts,LST1025,Canada,Premium,Mobile,6,26.6,0.062,Yes,4,User Playlist,3
+STR00904,20241123,17,51,Broken Waves,LST1158,Germany,Premium,Tablet,6,15.5,0.062,No,1,Editorial Playlist,5
+STR00603,20241124,8,24,Dancing Rain,LST1234,Japan,Premium,Smart Speaker,13,56.5,0.0935,Yes,5,Radio,1
+STR00777,20241124,12,36,Midnight Light,LST1111,UAE,Free,Smart Speaker,8,38.4,0.012,Yes,4,Search,5
+STR01039,20241124,1,3,Little Road,LST1278,Japan,Premium,Smart TV,1,3.7,0.0395,No,4,Editorial Playlist,2
+STR01051,20241124,8,23,Summer Road,LST1086,Japan,Free,Desktop,12,30.3,0.018,Yes,2,Search,4
+STR01093,20241124,9,25,Little Echoes,LST1158,Canada,Free,Smart TV,2,8.0,0.003,Yes,1,Radio,5
+STR01193,20241124,14,41,Shining Light,LST1273,Brazil,Family,Smart Speaker,10,25.2,0.063,Yes,3,Album Page,5
+STR01610,20241124,4,11,Midnight Hearts,LST1326,Canada,Student,Desktop,4,17.4,0.03,Yes,2,Radio,3
+STR01760,20241124,20,59,Golden Echoes,LST1015,Canada,Free,Tablet,2,9.2,0.003,No,1,Album Page,4
+STR01639,20241126,14,41,Broken Stars,LST1182,Germany,Premium,Desktop,16,71.9,0.107,Yes,3,User Playlist,3
+STR00226,20241127,2,5,Distant Fire,LST1355,UK,Premium,Mobile,4,13.1,0.053,Yes,4,Radio,2
+STR00553,20241127,19,56,Silent Dreams,LST1196,Germany,Free,Smart Speaker,14,45.1,0.021,Yes,2,Editorial Playlist,3
+STR01088,20241127,6,16,Shining Road,LST1151,Japan,Free,Smart Speaker,5,22.5,0.0075,No,5,User Playlist,5
+STR01767,20241127,16,46,Endless Light,LST1004,Germany,Free,Smart Speaker,12,48.1,0.018,Yes,5,Editorial Playlist,3
+STR00512,20241128,8,24,Broken Light,LST1168,India,Student,Desktop,1,2.3,0.021,Yes,0,Search,3
+STR01178,20241128,4,11,Broken Waves,LST1413,India,Premium,Desktop,16,47.1,0.107,No,3,User Playlist,5
+STR01286,20241128,15,44,Endless Stars,LST1365,UAE,Premium,Tablet,13,56.7,0.0935,No,5,Search,2
+STR01523,20241128,4,10,Shining Road,LST1433,India,Free,Mobile,6,22.2,0.009,Yes,4,Radio,2
+STR01573,20241128,9,27,Broken Dreams,LST1428,Japan,Family,Mobile,1,3.9,0.0288,Yes,3,User Playlist,2
+STR00257,20241129,10,28,Dancing Fire,LST1116,UK,Family,Desktop,2,7.1,0.0326,Yes,5,Editorial Playlist,2
+STR00591,20241129,16,47,Summer Fire,LST1213,UK,Premium,Smart Speaker,14,56.4,0.098,No,1,Editorial Playlist,2
+STR01463,20241129,2,4,Broken Rain,LST1244,UAE,Free,Tablet,12,32.9,0.018,No,0,User Playlist,3
+STR01275,20241130,20,58,Silent Light,LST1047,France,Premium,Tablet,4,16.4,0.053,No,1,Editorial Playlist,5
+STR01724,20241130,1,2,Electric Echoes,LST1041,UAE,Free,Smart TV,10,36.3,0.015,Yes,2,Editorial Playlist,1
+STR00518,20241201,15,43,Shining Fire,LST1073,Brazil,Free,Mobile,7,26.3,0.0105,Yes,5,Radio,1
+STR00625,20241201,2,5,Distant Home,LST1373,India,Premium,Smart Speaker,14,38.3,0.098,Yes,2,Album Page,2
+STR00636,20241201,10,29,Little Memories,LST1207,USA,Family,Smart Speaker,8,30.5,0.0554,No,4,Search,2
+STR00055,20241202,9,26,Golden Dreams,LST1045,Brazil,Student,Smart Speaker,6,17.1,0.036,Yes,5,Editorial Playlist,1
+STR00367,20241202,16,48,Golden Sky,LST1396,Canada,Family,Mobile,1,4.3,0.0288,No,2,Editorial Playlist,2
+STR00933,20241202,1,3,Endless Fire,LST1296,Japan,Free,Tablet,6,26.1,0.009,Yes,3,Editorial Playlist,5
+STR01240,20241202,1,3,Endless Dreams,LST1417,Australia,Premium,Tablet,15,32.1,0.1025,Yes,3,Album Page,5
+STR00659,20241203,10,29,Little Rain,LST1074,UK,Free,Tablet,15,46.2,0.0225,No,5,Editorial Playlist,1
+STR01740,20241203,18,52,Golden Home,LST1108,Germany,Free,Desktop,10,29.2,0.015,Yes,5,Album Page,1
+STR00205,20241204,14,42,Dancing Dreams,LST1392,Brazil,Premium,Smart Speaker,16,63.8,0.107,No,3,Album Page,3
+STR00332,20241204,1,3,Broken Fire,LST1153,UK,Premium,Smart Speaker,15,40.7,0.1025,Yes,5,Editorial Playlist,4
+STR00968,20241205,16,48,Little Stars,LST1029,Japan,Free,Desktop,7,29.0,0.0105,Yes,4,User Playlist,1
+STR01674,20241205,6,17,Fading Road,LST1003,Japan,Free,Smart Speaker,7,26.7,0.0105,Yes,0,Album Page,3
+STR01797,20241205,14,41,Golden Hearts,LST1387,Australia,Free,Desktop,3,14.1,0.0045,Yes,2,Search,4
+STR00430,20241206,3,9,Electric Echoes,LST1072,UAE,Premium,Mobile,9,29.0,0.0755,No,3,Radio,1
+STR00194,20241207,10,29,Summer Rain,LST1113,UAE,Free,Mobile,6,14.9,0.009,No,5,Album Page,2
+STR00795,20241207,8,22,Broken Rain,LST1271,USA,Free,Mobile,4,16.7,0.006,Yes,2,Search,3
+STR01219,20241207,11,32,Summer Home,LST1153,Japan,Family,Desktop,2,4.8,0.0326,No,2,Radio,1
+STR01488,20241207,4,10,Golden Waves,LST1318,UAE,Premium,Smart TV,5,19.4,0.0575,Yes,2,Search,5
+STR01417,20241208,3,9,Silent Dreams,LST1404,Brazil,Free,Desktop,8,38.1,0.012,No,0,User Playlist,1
+STR01522,20241208,13,37,Electric Waves,LST1111,Brazil,Premium,Desktop,8,27.3,0.071,Yes,5,Editorial Playlist,4
+STR01688,20241208,15,44,Shining Waves,LST1015,France,Family,Desktop,3,13.0,0.0364,No,3,Search,2
+STR00087,20241209,7,19,Distant Waves,LST1092,UK,Free,Desktop,6,14.1,0.009,No,4,Editorial Playlist,4
+STR00822,20241209,17,49,Distant Hearts,LST1217,India,Free,Smart TV,8,26.4,0.012,Yes,0,Album Page,1
+STR01151,20241209,17,50,Shining Light,LST1402,India,Family,Mobile,5,13.8,0.044,No,4,User Playlist,3
+STR01432,20241209,12,34,Dancing Sky,LST1066,Japan,Free,Desktop,9,29.9,0.0135,No,2,Album Page,2
+STR01509,20241211,14,42,Broken Waves,LST1237,Germany,Premium,Smart Speaker,9,19.2,0.0755,No,4,User Playlist,5
+STR01746,20241211,19,55,Midnight Hearts,LST1185,UAE,Premium,Mobile,9,37.1,0.0755,Yes,0,Album Page,2
+STR00010,20241212,1,1,Fading Waves,LST1209,Australia,Family,Tablet,13,60.4,0.0744,No,0,Search,2
+STR00664,20241212,19,55,Little Home,LST1329,France,Free,Smart Speaker,17,45.0,0.0255,Yes,0,Radio,5
+STR00694,20241212,15,44,Broken Fire,LST1276,India,Premium,Tablet,5,22.7,0.0575,Yes,0,Editorial Playlist,1
+STR00239,20241213,18,52,Dancing Fire,LST1278,USA,Family,Smart Speaker,10,37.5,0.063,No,4,Editorial Playlist,1
+STR00429,20241213,9,27,Endless Stars,LST1140,USA,Family,Mobile,16,42.4,0.0858,Yes,5,User Playlist,1
+STR01261,20241213,11,31,Dancing Waves,LST1436,Japan,Free,Mobile,11,51.8,0.0165,Yes,2,Album Page,4
+STR00693,20241214,5,14,Little Sky,LST1076,Australia,Premium,Tablet,8,24.3,0.071,No,2,Album Page,2
+STR01140,20241214,9,25,Broken Home,LST1199,UAE,Free,Mobile,12,40.5,0.018,Yes,1,User Playlist,3
+STR00342,20241215,16,47,Fading Fire,LST1324,Australia,Premium,Tablet,2,4.5,0.044,Yes,1,Radio,1
+STR00505,20241215,8,23,Dancing Hearts,LST1446,UK,Free,Desktop,4,18.6,0.006,Yes,0,Radio,2
+STR00922,20241215,14,41,Silent Sky,LST1005,UAE,Premium,Mobile,16,59.9,0.107,No,3,Editorial Playlist,4
+STR01515,20241215,5,13,Distant Home,LST1061,Canada,Family,Mobile,6,20.4,0.0478,Yes,3,User Playlist,5
+STR00488,20241216,13,39,Endless Echoes,LST1419,UK,Free,Tablet,15,41.8,0.0225,Yes,5,Editorial Playlist,4
+STR00821,20241216,11,31,Summer Hearts,LST1047,UK,Premium,Smart Speaker,9,32.5,0.0755,Yes,2,Radio,1
+STR01228,20241216,3,7,Electric Hearts,LST1091,USA,Family,Tablet,10,46.7,0.063,No,5,Album Page,2
+STR01519,20241216,6,16,Little Hearts,LST1305,Australia,Free,Tablet,2,6.2,0.003,Yes,3,User Playlist,2
+STR00364,20241217,5,13,Distant Hearts,LST1439,India,Premium,Smart Speaker,5,10.9,0.0575,No,5,Album Page,5
+STR01528,20241217,14,40,Dancing Echoes,LST1248,France,Free,Desktop,6,23.8,0.009,Yes,2,Editorial Playlist,4
+STR00866,20241218,3,8,Summer Fire,LST1307,UAE,Free,Mobile,9,23.8,0.0135,Yes,4,Search,1
+STR01237,20241218,13,38,Little Stars,LST1422,Brazil,Free,Mobile,13,60.9,0.0195,Yes,4,Album Page,2
+STR01652,20241218,18,52,Dancing Hearts,LST1154,UAE,Free,Desktop,15,51.9,0.0225,No,5,Radio,3
+STR00002,20241221,2,6,Silent Rain,LST1371,USA,Free,Smart TV,3,13.8,0.0045,Yes,3,Album Page,5
+STR00449,20241222,2,4,Broken Road,LST1259,Japan,Premium,Smart TV,8,29.3,0.071,Yes,4,User Playlist,5
+STR00751,20241222,19,56,Midnight Sky,LST1387,Germany,Free,Mobile,7,15.7,0.0105,Yes,3,Radio,5
+STR00164,20241223,3,9,Shining Stars,LST1294,UK,Premium,Desktop,14,34.1,0.098,Yes,4,Album Page,5
+STR00371,20241223,17,51,Distant Memories,LST1388,UK,Family,Smart TV,5,15.1,0.044,No,0,User Playlist,3
+STR00964,20241223,11,33,Summer Rain,LST1060,USA,Premium,Tablet,6,14.4,0.062,No,0,User Playlist,4
+STR01212,20241223,10,28,Distant Light,LST1295,Germany,Free,Smart TV,10,34.6,0.015,Yes,3,Radio,4
+STR00004,20241224,14,42,Dancing Home,LST1344,France,Free,Tablet,15,70.8,0.0225,No,1,User Playlist,5
+STR00836,20241224,9,25,Fading Hearts,LST1431,UAE,Premium,Tablet,13,37.9,0.0935,No,1,Album Page,2
+STR01197,20241224,2,5,Midnight Fire,LST1191,UAE,Free,Mobile,6,18.9,0.009,Yes,1,Editorial Playlist,2
+STR01638,20241224,6,16,Broken Fire,LST1360,Germany,Free,Tablet,5,20.1,0.0075,Yes,3,Album Page,5
+STR00438,20241225,11,31,Fading Hearts,LST1277,Germany,Family,Mobile,11,34.4,0.0668,Yes,1,User Playlist,4
+STR00283,20241226,20,60,Summer Waves,LST1330,Germany,Free,Smart Speaker,3,9.9,0.0045,Yes,3,User Playlist,5
+STR00840,20241226,8,24,Golden Home,LST1447,USA,Free,Smart Speaker,5,13.8,0.0075,Yes,5,Editorial Playlist,1
+STR00738,20241227,18,54,Little Rain,LST1178,India,Free,Tablet,15,72.0,0.0225,Yes,5,Radio,2
+STR01239,20241227,6,18,Shining Echoes,LST1029,Canada,Free,Desktop,17,45.3,0.0255,Yes,0,Album Page,1
+STR01269,20241227,3,8,Electric Rain,LST1003,India,Premium,Mobile,11,44.4,0.0845,Yes,4,Search,5
+STR01073,20241228,4,11,Dancing Rain,LST1204,Australia,Premium,Tablet,4,13.1,0.053,No,5,Radio,3
+STR01534,20241228,2,4,Silent Road,LST1103,India,Family,Smart TV,17,56.3,0.0896,No,0,Album Page,3
+STR01076,20241229,17,50,Electric Light,LST1289,UK,Free,Desktop,17,43.8,0.0255,Yes,1,Radio,4
+STR01731,20241229,5,14,Broken Sky,LST1097,Australia,Premium,Desktop,10,31.5,0.08,No,2,User Playlist,3
+STR00125,20241230,10,30,Distant Rain,LST1265,Brazil,Family,Tablet,2,7.8,0.0326,No,4,Album Page,4
+STR00173,20241230,5,14,Golden Stars,LST1130,Germany,Family,Desktop,2,5.5,0.0326,Yes,3,Editorial Playlist,3
+STR00882,20241230,9,25,Broken Echoes,LST1025,UK,Free,Mobile,6,25.7,0.009,No,2,Album Page,1
+STR00126,20250101,16,47,Broken Memories,LST1449,UAE,Family,Smart TV,7,17.7,0.0516,Yes,4,Editorial Playlist,3
+STR00773,20250101,3,7,Electric Hearts,LST1267,France,Premium,Tablet,13,28.2,0.0935,Yes,5,Album Page,5
+STR00387,20250102,7,21,Shining Rain,LST1315,Germany,Family,Smart Speaker,10,41.2,0.063,No,1,Album Page,4
+STR00811,20250102,3,7,Golden Road,LST1297,USA,Student,Smart Speaker,8,25.1,0.042,Yes,1,Search,4
+STR01099,20250102,5,15,Shining Memories,LST1230,UK,Student,Tablet,5,16.8,0.033,No,5,Album Page,2
+STR01457,20250102,1,3,Shining Echoes,LST1286,India,Free,Mobile,9,19.0,0.0135,No,0,Album Page,2
+STR00276,20250103,8,22,Summer Dreams,LST1171,USA,Premium,Smart Speaker,16,73.5,0.107,No,2,Search,3
+STR00596,20250103,12,35,Distant Light,LST1371,Australia,Free,Smart TV,11,39.5,0.0165,Yes,4,Radio,1
+STR00728,20250103,7,20,Shining Sky,LST1062,UAE,Premium,Desktop,8,33.5,0.071,Yes,2,Album Page,4
+STR01487,20250103,9,26,Golden Echoes,LST1027,UAE,Premium,Mobile,2,6.1,0.044,Yes,2,Editorial Playlist,2
+STR00349,20250104,16,48,Midnight Echoes,LST1012,Germany,Premium,Desktop,12,33.1,0.089,Yes,1,Editorial Playlist,2
+STR00872,20250104,11,32,Little Home,LST1420,UK,Premium,Mobile,16,61.5,0.107,No,1,Album Page,5
+STR00140,20250105,4,11,Midnight Echoes,LST1249,Brazil,Premium,Smart TV,17,45.4,0.1115,No,4,Editorial Playlist,3
+STR00937,20250105,11,33,Little Dreams,LST1190,Australia,Free,Smart Speaker,15,32.1,0.0225,Yes,3,Editorial Playlist,1
+STR01338,20250105,18,52,Dancing Road,LST1259,Brazil,Student,Smart TV,6,15.6,0.036,Yes,1,Album Page,2
+STR00165,20250106,15,45,Midnight Echoes,LST1040,India,Free,Tablet,9,28.8,0.0135,No,3,Search,5
+STR00660,20250106,7,21,Endless Waves,LST1370,UAE,Premium,Tablet,6,13.9,0.062,Yes,3,Radio,1
+STR00771,20250106,4,12,Shining Fire,LST1414,UAE,Student,Smart Speaker,11,48.0,0.051,No,2,Album Page,4
+STR00961,20250106,8,22,Shining Waves,LST1448,USA,Premium,Smart Speaker,7,33.5,0.0665,Yes,0,User Playlist,5
+STR01210,20250106,4,10,Summer Home,LST1178,Brazil,Free,Desktop,15,53.7,0.0225,Yes,3,Album Page,4
+STR00617,20250107,3,8,Broken Rain,LST1211,UAE,Free,Smart Speaker,14,51.9,0.021,No,2,User Playlist,2
+STR01786,20250107,16,47,Dancing Rain,LST1211,India,Free,Desktop,14,43.0,0.021,Yes,5,Album Page,2
+STR00720,20250109,8,22,Endless Fire,LST1107,Brazil,Premium,Tablet,4,13.8,0.053,Yes,5,Album Page,3
+STR01162,20250109,5,14,Silent Light,LST1216,UAE,Free,Mobile,6,16.8,0.009,Yes,0,Search,5
+STR00328,20250110,15,43,Endless Fire,LST1396,France,Free,Smart Speaker,11,37.1,0.0165,No,3,Search,3
+STR00064,20250111,13,38,Distant Sky,LST1325,India,Family,Desktop,7,15.8,0.0516,Yes,1,Album Page,5
+STR00523,20250111,16,48,Distant Dreams,LST1217,Japan,Premium,Mobile,11,50.0,0.0845,Yes,1,User Playlist,2
+STR00927,20250111,12,34,Golden Light,LST1281,USA,Free,Desktop,5,13.6,0.0075,Yes,4,Radio,1
+STR01016,20250111,16,48,Shining Light,LST1205,Brazil,Student,Tablet,9,21.8,0.045,Yes,3,Editorial Playlist,1
+STR01303,20250111,20,60,Fading Stars,LST1328,Brazil,Free,Mobile,6,22.3,0.009,Yes,0,Editorial Playlist,4
+STR01400,20250111,16,47,Summer Memories,LST1229,Australia,Free,Smart Speaker,11,47.5,0.0165,Yes,1,User Playlist,2
+STR00269,20250112,5,15,Dancing Light,LST1343,Japan,Free,Desktop,9,35.9,0.0135,Yes,5,User Playlist,4
+STR00885,20250112,15,43,Electric Stars,LST1095,France,Free,Desktop,16,53.1,0.024,Yes,3,User Playlist,5
+STR01180,20250112,9,27,Golden Hearts,LST1270,USA,Premium,Smart Speaker,3,14.1,0.0485,No,1,Radio,3
+STR01440,20250112,19,55,Dancing Road,LST1143,UK,Family,Mobile,6,26.1,0.0478,Yes,1,Album Page,3
+STR00437,20250113,14,40,Silent Light,LST1084,Germany,Free,Mobile,2,4.7,0.003,Yes,2,Search,5
+STR01636,20250113,6,18,Electric Waves,LST1009,Japan,Free,Tablet,2,5.1,0.003,No,4,Editorial Playlist,3
+STR00086,20250114,19,55,Distant Memories,LST1190,Germany,Premium,Smart Speaker,9,23.5,0.0755,Yes,4,Radio,4
+STR00735,20250114,4,10,Electric Dreams,LST1100,India,Free,Desktop,14,55.1,0.021,Yes,5,Radio,2
+STR00016,20250115,16,47,Dancing Light,LST1380,UK,Family,Smart Speaker,6,19.8,0.0478,No,1,User Playlist,4
+STR00169,20250115,4,12,Silent Memories,LST1222,India,Free,Tablet,9,37.7,0.0135,Yes,0,Search,3
+STR00421,20250115,14,40,Little Home,LST1280,Canada,Free,Tablet,9,25.6,0.0135,Yes,0,Search,5
+STR00730,20250115,4,12,Little Road,LST1209,India,Premium,Desktop,9,34.2,0.0755,Yes,3,Search,2
+STR01406,20250115,1,2,Golden Fire,LST1412,UK,Family,Smart TV,15,43.4,0.082,Yes,0,User Playlist,3
+STR01569,20250115,20,59,Midnight Echoes,LST1301,France,Free,Mobile,13,48.6,0.0195,Yes,0,Album Page,1
+STR00613,20250116,19,56,Electric Stars,LST1325,UK,Free,Tablet,15,55.1,0.0225,Yes,0,Editorial Playlist,4
+STR01520,20250116,13,39,Silent Light,LST1344,Australia,Free,Desktop,9,36.1,0.0135,Yes,3,User Playlist,4
+STR00298,20250117,3,9,Electric Road,LST1311,UAE,Student,Smart TV,11,51.1,0.051,Yes,1,Search,5
+STR00399,20250117,2,5,Golden Echoes,LST1214,India,Premium,Desktop,1,2.5,0.0395,No,1,Editorial Playlist,4
+STR00432,20250117,18,52,Endless Home,LST1109,France,Free,Smart TV,7,22.6,0.0105,Yes,2,Radio,1
+STR00794,20250118,5,13,Fading Dreams,LST1340,USA,Free,Tablet,13,60.2,0.0195,Yes,0,Radio,5
+STR01031,20250118,11,31,Distant Waves,LST1286,Germany,Free,Tablet,13,41.5,0.0195,Yes,5,Search,3
+STR01385,20250118,8,22,Silent Fire,LST1217,Germany,Premium,Smart TV,1,2.8,0.0395,No,2,Album Page,5
+STR01579,20250118,7,20,Dancing Home,LST1329,UK,Premium,Smart Speaker,14,60.9,0.098,No,4,Album Page,2
+STR00717,20250119,18,54,Endless Road,LST1367,Japan,Premium,Desktop,9,36.6,0.0755,Yes,4,User Playlist,3
+STR00915,20250119,16,48,Distant Hearts,LST1412,UK,Premium,Desktop,12,38.6,0.089,Yes,3,Editorial Playlist,3
+STR01749,20250119,14,41,Summer Waves,LST1064,USA,Free,Smart TV,1,4.7,0.0015,No,2,Search,5
+STR01677,20250121,13,38,Little Fire,LST1145,Germany,Free,Mobile,4,12.5,0.006,No,0,Album Page,2
+STR00208,20250122,17,50,Summer Dreams,LST1379,Australia,Family,Smart TV,1,4.8,0.0288,Yes,1,User Playlist,4
+STR00715,20250122,2,5,Little Home,LST1085,Australia,Free,Desktop,17,57.7,0.0255,No,3,Album Page,4
+STR01019,20250122,4,12,Dancing Dreams,LST1005,Germany,Student,Smart TV,16,60.6,0.066,Yes,4,Search,1
+STR01112,20250122,14,41,Dancing Fire,LST1078,India,Free,Smart Speaker,11,49.2,0.0165,Yes,0,Search,1
+STR01221,20250122,13,37,Shining Memories,LST1297,UK,Free,Tablet,7,32.4,0.0105,Yes,2,Album Page,1
+STR01640,20250122,6,17,Shining Rain,LST1072,France,Free,Tablet,1,4.6,0.0015,No,2,Radio,1
+STR00227,20250123,7,21,Endless Sky,LST1095,Germany,Free,Smart Speaker,13,47.9,0.0195,Yes,3,User Playlist,1
+STR00867,20250123,12,34,Little Light,LST1249,UAE,Student,Desktop,3,12.2,0.027,Yes,0,Album Page,1
+STR00884,20250123,2,6,Midnight Stars,LST1426,Germany,Free,Tablet,11,29.3,0.0165,No,0,Radio,1
+STR01622,20250123,5,13,Electric Home,LST1155,India,Premium,Smart TV,3,10.8,0.0485,No,3,Editorial Playlist,2
+STR01678,20250123,11,33,Dancing Hearts,LST1208,UAE,Free,Mobile,8,30.7,0.012,Yes,3,User Playlist,5
+STR01711,20250123,3,9,Golden Stars,LST1269,Brazil,Premium,Desktop,6,15.1,0.062,No,0,Album Page,2
+STR01768,20250123,8,24,Broken Sky,LST1314,UK,Free,Tablet,15,32.8,0.0225,Yes,5,Radio,4
+STR00071,20250124,7,19,Summer Stars,LST1160,Germany,Student,Mobile,6,19.9,0.036,Yes,1,Search,1
+STR00376,20250124,10,30,Broken Rain,LST1119,France,Free,Desktop,6,15.6,0.009,Yes,5,Album Page,2
+STR00467,20250124,16,47,Summer Stars,LST1010,India,Student,Mobile,5,12.6,0.033,No,4,Album Page,4
+STR01273,20250124,3,8,Fading Dreams,LST1276,UAE,Student,Smart TV,12,54.4,0.054,Yes,3,Editorial Playlist,2
+STR01389,20250124,11,31,Broken Echoes,LST1344,France,Free,Smart Speaker,5,12.0,0.0075,No,4,Album Page,4
+STR01055,20250125,15,45,Fading Waves,LST1204,France,Family,Tablet,10,22.2,0.063,Yes,1,User Playlist,5
+STR01061,20250125,10,29,Dancing Dreams,LST1017,India,Free,Tablet,1,3.5,0.0015,No,3,Search,4
+STR01445,20250125,6,16,Distant Waves,LST1243,Australia,Free,Smart TV,1,4.3,0.0015,No,2,Album Page,3
+STR01621,20250125,4,10,Fading Waves,LST1127,Canada,Free,Tablet,4,17.5,0.006,No,3,Album Page,5
+STR00326,20250126,17,51,Silent Home,LST1405,India,Student,Desktop,12,43.4,0.054,No,4,Radio,2
+STR00368,20250126,13,39,Little Echoes,LST1228,India,Free,Desktop,15,35.6,0.0225,No,5,Editorial Playlist,1
+STR01356,20250126,13,38,Little Echoes,LST1216,Germany,Family,Smart Speaker,10,41.8,0.063,No,2,User Playlist,5
+STR00281,20250127,13,37,Summer Fire,LST1270,Brazil,Family,Smart TV,4,13.2,0.0402,Yes,0,Editorial Playlist,5
+STR00651,20250127,20,60,Fading Stars,LST1022,UAE,Free,Smart Speaker,16,34.9,0.024,No,4,Radio,3
+STR01642,20250127,12,36,Silent Sky,LST1307,USA,Family,Desktop,7,20.0,0.0516,Yes,3,Search,2
+STR00259,20250129,1,3,Fading Hearts,LST1058,Australia,Free,Desktop,5,23.1,0.0075,Yes,2,User Playlist,5
+STR00597,20250129,20,59,Golden Rain,LST1091,Germany,Premium,Smart TV,14,50.2,0.098,Yes,0,Radio,4
+STR00860,20250129,4,12,Distant Waves,LST1116,Australia,Premium,Tablet,6,24.3,0.062,Yes,3,User Playlist,5
+STR00647,20250130,3,7,Midnight Hearts,LST1331,France,Free,Desktop,7,25.2,0.0105,No,5,Radio,4
+STR00979,20250130,8,22,Little Hearts,LST1011,UAE,Free,Tablet,2,5.6,0.003,Yes,3,User Playlist,5
+STR01100,20250130,4,10,Little Dreams,LST1193,UK,Family,Desktop,5,15.0,0.044,Yes,3,Search,4
+STR00009,20250131,7,20,Silent Dreams,LST1330,India,Premium,Desktop,3,9.3,0.0485,Yes,2,Search,2
+STR00025,20250131,18,53,Fading Fire,LST1425,Australia,Premium,Desktop,15,32.4,0.1025,Yes,1,Editorial Playlist,4
+STR00637,20250131,9,25,Broken Light,LST1390,Australia,Free,Tablet,7,20.0,0.0105,No,1,Album Page,1
+STR01568,20250131,13,38,Midnight Memories,LST1287,Canada,Free,Mobile,15,70.4,0.0225,Yes,0,Radio,5
+STR00015,20250202,4,10,Little Home,LST1129,Germany,Student,Desktop,3,9.0,0.027,No,4,Album Page,3
+STR00509,20250202,20,58,Endless Sky,LST1235,UK,Premium,Mobile,17,44.7,0.1115,Yes,3,Album Page,2
+STR00527,20250202,11,32,Shining Hearts,LST1217,UK,Free,Smart TV,13,36.4,0.0195,Yes,2,Album Page,2
+STR00051,20250203,15,43,Endless Home,LST1403,Australia,Free,Smart TV,9,29.5,0.0135,No,4,Radio,5
+STR00703,20250203,16,48,Distant Dreams,LST1391,UK,Family,Smart TV,7,16.8,0.0516,Yes,1,Editorial Playlist,3
+STR00599,20250204,12,35,Midnight Memories,LST1031,Australia,Premium,Desktop,6,20.3,0.062,No,4,User Playlist,1
+STR01297,20250204,11,32,Electric Home,LST1131,Brazil,Free,Tablet,4,19.2,0.006,Yes,4,Editorial Playlist,3
+STR00712,20250205,4,10,Distant Memories,LST1436,USA,Family,Mobile,7,31.1,0.0516,Yes,4,Editorial Playlist,4
+STR01043,20250205,10,28,Electric Echoes,LST1166,Japan,Free,Tablet,1,3.7,0.0015,Yes,3,User Playlist,2
+STR01217,20250206,5,14,Golden Road,LST1399,Japan,Free,Smart Speaker,1,4.2,0.0015,No,0,Search,5
+STR01717,20250207,14,41,Summer Road,LST1352,Canada,Premium,Desktop,7,25.1,0.0665,Yes,0,Search,4
+STR00375,20250208,17,50,Distant Memories,LST1148,UK,Free,Tablet,17,50.5,0.0255,Yes,3,Editorial Playlist,3
+STR00482,20250208,8,22,Fading Stars,LST1428,Brazil,Free,Smart Speaker,4,11.9,0.006,Yes,0,Album Page,2
+STR00942,20250208,3,7,Endless Echoes,LST1242,UK,Family,Desktop,12,38.6,0.0706,No,2,Editorial Playlist,5
+STR01345,20250208,13,37,Dancing Waves,LST1392,USA,Free,Smart Speaker,15,70.8,0.0225,Yes,4,Radio,2
+STR01384,20250208,2,5,Fading Dreams,LST1160,UK,Family,Desktop,7,23.4,0.0516,Yes,2,User Playlist,3
+STR01560,20250208,13,37,Golden Dreams,LST1282,Australia,Free,Smart TV,12,43.7,0.018,Yes,1,Album Page,2
+STR00028,20250209,3,9,Distant Rain,LST1067,Canada,Free,Smart Speaker,10,30.1,0.015,No,1,Album Page,1
+STR00050,20250209,7,21,Summer Dreams,LST1142,Canada,Free,Smart Speaker,16,67.0,0.024,No,4,Search,5
+STR00176,20250209,14,42,Fading Light,LST1323,USA,Family,Desktop,13,54.0,0.0744,Yes,1,User Playlist,5
+STR00475,20250209,20,60,Distant Light,LST1309,USA,Free,Desktop,13,28.7,0.0195,No,2,Radio,2
+STR01085,20250209,3,7,Summer Stars,LST1095,UK,Free,Tablet,12,46.5,0.018,No,2,Search,1
+STR01658,20250209,11,31,Dancing Waves,LST1313,Canada,Family,Smart Speaker,15,63.7,0.082,No,4,Editorial Playlist,5
+STR00804,20250210,1,1,Shining Light,LST1214,Australia,Premium,Mobile,17,45.7,0.1115,Yes,2,Album Page,1
+STR00849,20250210,4,12,Electric Memories,LST1112,India,Free,Smart Speaker,5,12.7,0.0075,Yes,1,User Playlist,4
+STR00978,20250210,3,7,Broken Rain,LST1046,Japan,Free,Tablet,13,54.9,0.0195,No,5,Search,5
+STR01751,20250210,18,53,Fading Hearts,LST1063,Canada,Student,Mobile,12,29.0,0.054,Yes,1,Editorial Playlist,4
+STR01285,20250211,4,11,Midnight Rain,LST1103,UAE,Free,Desktop,14,67.0,0.021,Yes,1,Album Page,5
+STR00723,20250212,20,59,Fading Rain,LST1355,Australia,Premium,Tablet,15,68.3,0.1025,Yes,0,User Playlist,2
+STR01695,20250212,9,27,Shining Road,LST1088,Japan,Premium,Smart TV,7,15.8,0.0665,Yes,5,Editorial Playlist,1
+STR01107,20250213,16,47,Dancing Sky,LST1392,India,Student,Mobile,17,52.2,0.069,Yes,1,Search,2
+STR01132,20250214,6,18,Silent Stars,LST1251,UK,Free,Tablet,1,4.4,0.0015,Yes,5,Editorial Playlist,4
+STR01154,20250214,1,3,Endless Stars,LST1378,Japan,Premium,Tablet,2,4.6,0.044,Yes,0,Radio,2
+STR01782,20250214,13,37,Midnight Sky,LST1088,France,Premium,Smart TV,6,22.4,0.062,Yes,1,User Playlist,3
+STR00426,20250216,3,7,Distant Memories,LST1125,UK,Premium,Tablet,11,24.0,0.0845,No,3,Album Page,1
+STR00700,20250217,1,3,Golden Hearts,LST1307,UAE,Free,Smart TV,13,29.0,0.0195,Yes,1,Album Page,4
+STR00749,20250217,13,39,Summer Rain,LST1355,UAE,Free,Mobile,12,33.3,0.018,No,3,User Playlist,1
+STR00157,20250218,5,13,Midnight Fire,LST1272,UAE,Free,Tablet,12,38.0,0.018,Yes,4,Editorial Playlist,1
+STR00909,20250218,19,56,Dancing Road,LST1226,UK,Premium,Desktop,12,53.2,0.089,Yes,0,User Playlist,1
+STR01392,20250218,15,45,Distant Sky,LST1240,Japan,Free,Desktop,17,69.5,0.0255,No,4,Album Page,5
+STR01264,20250220,13,37,Dancing Fire,LST1409,UAE,Premium,Tablet,13,45.5,0.0935,No,0,User Playlist,5
+STR01448,20250220,2,6,Silent Fire,LST1271,Japan,Family,Mobile,16,40.2,0.0858,No,5,Search,3
+STR00008,20250221,14,40,Broken Dreams,LST1213,France,Student,Smart Speaker,9,31.3,0.045,Yes,5,Radio,5
+STR00290,20250221,4,10,Little Fire,LST1038,Japan,Free,Smart TV,5,15.8,0.0075,Yes,0,User Playlist,1
+STR01479,20250221,4,10,Distant Home,LST1262,Brazil,Free,Smart Speaker,4,13.6,0.006,Yes,4,Editorial Playlist,4
+STR00428,20250222,13,39,Silent Waves,LST1112,France,Student,Mobile,5,22.1,0.033,Yes,5,Search,2
+STR00642,20250222,14,42,Silent Echoes,LST1059,France,Free,Smart TV,1,3.2,0.0015,No,5,Radio,1
+STR00698,20250222,19,55,Electric Home,LST1273,Brazil,Premium,Smart TV,2,6.4,0.044,Yes,2,Search,5
+STR01175,20250222,5,14,Fading Echoes,LST1055,Canada,Family,Tablet,9,36.0,0.0592,No,0,Search,2
+STR01351,20250222,5,14,Endless Light,LST1247,Japan,Free,Smart Speaker,3,8.6,0.0045,No,1,Radio,1
+STR01617,20250223,7,21,Broken Road,LST1420,Japan,Family,Desktop,12,51.9,0.0706,Yes,1,Album Page,4
+STR01064,20250224,12,36,Dancing Dreams,LST1088,Brazil,Premium,Smart Speaker,15,51.2,0.1025,Yes,0,Radio,3
+STR01485,20250224,16,46,Broken Dreams,LST1292,Australia,Free,Mobile,1,4.2,0.0015,No,3,Search,5
+STR00255,20250226,12,35,Golden Waves,LST1071,India,Family,Tablet,12,25.6,0.0706,Yes,4,Radio,5
+STR00650,20250226,10,30,Fading Waves,LST1300,Brazil,Premium,Mobile,1,4.4,0.0395,Yes,0,Radio,2
+STR01347,20250226,10,28,Electric Home,LST1329,USA,Free,Desktop,14,42.6,0.021,No,2,Search,3
+STR00317,20250227,19,57,Shining Rain,LST1418,Japan,Free,Desktop,9,29.0,0.0135,Yes,1,Radio,1
+STR00144,20250228,9,26,Midnight Light,LST1054,Japan,Premium,Mobile,15,35.4,0.1025,Yes,1,Editorial Playlist,5
+STR00397,20250228,11,32,Distant Home,LST1228,Canada,Free,Smart Speaker,14,45.7,0.021,Yes,5,Editorial Playlist,1
+STR01480,20250228,10,28,Golden Dreams,LST1089,USA,Family,Tablet,6,16.5,0.0478,No,0,Radio,4
+STR00881,20250302,19,55,Broken Hearts,LST1309,France,Premium,Smart Speaker,11,26.4,0.0845,Yes,4,User Playlist,4
+STR01757,20250302,4,12,Little Light,LST1166,Japan,Premium,Smart Speaker,12,30.6,0.089,Yes,2,Search,2
+STR01135,20250303,12,34,Summer Home,LST1356,Australia,Premium,Smart TV,16,51.9,0.107,Yes,2,Editorial Playlist,2
+STR01348,20250303,18,54,Endless Home,LST1125,Australia,Family,Desktop,3,9.8,0.0364,Yes,0,Editorial Playlist,5
+STR01511,20250303,3,9,Summer Road,LST1180,Australia,Family,Desktop,12,54.2,0.0706,No,2,Album Page,5
+STR01578,20250303,19,55,Distant Light,LST1177,Australia,Free,Mobile,9,20.2,0.0135,Yes,0,Album Page,1
+STR00838,20250304,19,57,Golden Sky,LST1139,Japan,Premium,Mobile,15,56.1,0.1025,Yes,3,Album Page,3
+STR00705,20250305,19,55,Little Light,LST1187,Germany,Free,Smart Speaker,9,42.9,0.0135,Yes,5,User Playlist,5
+STR00876,20250305,20,58,Dancing Waves,LST1059,Canada,Free,Tablet,2,8.6,0.003,No,0,Radio,4
+STR00506,20250306,12,34,Fading Light,LST1142,Australia,Student,Smart Speaker,6,14.7,0.036,No,5,Search,2
+STR00686,20250306,11,31,Summer Waves,LST1425,USA,Premium,Tablet,13,28.9,0.0935,No,2,Search,4
+STR01143,20250306,16,48,Dancing Waves,LST1265,Germany,Free,Tablet,12,43.8,0.018,No,0,Radio,1
+STR01553,20250306,1,1,Broken Road,LST1372,Germany,Free,Smart TV,3,7.1,0.0045,No,1,Radio,3
+STR01785,20250306,13,38,Summer Memories,LST1369,Germany,Free,Smart TV,6,23.7,0.009,Yes,5,Radio,2
+STR00418,20250307,18,52,Distant Home,LST1090,Japan,Free,Smart TV,11,29.8,0.0165,No,2,Radio,2
+STR00701,20250307,7,21,Fading Memories,LST1095,Canada,Premium,Smart Speaker,11,29.8,0.0845,No,2,User Playlist,2
+STR01038,20250307,13,37,Endless Light,LST1157,Brazil,Premium,Desktop,15,61.0,0.1025,Yes,0,User Playlist,1
+STR01116,20250307,4,10,Endless Memories,LST1073,Germany,Free,Tablet,15,39.9,0.0225,Yes,0,Album Page,3
+STR01266,20250307,16,48,Silent Home,LST1335,USA,Free,Tablet,7,31.7,0.0105,Yes,1,User Playlist,3
+STR00268,20250308,16,48,Electric Hearts,LST1036,Germany,Premium,Smart TV,6,24.8,0.062,Yes,1,Search,5
+STR00635,20250308,11,31,Golden Hearts,LST1242,UK,Family,Desktop,7,19.2,0.0516,No,2,Search,5
+STR00408,20250309,2,4,Broken Waves,LST1377,UK,Free,Smart TV,10,29.3,0.015,No,5,Album Page,1
+STR00240,20250310,16,48,Midnight Memories,LST1439,UAE,Premium,Desktop,7,18.6,0.0665,No,3,Search,3
+STR01328,20250310,13,39,Midnight Stars,LST1355,Brazil,Family,Tablet,15,55.8,0.082,Yes,3,Editorial Playlist,3
+STR01364,20250310,5,15,Golden Light,LST1098,France,Student,Smart Speaker,3,12.3,0.027,No,5,Radio,5
+STR00188,20250311,15,45,Golden Hearts,LST1115,Germany,Premium,Desktop,3,10.4,0.0485,No,2,User Playlist,2
+STR01070,20250311,3,9,Little Home,LST1241,Canada,Free,Desktop,12,47.7,0.018,Yes,3,Search,3
+STR01374,20250311,7,20,Broken Fire,LST1322,UK,Premium,Mobile,13,32.0,0.0935,Yes,2,Album Page,3
+STR00175,20250312,6,17,Midnight Road,LST1209,Australia,Premium,Tablet,5,13.3,0.0575,No,2,Search,1
+STR00385,20250312,10,28,Golden Memories,LST1373,France,Premium,Smart TV,14,63.8,0.098,No,1,Radio,3
+STR01225,20250312,3,9,Little Sky,LST1026,UAE,Family,Mobile,5,19.1,0.044,No,5,Radio,5
+STR00251,20250313,2,5,Endless Rain,LST1444,Brazil,Family,Desktop,3,8.1,0.0364,No,5,User Playlist,1
+STR00908,20250313,16,48,Broken Rain,LST1088,Brazil,Student,Mobile,13,58.2,0.057,Yes,4,User Playlist,1
+STR00114,20250314,5,14,Endless Fire,LST1162,Brazil,Free,Smart TV,15,31.9,0.0225,Yes,1,Search,5
+STR00440,20250314,20,59,Distant Waves,LST1135,UK,Student,Desktop,5,11.1,0.033,Yes,0,Album Page,3
+STR01744,20250314,4,10,Shining Light,LST1280,India,Free,Smart Speaker,5,16.0,0.0075,Yes,5,Album Page,2
+STR00687,20250315,8,24,Golden Rain,LST1449,Germany,Premium,Smart TV,14,42.5,0.098,Yes,1,Radio,3
+STR00768,20250315,8,23,Distant Home,LST1316,Canada,Premium,Smart Speaker,15,47.8,0.1025,Yes,3,User Playlist,3
+STR01300,20250315,8,23,Dancing Waves,LST1062,Japan,Premium,Tablet,10,27.3,0.08,No,4,Album Page,1
+STR01484,20250315,16,46,Broken Light,LST1118,UAE,Free,Mobile,17,39.5,0.0255,Yes,5,User Playlist,1
+STR00214,20250316,15,45,Golden Road,LST1333,UK,Free,Smart TV,8,38.2,0.012,No,0,Editorial Playlist,3
+STR00345,20250317,7,21,Midnight Stars,LST1332,Canada,Free,Desktop,4,9.5,0.006,Yes,4,Radio,2
+STR01245,20250317,9,27,Silent Echoes,LST1158,Japan,Free,Desktop,16,61.8,0.024,Yes,4,User Playlist,3
+STR01288,20250317,6,17,Silent Home,LST1082,UK,Free,Smart TV,2,6.0,0.003,No,4,Radio,3
+STR01593,20250317,12,35,Little Dreams,LST1167,Brazil,Free,Desktop,11,51.9,0.0165,No,1,Search,2
+STR00210,20250318,9,27,Midnight Hearts,LST1292,UK,Family,Smart Speaker,12,41.9,0.0706,Yes,3,Search,1
+STR00570,20250318,7,21,Endless Echoes,LST1306,Japan,Free,Smart TV,2,4.6,0.003,No,1,User Playlist,4
+STR00901,20250320,15,44,Midnight Memories,LST1433,Japan,Free,Desktop,2,7.2,0.003,No,2,Album Page,3
+STR01478,20250320,7,20,Silent Dreams,LST1097,USA,Premium,Smart TV,8,32.0,0.071,Yes,4,Search,5
+STR01672,20250320,16,46,Midnight Rain,LST1155,USA,Family,Tablet,12,26.8,0.0706,Yes,3,Editorial Playlist,5
+STR00676,20250322,18,54,Distant Home,LST1091,Canada,Premium,Smart Speaker,10,21.0,0.08,Yes,2,Album Page,1
+STR01025,20250322,15,43,Golden Fire,LST1411,India,Free,Tablet,8,22.9,0.012,Yes,4,Editorial Playlist,3
+STR01382,20250322,19,56,Fading Fire,LST1429,Canada,Premium,Smart Speaker,10,21.1,0.08,Yes,0,Album Page,1
+STR00487,20250323,17,51,Golden Fire,LST1439,Germany,Family,Desktop,5,11.0,0.044,No,0,Album Page,5
+STR00616,20250323,8,24,Dancing Hearts,LST1360,Canada,Free,Desktop,12,49.4,0.018,Yes,3,Search,2
+STR00855,20250324,17,49,Midnight Hearts,LST1269,UAE,Premium,Tablet,11,35.5,0.0845,Yes,1,Editorial Playlist,5
+STR01549,20250324,17,50,Summer Fire,LST1361,Australia,Premium,Desktop,1,4.3,0.0395,Yes,0,User Playlist,3
+STR01747,20250324,7,20,Broken Hearts,LST1199,France,Free,Smart TV,12,40.4,0.018,No,4,Editorial Playlist,5
+STR00043,20250325,12,36,Golden Stars,LST1154,Japan,Free,Smart TV,9,22.9,0.0135,Yes,4,Radio,3
+STR00392,20250325,2,6,Golden Stars,LST1324,UAE,Free,Tablet,17,61.7,0.0255,Yes,2,Album Page,5
+STR00673,20250325,12,35,Silent Memories,LST1088,India,Free,Tablet,9,25.3,0.0135,Yes,0,Album Page,3
+STR00321,20250326,1,3,Broken Stars,LST1124,Australia,Free,Mobile,15,64.4,0.0225,No,1,Radio,4
+STR00422,20250326,2,4,Summer Memories,LST1301,Japan,Student,Smart TV,7,25.3,0.039,No,1,User Playlist,4
+STR00620,20250326,3,7,Broken Hearts,LST1241,Canada,Free,Desktop,17,36.3,0.0255,Yes,4,User Playlist,3
+STR00707,20250326,6,17,Summer Stars,LST1198,Australia,Premium,Smart TV,3,8.5,0.0485,No,0,User Playlist,3
+STR01566,20250326,11,32,Endless Fire,LST1010,India,Family,Tablet,6,28.5,0.0478,Yes,4,Album Page,3
+STR01605,20250327,20,58,Endless Waves,LST1304,France,Free,Tablet,2,4.8,0.003,No,0,Album Page,1
+STR01274,20250328,15,45,Fading Road,LST1095,USA,Free,Desktop,5,12.2,0.0075,Yes,3,Search,4
+STR01381,20250328,9,25,Electric Memories,LST1217,USA,Free,Mobile,10,36.5,0.015,Yes,3,User Playlist,5
+STR00920,20250329,14,41,Broken Dreams,LST1199,Brazil,Free,Smart TV,3,13.1,0.0045,No,5,Editorial Playlist,1
+STR01117,20250329,5,14,Electric Dreams,LST1088,Canada,Student,Desktop,3,12.2,0.027,No,0,Radio,2
+STR01260,20250329,18,54,Golden Waves,LST1370,UAE,Free,Smart Speaker,12,31.6,0.018,No,0,Radio,4
+STR00063,20250330,20,59,Shining Sky,LST1119,Canada,Family,Tablet,6,27.7,0.0478,Yes,2,Search,3
+STR00395,20250330,3,7,Endless Road,LST1275,Canada,Student,Desktop,16,41.0,0.066,Yes,4,Radio,4
+STR01010,20250330,10,29,Midnight Memories,LST1341,UK,Student,Tablet,12,36.4,0.054,Yes,0,Editorial Playlist,4
+STR01358,20250330,14,40,Little Light,LST1412,USA,Family,Tablet,8,36.8,0.0554,Yes,0,Radio,5
+STR00545,20250331,19,57,Broken Stars,LST1266,USA,Student,Smart Speaker,15,66.5,0.063,Yes,3,Search,3
+STR00931,20250331,8,24,Golden Road,LST1189,Canada,Premium,Smart Speaker,13,27.8,0.0935,Yes,0,Search,1
+STR01702,20250331,5,15,Fading Dreams,LST1256,USA,Premium,Mobile,15,47.8,0.1025,No,4,Editorial Playlist,5
+STR00716,20250402,19,57,Broken Fire,LST1197,France,Premium,Mobile,10,26.6,0.08,Yes,1,User Playlist,3
+STR00319,20250403,6,18,Little Fire,LST1356,France,Family,Smart TV,17,62.8,0.0896,Yes,5,Radio,4
+STR01475,20250403,9,27,Electric Hearts,LST1118,USA,Student,Mobile,5,20.2,0.033,No,1,Album Page,2
+STR00891,20250404,13,39,Little Sky,LST1078,Canada,Premium,Mobile,15,52.0,0.1025,Yes,2,Search,4
+STR01473,20250404,19,55,Summer Echoes,LST1362,India,Free,Desktop,7,18.2,0.0105,No,2,Search,4
+STR00600,20250405,8,24,Golden Stars,LST1009,Brazil,Family,Smart Speaker,5,10.8,0.044,Yes,3,User Playlist,5
+STR00892,20250406,2,4,Shining Road,LST1394,France,Premium,Smart TV,6,18.5,0.062,Yes,2,Album Page,3
+STR00378,20250407,19,55,Distant Hearts,LST1148,Australia,Premium,Tablet,5,21.6,0.0575,No,4,Radio,3
+STR00831,20250407,3,9,Golden Echoes,LST1293,France,Free,Tablet,17,62.6,0.0255,Yes,5,User Playlist,5
+STR01730,20250407,13,37,Endless Echoes,LST1397,Australia,Free,Tablet,6,28.1,0.009,Yes,1,Album Page,2
+STR00178,20250408,14,40,Fading Light,LST1300,Germany,Free,Smart Speaker,1,4.4,0.0015,No,1,Radio,3
+STR00195,20250408,4,12,Little Hearts,LST1227,France,Free,Smart Speaker,6,28.7,0.009,Yes,2,Album Page,3
+STR00463,20250408,20,58,Dancing Road,LST1158,UK,Student,Desktop,16,63.8,0.066,Yes,4,User Playlist,2
+STR00678,20250408,13,38,Midnight Rain,LST1140,Australia,Free,Desktop,13,43.6,0.0195,No,3,User Playlist,5
+STR00916,20250408,13,39,Electric Hearts,LST1240,UAE,Free,Smart TV,17,38.8,0.0255,No,2,Search,5
+STR01090,20250408,13,38,Little Echoes,LST1363,UK,Student,Smart TV,6,23.0,0.036,Yes,2,Album Page,5
+STR00061,20250409,15,43,Electric Waves,LST1354,India,Student,Desktop,1,4.7,0.021,No,0,Search,1
+STR01137,20250409,1,3,Shining Sky,LST1439,France,Free,Tablet,1,4.5,0.0015,Yes,0,Search,4
+STR01187,20250409,15,44,Distant Memories,LST1101,UK,Free,Smart Speaker,10,30.5,0.015,No,4,Album Page,5
+STR01305,20250409,16,47,Midnight Memories,LST1386,Japan,Student,Mobile,7,32.7,0.039,Yes,0,User Playlist,1
+STR00393,20250410,9,25,Endless Waves,LST1307,India,Free,Mobile,11,31.4,0.0165,No,3,Radio,4
+STR00502,20250410,10,28,Golden Sky,LST1081,India,Free,Tablet,15,67.2,0.0225,Yes,4,Search,1
+STR00640,20250410,4,12,Summer Stars,LST1216,India,Free,Desktop,17,58.4,0.0255,No,0,Album Page,4
+STR00955,20250410,2,6,Shining Light,LST1065,Canada,Premium,Desktop,4,13.7,0.053,Yes,0,User Playlist,1
+STR01705,20250410,20,58,Endless Waves,LST1122,USA,Family,Desktop,4,10.2,0.0402,Yes,1,Album Page,1
+STR00848,20250411,7,20,Shining Waves,LST1197,India,Student,Mobile,14,42.4,0.06,No,1,Search,4
+STR01057,20250411,12,34,Little Sky,LST1402,UAE,Free,Desktop,5,19.3,0.0075,Yes,4,Radio,3
+STR00336,20250412,10,28,Golden Dreams,LST1300,Brazil,Premium,Smart Speaker,11,24.1,0.0845,Yes,0,Album Page,1
+STR01714,20250412,14,42,Endless Road,LST1149,Germany,Student,Desktop,3,12.3,0.027,No,2,Editorial Playlist,3
+STR00788,20250413,4,11,Shining Dreams,LST1422,Brazil,Family,Smart TV,13,37.5,0.0744,Yes,0,Search,4
+STR00289,20250414,4,11,Fading Sky,LST1383,UK,Premium,Desktop,4,18.8,0.053,Yes,5,Album Page,1
+STR00320,20250414,15,44,Midnight Light,LST1160,India,Premium,Smart Speaker,5,10.7,0.0575,Yes,0,Search,2
+STR01435,20250416,6,18,Shining Fire,LST1120,UK,Free,Desktop,5,23.5,0.0075,No,3,Editorial Playlist,5
+STR01437,20250417,4,11,Shining Hearts,LST1011,UAE,Premium,Mobile,14,60.9,0.098,Yes,2,Editorial Playlist,4
+STR00704,20250418,17,51,Endless Dreams,LST1164,Australia,Free,Mobile,1,3.4,0.0015,No,1,Search,3
+STR01735,20250418,8,23,Little Fire,LST1396,Germany,Free,Mobile,17,67.4,0.0255,Yes,2,Album Page,3
+STR01792,20250418,3,9,Little Dreams,LST1329,Brazil,Premium,Tablet,10,40.7,0.08,Yes,3,Radio,3
+STR00654,20250419,5,15,Silent Light,LST1001,USA,Premium,Mobile,4,15.7,0.053,Yes,0,User Playlist,4
+STR00850,20250419,14,40,Golden Home,LST1313,Australia,Family,Smart TV,6,23.4,0.0478,No,1,Radio,2
+STR00941,20250419,7,20,Silent Rain,LST1371,Australia,Student,Smart Speaker,6,14.2,0.036,Yes,5,User Playlist,4
+STR00544,20250420,19,57,Fading Rain,LST1347,Germany,Student,Mobile,16,55.2,0.066,No,1,Search,2
+STR00809,20250420,3,7,Fading Echoes,LST1377,Japan,Free,Smart TV,13,28.9,0.0195,Yes,5,Album Page,1
+STR00925,20250420,15,45,Electric Stars,LST1119,UAE,Free,Tablet,9,36.2,0.0135,Yes,1,Radio,3
+STR00975,20250420,16,47,Electric Memories,LST1394,UK,Family,Desktop,16,55.7,0.0858,Yes,0,Editorial Playlist,1
+STR01607,20250420,3,9,Endless Light,LST1250,France,Premium,Smart TV,7,33.2,0.0665,Yes,1,Search,4
+STR00222,20250421,3,8,Fading Fire,LST1442,UAE,Free,Tablet,17,69.6,0.0255,Yes,1,Radio,2
+STR00491,20250421,17,51,Dancing Rain,LST1065,France,Free,Smart TV,8,34.3,0.012,No,1,User Playlist,3
+STR00706,20250421,3,9,Fading Memories,LST1226,UAE,Premium,Mobile,6,20.8,0.062,No,4,User Playlist,3
+STR01532,20250421,14,42,Endless Rain,LST1423,France,Free,Tablet,8,20.2,0.012,Yes,2,Editorial Playlist,3
+STR00372,20250422,18,53,Golden Rain,LST1070,UAE,Free,Desktop,6,21.2,0.009,Yes,5,Album Page,5
+STR01118,20250422,17,49,Endless Stars,LST1293,France,Family,Smart TV,8,21.4,0.0554,Yes,2,Radio,4
+STR01158,20250422,20,59,Summer Fire,LST1278,Brazil,Free,Smart Speaker,11,49.8,0.0165,No,0,Editorial Playlist,3
+STR01443,20250422,17,49,Electric Hearts,LST1168,Brazil,Free,Smart Speaker,10,39.0,0.015,Yes,2,Editorial Playlist,4
+STR00944,20250423,4,12,Fading Fire,LST1443,Japan,Family,Mobile,6,23.7,0.0478,Yes,2,Editorial Playlist,1
+STR00562,20250424,10,29,Golden Waves,LST1414,UAE,Free,Smart TV,9,38.5,0.0135,Yes,5,Album Page,1
+STR00450,20250425,12,36,Midnight Road,LST1115,UK,Free,Smart Speaker,4,16.2,0.006,No,4,Album Page,3
+STR00997,20250425,3,8,Broken Light,LST1253,Australia,Premium,Desktop,6,15.3,0.062,No,4,Radio,5
+STR01413,20250425,8,24,Golden Home,LST1279,UAE,Premium,Tablet,13,42.7,0.0935,Yes,3,Editorial Playlist,5
+STR01701,20250425,2,6,Broken Waves,LST1004,Australia,Free,Tablet,7,27.2,0.0105,Yes,4,Search,4
+STR01317,20250426,10,28,Little Fire,LST1273,Brazil,Family,Smart TV,15,47.8,0.082,Yes,0,Editorial Playlist,1
+STR01743,20250426,11,33,Dancing Waves,LST1200,Brazil,Free,Smart Speaker,15,41.0,0.0225,Yes,1,Search,3
+STR00036,20250427,5,15,Fading Sky,LST1177,Canada,Free,Desktop,7,18.5,0.0105,No,2,Radio,1
+STR01679,20250427,2,6,Golden Road,LST1441,USA,Family,Smart Speaker,15,36.3,0.082,Yes,1,Album Page,2
+STR01742,20250427,1,3,Distant Dreams,LST1427,France,Free,Smart Speaker,6,16.5,0.009,Yes,0,Radio,5
+STR01770,20250427,5,13,Silent Waves,LST1293,Canada,Premium,Smart Speaker,4,12.6,0.053,No,5,User Playlist,5
+STR00092,20250428,15,44,Broken Fire,LST1197,Brazil,Premium,Desktop,15,44.6,0.1025,Yes,3,Album Page,3
+STR00166,20250429,17,51,Fading Light,LST1186,Germany,Premium,Smart TV,8,31.2,0.071,Yes,4,Search,4
+STR00199,20250430,8,23,Endless Memories,LST1250,Japan,Student,Smart TV,4,12.0,0.03,Yes,3,Radio,3
+STR01368,20250430,12,34,Broken Rain,LST1266,Germany,Free,Smart Speaker,16,42.7,0.024,No,1,Radio,4
+STR00031,20250501,6,16,Silent Echoes,LST1426,India,Free,Desktop,13,36.6,0.0195,Yes,0,Editorial Playlist,1
+STR00539,20250501,14,42,Little Hearts,LST1377,Germany,Premium,Smart TV,10,26.0,0.08,Yes,1,Radio,2
+STR00542,20250501,8,24,Summer Stars,LST1409,Canada,Free,Desktop,6,14.1,0.009,No,0,Search,4
+STR00769,20250503,6,16,Distant Stars,LST1092,Germany,Free,Desktop,2,8.1,0.003,Yes,0,Editorial Playlist,2
+STR00579,20250504,14,42,Broken Memories,LST1085,Brazil,Family,Tablet,3,10.6,0.0364,No,4,Radio,1
+STR00852,20250504,14,41,Midnight Fire,LST1135,UAE,Free,Desktop,15,34.3,0.0225,No,4,User Playlist,4
+STR01333,20250504,5,15,Electric Home,LST1411,France,Free,Smart TV,7,21.5,0.0105,No,3,Editorial Playlist,5
+STR00003,20250505,7,19,Distant Sky,LST1009,France,Free,Smart TV,10,46.0,0.015,No,3,Editorial Playlist,1
+STR00361,20250505,8,23,Broken Road,LST1130,UK,Free,Tablet,1,4.4,0.0015,No,3,Search,3
+STR00456,20250505,20,58,Midnight Rain,LST1445,Germany,Premium,Smart TV,3,8.9,0.0485,Yes,1,Editorial Playlist,2
+STR01026,20250505,7,19,Dancing Rain,LST1204,Japan,Family,Smart TV,7,14.8,0.0516,No,4,User Playlist,5
+STR01147,20250505,12,36,Electric Memories,LST1155,UAE,Premium,Smart TV,2,9.6,0.044,Yes,1,Editorial Playlist,1
+STR00032,20250506,14,40,Fading Rain,LST1191,Canada,Family,Smart Speaker,10,46.1,0.063,Yes,5,Album Page,5
+STR01533,20250507,13,39,Endless Home,LST1057,USA,Family,Desktop,15,71.2,0.082,Yes,1,Editorial Playlist,3
+STR00791,20250508,6,17,Midnight Home,LST1254,Australia,Free,Smart TV,4,11.6,0.006,Yes,5,Album Page,4
+STR00994,20250508,16,47,Distant Echoes,LST1239,Japan,Family,Desktop,10,28.4,0.063,Yes,3,User Playlist,3
+STR01049,20250508,11,31,Broken Sky,LST1327,Brazil,Free,Desktop,6,16.9,0.009,Yes,5,Editorial Playlist,2
+STR01144,20250508,16,47,Endless Memories,LST1081,UK,Student,Tablet,14,57.8,0.06,Yes,0,Editorial Playlist,3
+STR00136,20250510,8,22,Dancing Stars,LST1228,UAE,Free,Mobile,7,19.1,0.0105,Yes,1,Search,2
+STR01018,20250510,7,21,Summer Fire,LST1353,Australia,Student,Tablet,7,30.9,0.039,No,5,Editorial Playlist,4
+STR01388,20250510,6,18,Shining Sky,LST1073,USA,Student,Tablet,8,17.3,0.042,No,2,Radio,5
+STR01754,20250510,14,40,Midnight Dreams,LST1149,Australia,Free,Smart Speaker,9,42.5,0.0135,Yes,4,Radio,2
+STR00431,20250511,4,12,Broken Fire,LST1096,Brazil,Premium,Mobile,4,18.2,0.053,No,1,Editorial Playlist,4
+STR01047,20250511,17,49,Little Stars,LST1030,Germany,Premium,Tablet,17,50.3,0.1115,Yes,5,User Playlist,1
+STR00270,20250512,11,31,Shining Hearts,LST1427,Australia,Premium,Desktop,14,32.9,0.098,Yes,2,Editorial Playlist,2
+STR00547,20250512,20,58,Endless Home,LST1449,UAE,Premium,Smart Speaker,8,20.1,0.071,Yes,4,User Playlist,3
+STR01416,20250513,11,31,Broken Waves,LST1450,UK,Free,Mobile,1,4.8,0.0015,No,2,User Playlist,3
+STR01423,20250513,7,20,Electric Waves,LST1023,Canada,Premium,Desktop,17,74.2,0.1115,Yes,3,Radio,4
+STR01693,20250513,11,32,Silent Home,LST1016,Germany,Premium,Mobile,11,33.5,0.0845,No,2,User Playlist,1
+STR01230,20250514,19,57,Shining Fire,LST1106,UAE,Premium,Desktop,14,41.8,0.098,Yes,1,User Playlist,1
+STR00533,20250515,4,12,Endless Light,LST1410,Germany,Free,Smart TV,14,36.2,0.021,Yes,2,Radio,4
+STR01500,20250515,2,5,Shining Echoes,LST1097,France,Student,Desktop,3,8.2,0.027,Yes,0,User Playlist,4
+STR00335,20250516,8,22,Little Sky,LST1218,Canada,Premium,Mobile,4,14.2,0.053,Yes,5,Radio,1
+STR00356,20250516,12,34,Endless Light,LST1144,USA,Free,Desktop,15,45.5,0.0225,Yes,5,Radio,3
+STR00508,20250516,7,20,Distant Light,LST1195,Germany,Premium,Smart TV,4,9.9,0.053,No,3,Album Page,1
+STR00782,20250517,19,56,Dancing Rain,LST1415,France,Premium,Smart Speaker,4,13.9,0.053,No,0,Album Page,2
+STR01267,20250517,13,37,Little Light,LST1401,USA,Free,Tablet,1,3.3,0.0015,No,0,Album Page,1
+STR00307,20250518,20,58,Electric Fire,LST1271,UAE,Student,Smart Speaker,2,7.9,0.024,Yes,0,User Playlist,1
+STR00869,20250518,11,31,Distant Stars,LST1150,UK,Premium,Smart Speaker,12,31.3,0.089,No,1,Editorial Playlist,3
+STR00903,20250519,17,51,Silent Rain,LST1302,USA,Free,Desktop,14,46.6,0.021,Yes,5,Radio,1
+STR00661,20250520,4,10,Electric Home,LST1306,UK,Premium,Mobile,12,50.8,0.089,No,4,Album Page,5
+STR01334,20250521,2,5,Silent Dreams,LST1010,UK,Free,Smart TV,6,16.5,0.009,No,1,Search,4
+STR00142,20250522,4,10,Endless Light,LST1125,Brazil,Premium,Mobile,13,29.2,0.0935,No,3,User Playlist,5
+STR00386,20250522,4,12,Electric Sky,LST1199,Germany,Free,Desktop,5,20.0,0.0075,No,5,Album Page,3
+STR00595,20250524,19,55,Midnight Home,LST1421,Australia,Free,Tablet,8,33.8,0.012,No,4,Album Page,2
+STR01795,20250524,13,38,Midnight Hearts,LST1070,Japan,Free,Mobile,3,10.9,0.0045,No,4,User Playlist,5
+STR00586,20250525,11,32,Endless Road,LST1004,USA,Family,Smart Speaker,17,52.0,0.0896,Yes,4,Radio,1
+STR01192,20250525,9,26,Electric Light,LST1207,Germany,Free,Tablet,6,20.6,0.009,Yes,2,Editorial Playlist,3
+STR00652,20250526,11,33,Dancing Light,LST1160,Germany,Free,Smart Speaker,3,8.5,0.0045,No,1,Editorial Playlist,2
+STR01023,20250526,1,1,Silent Stars,LST1416,Canada,Free,Tablet,10,25.7,0.015,Yes,0,Album Page,3
+STR01453,20250526,2,6,Silent Stars,LST1130,Japan,Free,Smart Speaker,1,4.3,0.0015,No,4,User Playlist,2
+STR01068,20250527,17,51,Summer Road,LST1015,France,Free,Mobile,16,70.1,0.024,Yes,2,Radio,4
+STR00702,20250528,19,56,Endless Road,LST1033,UK,Student,Desktop,10,22.0,0.048,Yes,3,User Playlist,4
+STR00914,20250528,18,52,Golden Sky,LST1264,France,Premium,Smart Speaker,5,10.6,0.0575,Yes,1,Radio,4
+STR01315,20250528,7,21,Shining Rain,LST1059,India,Premium,Mobile,11,49.4,0.0845,No,4,Radio,4
+STR00784,20250530,13,37,Midnight Light,LST1204,USA,Free,Tablet,4,13.9,0.006,No,3,Search,2
+STR00761,20250531,9,26,Fading Rain,LST1410,Australia,Free,Smart TV,2,5.4,0.003,Yes,4,Radio,1
+STR01259,20250531,18,53,Little Home,LST1112,UAE,Premium,Tablet,12,56.0,0.089,Yes,4,User Playlist,1
+STR01320,20250601,15,43,Midnight Road,LST1311,UK,Premium,Smart Speaker,16,64.5,0.107,Yes,1,Editorial Playlist,1
+STR00261,20250602,9,25,Golden Sky,LST1277,Brazil,Free,Smart TV,3,8.6,0.0045,Yes,4,Album Page,4
+STR00612,20250602,13,39,Summer Echoes,LST1379,India,Student,Mobile,2,9.1,0.024,Yes,3,Album Page,1
+STR00626,20250602,6,18,Endless Memories,LST1019,UAE,Free,Smart TV,8,23.6,0.012,No,4,User Playlist,5
+STR00765,20250602,10,29,Golden Home,LST1076,Australia,Premium,Desktop,16,54.0,0.107,Yes,3,Search,4
+STR01037,20250602,13,39,Midnight Waves,LST1044,Japan,Premium,Desktop,17,72.4,0.1115,Yes,0,User Playlist,2
+STR01614,20250603,7,21,Electric Memories,LST1202,India,Student,Smart TV,7,28.0,0.039,Yes,0,Radio,3
+STR00797,20250604,14,42,Dancing Road,LST1249,UK,Free,Smart TV,14,31.0,0.021,Yes,0,User Playlist,2
+STR01242,20250604,4,10,Midnight Stars,LST1215,India,Premium,Smart TV,2,8.6,0.044,No,4,Editorial Playlist,5
+STR00917,20250605,7,20,Golden Dreams,LST1247,Brazil,Student,Desktop,10,36.0,0.048,Yes,2,User Playlist,3
+STR00996,20250605,15,43,Shining Memories,LST1210,Japan,Free,Smart TV,10,21.3,0.015,No,4,User Playlist,2
+STR00150,20250606,20,59,Endless Memories,LST1352,India,Free,Smart Speaker,3,9.4,0.0045,Yes,4,Search,3
+STR01775,20250606,10,28,Silent Memories,LST1406,Japan,Free,Desktop,10,36.1,0.015,Yes,1,User Playlist,1
+STR00494,20250608,8,24,Distant Hearts,LST1390,Canada,Student,Mobile,14,44.0,0.06,Yes,1,Album Page,2
+STR01052,20250608,10,29,Electric Hearts,LST1276,UAE,Free,Mobile,5,19.3,0.0075,No,4,Search,2
+STR01395,20250608,6,16,Shining Rain,LST1392,UAE,Premium,Smart Speaker,1,3.9,0.0395,Yes,3,Album Page,1
+STR01470,20250609,13,39,Fading Waves,LST1250,India,Student,Mobile,1,3.9,0.021,No,4,Album Page,3
+STR00115,20250610,14,41,Midnight Memories,LST1116,Australia,Premium,Desktop,17,44.4,0.1115,Yes,2,Editorial Playlist,3
+STR00928,20250610,9,26,Summer Fire,LST1196,France,Free,Desktop,17,44.1,0.0255,No,0,Editorial Playlist,3
+STR01623,20250610,5,14,Fading Hearts,LST1434,India,Free,Desktop,10,37.0,0.015,Yes,1,User Playlist,1
+STR01739,20250610,13,37,Summer Fire,LST1339,UK,Free,Smart Speaker,12,33.1,0.018,Yes,3,Editorial Playlist,1
+STR01784,20250610,13,39,Endless Memories,LST1299,Japan,Free,Smart Speaker,12,47.1,0.018,No,3,Search,1
+STR00417,20250611,17,49,Broken Memories,LST1421,Brazil,Free,Smart Speaker,8,16.9,0.012,Yes,1,Album Page,2
+STR00447,20250611,10,28,Summer Dreams,LST1369,Canada,Premium,Smart Speaker,13,55.4,0.0935,No,3,Editorial Playlist,2
+STR01361,20250611,19,55,Golden Rain,LST1161,India,Free,Smart Speaker,10,31.2,0.015,No,1,Album Page,1
+STR00181,20250612,1,3,Silent Memories,LST1379,Brazil,Family,Mobile,6,19.0,0.0478,Yes,3,User Playlist,2
+STR00401,20250612,14,40,Silent Stars,LST1400,Japan,Free,Smart Speaker,6,21.4,0.009,No,2,Editorial Playlist,2
+STR00513,20250612,11,31,Distant Rain,LST1446,Brazil,Free,Smart Speaker,2,9.6,0.003,No,3,Album Page,3
+STR00839,20250612,17,51,Endless Home,LST1389,Brazil,Free,Smart Speaker,10,39.0,0.015,No,5,Editorial Playlist,3
+STR00857,20250613,16,46,Little Hearts,LST1399,Brazil,Premium,Mobile,9,42.0,0.0755,Yes,2,Search,4
+STR00396,20250614,9,27,Summer Memories,LST1235,Brazil,Free,Mobile,9,40.0,0.0135,Yes,3,Search,2
+STR01318,20250614,20,59,Golden Fire,LST1079,Brazil,Family,Desktop,16,60.5,0.0858,Yes,5,Album Page,4
+STR01390,20250614,18,54,Summer Home,LST1150,Germany,Free,Smart TV,16,55.3,0.024,No,2,Album Page,1
+STR01738,20250614,17,49,Summer Waves,LST1350,UK,Free,Smart Speaker,15,33.0,0.0225,No,0,User Playlist,4
+STR01787,20250614,11,31,Electric Fire,LST1012,Japan,Premium,Mobile,16,37.6,0.107,Yes,3,User Playlist,5
+STR00038,20250615,11,32,Endless Dreams,LST1323,India,Family,Smart TV,6,20.2,0.0478,Yes,0,Editorial Playlist,5
+STR00433,20250615,20,60,Shining Fire,LST1171,Brazil,Premium,Tablet,17,62.1,0.1115,Yes,5,Radio,4
+STR01505,20250615,16,48,Silent Home,LST1162,Brazil,Free,Smart TV,7,19.5,0.0105,Yes,1,Album Page,5
+STR01599,20250615,11,33,Midnight Home,LST1037,Japan,Premium,Desktop,17,62.5,0.1115,Yes,1,Radio,4
+STR00451,20250616,19,57,Summer Hearts,LST1096,Japan,Free,Desktop,11,28.7,0.0165,No,4,User Playlist,3
+STR00037,20250617,20,59,Electric Memories,LST1304,Japan,Free,Desktop,9,25.3,0.0135,Yes,2,Editorial Playlist,2
+STR00480,20250617,12,36,Dancing Road,LST1362,Japan,Free,Smart Speaker,7,23.0,0.0105,No,2,User Playlist,1
+STR00457,20250618,7,21,Distant Waves,LST1027,USA,Free,Desktop,14,59.3,0.021,Yes,1,Search,2
+STR00753,20250618,7,19,Electric Echoes,LST1296,Japan,Student,Tablet,14,55.5,0.06,Yes,1,Editorial Playlist,4
+STR01444,20250618,4,11,Distant Dreams,LST1192,Australia,Free,Smart TV,13,35.6,0.0195,Yes,4,Search,1
+STR00938,20250619,5,14,Shining Sky,LST1347,Germany,Free,Tablet,17,76.6,0.0255,Yes,0,Search,1
+STR00729,20250620,16,46,Electric Stars,LST1363,UAE,Free,Desktop,2,4.9,0.003,Yes,0,User Playlist,5
+STR00952,20250620,6,16,Broken Road,LST1307,UAE,Free,Smart TV,7,16.0,0.0105,Yes,5,Album Page,5
+STR01293,20250620,7,21,Shining Fire,LST1152,Canada,Premium,Smart TV,3,7.5,0.0485,No,3,Radio,3
+STR01434,20250620,3,8,Silent Waves,LST1421,UK,Free,Mobile,14,44.6,0.021,Yes,0,Editorial Playlist,3
+STR00382,20250621,5,13,Midnight Waves,LST1339,Japan,Premium,Smart TV,13,55.1,0.0935,Yes,2,Search,2
+STR00606,20250621,10,30,Summer Sky,LST1110,Australia,Free,Tablet,13,46.3,0.0195,No,5,Search,5
+STR01069,20250621,20,60,Electric Fire,LST1172,Canada,Family,Smart TV,6,22.3,0.0478,Yes,1,Editorial Playlist,1
+STR01311,20250621,6,16,Dancing Stars,LST1117,Brazil,Family,Tablet,8,26.2,0.0554,No,2,User Playlist,2
+STR01580,20250621,10,30,Silent Waves,LST1346,UK,Premium,Mobile,10,27.7,0.08,No,0,Editorial Playlist,3
+STR01777,20250621,8,22,Silent Stars,LST1139,Japan,Free,Smart Speaker,1,2.3,0.0015,Yes,0,User Playlist,3
+STR00097,20250622,3,9,Summer Sky,LST1119,USA,Premium,Mobile,5,23.8,0.0575,Yes,0,Editorial Playlist,1
+STR00277,20250622,9,26,Silent Waves,LST1338,UK,Free,Tablet,7,33.1,0.0105,Yes,1,Search,4
+STR00351,20250622,3,9,Midnight Fire,LST1154,UAE,Free,Desktop,4,17.3,0.006,Yes,1,User Playlist,1
+STR00722,20250622,9,27,Endless Stars,LST1186,UK,Free,Tablet,17,54.2,0.0255,Yes,5,Album Page,3
+STR00191,20250623,7,21,Electric Dreams,LST1310,India,Free,Desktop,15,53.1,0.0225,Yes,4,Editorial Playlist,5
+STR00459,20250623,11,31,Little Home,LST1307,Germany,Family,Smart TV,7,30.2,0.0516,No,2,Album Page,3
+STR00477,20250623,16,47,Shining Dreams,LST1432,Canada,Premium,Tablet,1,3.5,0.0395,No,3,Editorial Playlist,4
+STR00525,20250623,16,48,Dancing Dreams,LST1141,UAE,Premium,Smart TV,12,52.6,0.089,Yes,0,Search,5
+STR01322,20250623,19,56,Silent Hearts,LST1297,Australia,Free,Tablet,9,21.5,0.0135,Yes,1,Editorial Playlist,2
+STR01778,20250623,1,1,Fading Road,LST1447,UK,Free,Smart Speaker,8,25.3,0.012,Yes,2,Album Page,3
+STR00152,20250624,2,5,Endless Rain,LST1238,Brazil,Free,Tablet,3,9.3,0.0045,No,2,Search,1
+STR00323,20250624,15,45,Endless Echoes,LST1292,UAE,Premium,Tablet,6,20.4,0.062,Yes,1,User Playlist,1
+STR01001,20250624,9,27,Silent Echoes,LST1312,UAE,Premium,Desktop,4,14.8,0.053,Yes,2,Radio,5
+STR01002,20250624,17,50,Electric Fire,LST1017,France,Premium,Mobile,16,45.0,0.107,Yes,3,Editorial Playlist,4
+STR01169,20250624,3,8,Dancing Memories,LST1230,France,Family,Smart Speaker,8,19.2,0.0554,No,4,Album Page,1
+STR01581,20250624,12,34,Summer Rain,LST1166,India,Free,Desktop,9,20.9,0.0135,No,2,Editorial Playlist,5
+STR00756,20250626,11,31,Electric Dreams,LST1072,Australia,Premium,Tablet,4,10.1,0.053,Yes,3,Search,2
+STR01114,20250626,4,12,Endless Fire,LST1144,Germany,Premium,Smart Speaker,17,41.8,0.1115,Yes,0,Search,4
+STR01442,20250626,7,19,Broken Waves,LST1193,USA,Student,Desktop,1,3.5,0.021,Yes,3,User Playlist,3
+STR01686,20250626,9,26,Distant Hearts,LST1062,Brazil,Free,Smart Speaker,4,15.0,0.006,No,1,Search,5
+STR00859,20250627,19,57,Golden Echoes,LST1014,Brazil,Free,Tablet,14,52.0,0.021,No,3,Radio,4
+STR01233,20250627,19,55,Distant Road,LST1292,Brazil,Free,Tablet,9,32.6,0.0135,No,2,Search,3
+STR01462,20250627,12,35,Shining Dreams,LST1171,Germany,Family,Tablet,5,23.5,0.044,No,5,Album Page,5
+STR01565,20250627,20,59,Dancing Rain,LST1282,Canada,Student,Desktop,13,34.8,0.057,Yes,5,Editorial Playlist,2
+STR00598,20250628,18,54,Dancing Dreams,LST1379,Japan,Free,Mobile,7,32.1,0.0105,Yes,3,Search,5
+STR00098,20250629,10,28,Golden Stars,LST1259,UK,Free,Desktop,3,10.3,0.0045,No,0,User Playlist,2
+STR00111,20250629,8,24,Distant Dreams,LST1382,Canada,Free,Tablet,17,46.6,0.0255,Yes,3,Album Page,1
+STR00232,20250629,2,4,Fading Memories,LST1187,Japan,Free,Tablet,8,19.5,0.012,Yes,3,Editorial Playlist,3
+STR01763,20250629,12,34,Distant Fire,LST1015,Brazil,Student,Tablet,2,6.3,0.024,No,5,Radio,1
+STR01619,20250630,6,16,Electric Sky,LST1287,UAE,Family,Tablet,7,20.3,0.0516,Yes,1,User Playlist,5
+STR00080,20250701,7,20,Dancing Home,LST1410,India,Free,Mobile,3,12.7,0.0045,Yes,4,Album Page,3
+STR00183,20250701,1,3,Shining Fire,LST1259,France,Free,Tablet,13,43.7,0.0195,Yes,3,Radio,3
+STR00615,20250701,19,56,Endless Sky,LST1082,Germany,Free,Mobile,11,45.6,0.0165,Yes,5,Search,4
+STR01764,20250701,7,21,Broken Sky,LST1064,USA,Free,Smart Speaker,15,46.3,0.0225,Yes,4,Album Page,5
+STR00954,20250702,3,9,Silent Light,LST1342,USA,Free,Tablet,5,20.7,0.0075,Yes,1,Search,4
+STR01704,20250702,16,48,Little Hearts,LST1356,Australia,Free,Tablet,14,60.7,0.021,Yes,5,User Playlist,2
+STR01769,20250702,15,44,Golden Light,LST1401,Australia,Premium,Smart Speaker,2,5.8,0.044,No,0,Editorial Playlist,5
+STR01098,20250703,6,17,Shining Rain,LST1182,USA,Free,Desktop,5,13.9,0.0075,Yes,0,Album Page,5
+STR01387,20250703,11,32,Summer Sky,LST1133,India,Family,Smart Speaker,7,29.6,0.0516,Yes,5,User Playlist,1
+STR00213,20250704,5,14,Electric Fire,LST1421,Australia,Free,Smart Speaker,10,31.4,0.015,No,4,Radio,1
+STR00785,20250704,2,5,Endless Rain,LST1220,Australia,Free,Smart Speaker,7,17.5,0.0105,Yes,5,Editorial Playlist,4
+STR01510,20250704,19,57,Little Sky,LST1378,USA,Premium,Tablet,14,65.6,0.098,No,2,Editorial Playlist,3
+STR01715,20250705,18,52,Golden Echoes,LST1215,UAE,Free,Desktop,9,33.5,0.0135,Yes,1,Editorial Playlist,3
+STR00818,20250706,13,39,Shining Waves,LST1033,Australia,Student,Smart Speaker,3,6.9,0.027,No,5,User Playlist,2
+STR00793,20250707,17,50,Golden Road,LST1230,Canada,Free,Smart Speaker,10,43.6,0.015,Yes,2,Editorial Playlist,4
+STR01394,20250708,18,54,Fading Memories,LST1027,Japan,Free,Smart TV,6,23.9,0.009,No,4,Search,3
+STR01021,20250709,8,22,Dancing Sky,LST1441,Australia,Student,Tablet,8,36.1,0.042,Yes,3,Editorial Playlist,5
+STR01588,20250709,4,12,Golden Waves,LST1158,Brazil,Free,Smart TV,2,5.5,0.003,No,5,Search,5
+STR00924,20250710,20,60,Little Fire,LST1190,Australia,Free,Smart TV,17,39.0,0.0255,Yes,2,Radio,4
+STR00462,20250711,20,60,Endless Echoes,LST1237,USA,Free,Desktop,7,32.2,0.0105,No,3,Album Page,1
+STR00854,20250711,9,27,Summer Light,LST1296,UK,Free,Tablet,10,38.6,0.015,No,1,Radio,5
+STR00995,20250711,12,36,Summer Hearts,LST1360,Australia,Premium,Mobile,11,46.2,0.0845,No,1,Editorial Playlist,2
+STR01391,20250711,5,15,Shining Memories,LST1226,UAE,Student,Tablet,2,8.2,0.024,Yes,2,Radio,3
+STR00434,20250712,16,48,Summer Hearts,LST1134,Japan,Premium,Mobile,13,39.4,0.0935,No,4,Search,5
+STR00209,20250713,19,56,Little Stars,LST1400,France,Family,Mobile,4,8.9,0.0402,No,3,Radio,2
+STR01542,20250713,5,15,Electric Home,LST1315,UAE,Free,Tablet,4,8.7,0.006,Yes,5,Editorial Playlist,5
+STR00143,20250714,1,3,Shining Echoes,LST1240,Japan,Free,Mobile,1,3.8,0.0015,No,4,User Playlist,3
+STR00377,20250714,17,49,Summer Echoes,LST1396,USA,Free,Tablet,2,6.0,0.003,No,4,Search,4
+STR00040,20250715,15,43,Golden Road,LST1018,Brazil,Family,Mobile,13,44.7,0.0744,Yes,5,Album Page,2
+STR00868,20250715,10,28,Distant Sky,LST1102,Germany,Student,Desktop,13,56.0,0.057,Yes,0,Editorial Playlist,4
+STR01495,20250716,20,58,Silent Fire,LST1399,Japan,Student,Desktop,13,29.1,0.057,No,1,Radio,3
+STR00365,20250717,12,36,Broken Rain,LST1034,Brazil,Premium,Desktop,15,36.0,0.1025,No,2,User Playlist,4
+STR00631,20250717,2,4,Fading Dreams,LST1190,UAE,Free,Tablet,13,41.9,0.0195,Yes,1,User Playlist,5
+STR00781,20250717,4,10,Silent Road,LST1076,Japan,Family,Mobile,10,25.4,0.063,Yes,2,User Playlist,1
+STR00090,20250718,20,59,Summer Memories,LST1328,Brazil,Free,Tablet,2,4.4,0.003,Yes,5,Radio,4
+STR00584,20250718,10,29,Shining Fire,LST1364,Australia,Student,Tablet,3,13.3,0.027,Yes,5,Radio,1
+STR00778,20250718,16,46,Distant Waves,LST1072,Germany,Premium,Smart Speaker,17,80.7,0.1115,Yes,5,Album Page,3
+STR01411,20250718,3,8,Broken Sky,LST1117,Japan,Free,Mobile,3,13.2,0.0045,Yes,5,Search,4
+STR01545,20250718,17,49,Midnight Echoes,LST1263,Canada,Premium,Smart Speaker,4,12.0,0.053,Yes,2,Radio,4
+STR01590,20250718,5,13,Dancing Hearts,LST1304,Australia,Premium,Mobile,15,42.7,0.1025,Yes,0,Search,2
+STR00998,20250719,17,50,Shining Waves,LST1395,Germany,Free,Smart TV,11,24.5,0.0165,No,3,Editorial Playlist,2
+STR01278,20250719,18,54,Midnight Fire,LST1230,Brazil,Free,Smart Speaker,8,23.1,0.012,No,1,User Playlist,2
+STR00454,20250720,4,10,Distant Memories,LST1203,India,Family,Smart Speaker,13,53.7,0.0744,Yes,2,User Playlist,2
+STR01059,20250720,10,29,Shining Home,LST1177,USA,Premium,Tablet,10,32.6,0.08,Yes,1,Album Page,5
+STR00556,20250721,1,3,Dancing Sky,LST1236,UK,Premium,Tablet,12,34.3,0.089,No,1,Editorial Playlist,2
+STR01331,20250721,2,6,Electric Hearts,LST1398,India,Free,Tablet,13,56.3,0.0195,Yes,1,Search,1
+STR00122,20250722,1,2,Shining Dreams,LST1406,USA,Student,Tablet,3,12.2,0.027,Yes,0,Album Page,4
+STR00535,20250722,3,7,Midnight Hearts,LST1293,Japan,Family,Smart TV,8,29.2,0.0554,Yes,5,Search,3
+STR00962,20250722,6,18,Broken Stars,LST1110,Germany,Premium,Smart TV,9,36.8,0.0755,No,5,User Playlist,5
+STR01189,20250722,3,9,Dancing Sky,LST1402,Australia,Student,Smart TV,4,17.2,0.03,Yes,0,Album Page,2
+STR01634,20250722,5,15,Little Memories,LST1188,Germany,Premium,Mobile,14,30.4,0.098,Yes,2,Search,2
+STR00318,20250723,6,18,Little Fire,LST1050,UK,Free,Tablet,4,9.4,0.006,Yes,1,Radio,4
+STR00322,20250723,12,35,Dancing Stars,LST1063,UAE,Free,Desktop,4,17.1,0.006,No,2,Editorial Playlist,1
+STR01033,20250723,2,4,Summer Dreams,LST1130,USA,Premium,Smart Speaker,1,2.5,0.0395,No,0,User Playlist,1
+STR01161,20250723,5,15,Shining Echoes,LST1370,Brazil,Free,Smart TV,6,22.3,0.009,No,1,Radio,1
+STR01451,20250723,8,23,Broken Sky,LST1229,UAE,Free,Mobile,10,33.4,0.015,No,3,Editorial Playlist,5
+STR00486,20250724,9,25,Fading Sky,LST1323,Japan,Premium,Smart TV,7,32.0,0.0665,No,5,Editorial Playlist,3
+STR01218,20250724,19,56,Midnight Stars,LST1191,Australia,Free,Smart TV,12,50.7,0.018,Yes,3,Search,2
+STR00526,20250725,16,46,Fading Sky,LST1200,Japan,Free,Desktop,16,66.2,0.024,Yes,4,Editorial Playlist,5
+STR00932,20250725,11,33,Shining Hearts,LST1095,UK,Free,Tablet,1,4.0,0.0015,Yes,3,User Playlist,5
+STR00410,20250726,8,22,Dancing Road,LST1370,Brazil,Free,Smart Speaker,3,8.4,0.0045,No,0,Search,1
+STR01136,20250726,6,16,Fading Waves,LST1341,Australia,Free,Tablet,12,40.3,0.018,No,4,Radio,4
+STR01446,20250726,5,13,Little Road,LST1089,Australia,Premium,Mobile,8,35.5,0.071,Yes,3,Radio,2
+STR00196,20250727,9,27,Golden Light,LST1231,Brazil,Student,Tablet,9,38.5,0.045,Yes,4,Editorial Playlist,3
+STR00333,20250727,19,56,Fading Fire,LST1429,Japan,Student,Smart Speaker,6,14.9,0.036,No,1,Album Page,3
+STR00638,20250727,14,41,Electric Dreams,LST1130,UK,Premium,Mobile,14,49.6,0.098,Yes,5,User Playlist,5
+STR00445,20250728,2,5,Little Dreams,LST1329,Germany,Premium,Smart Speaker,7,29.9,0.0665,No,3,Album Page,3
+STR00675,20250728,20,60,Little Light,LST1154,Canada,Free,Smart Speaker,15,59.4,0.0225,Yes,5,Radio,2
+STR00710,20250729,17,49,Summer Light,LST1194,Japan,Premium,Tablet,9,20.9,0.0755,Yes,4,Search,4
+STR01150,20250729,17,51,Golden Waves,LST1056,USA,Free,Tablet,8,29.5,0.012,Yes,5,Album Page,4
+STR01729,20250729,11,33,Electric Memories,LST1061,Australia,Premium,Tablet,5,18.6,0.0575,Yes,3,User Playlist,1
+STR01181,20250731,9,26,Broken Fire,LST1150,USA,Family,Tablet,8,35.9,0.0554,Yes,4,User Playlist,5
+STR01134,20250801,20,59,Summer Dreams,LST1447,Japan,Free,Mobile,14,50.9,0.021,Yes,0,Radio,1
+STR00279,20250802,13,37,Broken Fire,LST1292,France,Premium,Desktop,15,63.2,0.1025,Yes,5,Editorial Playlist,3
+STR00359,20250802,17,51,Midnight Hearts,LST1385,Canada,Free,Smart TV,15,38.1,0.0225,Yes,4,Editorial Playlist,3
+STR00853,20250803,4,11,Fading Stars,LST1300,Brazil,Family,Smart TV,3,8.0,0.0364,No,2,User Playlist,4
+STR00974,20250803,8,22,Shining Road,LST1150,Canada,Premium,Smart TV,14,54.1,0.098,Yes,1,Album Page,1
+STR01337,20250803,13,38,Silent Road,LST1420,India,Free,Smart TV,3,13.7,0.0045,No,5,Album Page,1
+STR01700,20250803,9,25,Shining Waves,LST1242,Germany,Student,Desktop,13,39.1,0.057,No,4,Radio,4
+STR01706,20250803,12,34,Shining Waves,LST1268,Brazil,Free,Mobile,16,38.0,0.024,Yes,0,Search,4
+STR00412,20250804,6,16,Broken Light,LST1412,France,Free,Smart TV,7,29.8,0.0105,Yes,0,Radio,3
+STR00465,20250804,17,51,Dancing Waves,LST1293,Brazil,Premium,Tablet,10,42.0,0.08,Yes,0,Editorial Playlist,2
+STR01404,20250804,5,14,Little Rain,LST1135,Japan,Free,Tablet,12,32.4,0.018,No,5,Search,5
+STR00204,20250805,16,46,Summer Road,LST1377,France,Premium,Mobile,10,23.2,0.08,No,2,Radio,4
+STR01456,20250806,2,4,Dancing Sky,LST1159,Canada,Student,Smart TV,15,69.7,0.063,Yes,4,Album Page,2
+STR01725,20250806,1,1,Summer Light,LST1292,UAE,Student,Smart TV,10,40.7,0.048,Yes,3,Radio,4
+STR00436,20250807,17,50,Distant Rain,LST1333,Japan,Free,Smart Speaker,2,5.1,0.003,No,4,Album Page,3
+STR00732,20250807,6,16,Little Light,LST1298,Japan,Free,Desktop,15,36.2,0.0225,Yes,2,User Playlist,2
+STR01298,20250807,12,34,Electric Light,LST1384,Canada,Free,Tablet,15,43.8,0.0225,Yes,2,Editorial Playlist,4
+STR00311,20250808,10,29,Fading Waves,LST1422,UK,Premium,Smart Speaker,11,30.7,0.0845,Yes,4,Search,1
+STR00406,20250808,8,22,Distant Dreams,LST1320,Germany,Free,Smart TV,9,31.1,0.0135,No,5,Radio,1
+STR00572,20250808,18,54,Dancing Stars,LST1099,UK,Family,Mobile,15,66.8,0.082,Yes,5,Album Page,1
+STR00580,20250808,4,12,Electric Memories,LST1014,Brazil,Free,Desktop,15,50.3,0.0225,No,5,Radio,2
+STR00807,20250808,19,56,Dancing Sky,LST1292,France,Free,Smart TV,11,44.9,0.0165,Yes,1,Search,4
+STR01004,20250808,5,13,Midnight Sky,LST1207,India,Premium,Mobile,9,20.0,0.0755,Yes,1,Radio,4
+STR00316,20250809,14,42,Endless Hearts,LST1343,India,Premium,Mobile,10,45.9,0.08,No,4,User Playlist,4
+STR00919,20250809,9,25,Silent Stars,LST1130,Germany,Student,Mobile,14,54.0,0.06,No,5,Editorial Playlist,2
+STR00980,20250809,6,18,Broken Rain,LST1262,UAE,Premium,Smart Speaker,15,52.3,0.1025,Yes,5,Editorial Playlist,2
+STR00148,20250810,19,56,Shining Sky,LST1374,Japan,Family,Smart TV,17,64.7,0.0896,No,3,User Playlist,4
+STR00192,20250810,7,20,Distant Stars,LST1320,Germany,Family,Mobile,10,33.6,0.063,No,1,User Playlist,2
+STR00271,20250810,11,31,Summer Memories,LST1177,France,Family,Tablet,7,28.7,0.0516,Yes,0,Radio,3
+STR00374,20250811,10,30,Electric Memories,LST1444,Brazil,Free,Desktop,16,44.3,0.024,Yes,0,Radio,3
+STR01469,20250811,7,20,Silent Fire,LST1316,Brazil,Student,Tablet,12,33.3,0.054,Yes,3,Search,2
+STR00011,20250813,18,52,Distant Echoes,LST1387,Australia,Free,Mobile,17,53.1,0.0255,No,4,Radio,2
+STR00056,20250813,14,40,Electric Echoes,LST1202,Australia,Free,Desktop,12,33.8,0.018,Yes,5,Album Page,3
+STR00557,20250813,7,19,Summer Memories,LST1288,USA,Free,Mobile,3,8.3,0.0045,Yes,5,Search,3
+STR00721,20250813,16,46,Dancing Fire,LST1322,USA,Free,Smart TV,7,19.9,0.0105,No,2,Search,4
+STR01054,20250813,2,4,Little Road,LST1162,UAE,Family,Desktop,4,11.5,0.0402,Yes,1,Radio,1
+STR00939,20250814,12,34,Electric Dreams,LST1241,Germany,Premium,Mobile,5,22.1,0.0575,No,0,User Playlist,2
+STR00605,20250817,11,32,Midnight Home,LST1429,France,Free,Desktop,15,44.2,0.0225,Yes,3,Search,4
+STR01294,20250817,11,33,Dancing Echoes,LST1306,France,Family,Smart TV,12,42.4,0.0706,No,3,User Playlist,5
+STR01146,20250818,16,48,Fading Light,LST1437,India,Free,Desktop,2,6.6,0.003,Yes,5,Album Page,2
+STR00234,20250819,2,6,Little Rain,LST1010,India,Free,Tablet,1,2.8,0.0015,Yes,5,Radio,2
+STR01255,20250819,2,4,Electric Home,LST1130,Japan,Free,Tablet,5,17.9,0.0075,Yes,1,Album Page,5
+STR01563,20250819,19,57,Silent Hearts,LST1281,Brazil,Free,Smart TV,9,38.4,0.0135,No,5,Search,5
+STR00461,20250820,6,18,Endless Road,LST1039,Germany,Free,Smart Speaker,12,52.3,0.018,No,2,Search,2
+STR01685,20250820,9,26,Little Waves,LST1350,India,Premium,Smart Speaker,1,3.9,0.0395,No,4,Album Page,4
+STR01684,20250821,13,38,Endless Road,LST1444,Japan,Free,Desktop,11,28.5,0.0165,Yes,2,User Playlist,4
+STR00569,20250822,19,57,Little Sky,LST1203,France,Free,Mobile,2,4.8,0.003,No,0,Album Page,1
+STR00587,20250822,5,14,Endless Stars,LST1404,India,Free,Desktop,1,2.5,0.0015,No,5,User Playlist,2
+STR00745,20250823,13,39,Summer Stars,LST1337,Australia,Free,Tablet,7,27.3,0.0105,No,0,User Playlist,3
+STR00951,20250823,15,44,Golden Light,LST1324,India,Free,Mobile,5,19.1,0.0075,No,1,Album Page,5
+STR00984,20250824,3,9,Little Memories,LST1054,UAE,Premium,Mobile,10,25.2,0.08,Yes,0,Search,3
+STR01307,20250824,16,46,Shining Hearts,LST1420,USA,Family,Smart TV,1,3.2,0.0288,No,3,Search,1
+STR00244,20250825,14,42,Summer Memories,LST1241,UK,Free,Desktop,9,35.3,0.0135,Yes,1,Search,1
+STR00153,20250826,19,55,Distant Stars,LST1144,Brazil,Student,Desktop,11,31.8,0.051,Yes,1,Album Page,3
+STR00325,20250826,8,23,Electric Waves,LST1430,Canada,Free,Tablet,8,23.0,0.012,Yes,4,Radio,2
+STR00514,20250826,2,6,Fading Rain,LST1037,UK,Free,Tablet,13,38.7,0.0195,Yes,1,Editorial Playlist,1
+STR01323,20250826,4,11,Summer Memories,LST1087,Brazil,Free,Mobile,15,71.5,0.0225,Yes,0,Editorial Playlist,2
+STR01643,20250826,16,46,Golden Fire,LST1426,France,Free,Tablet,5,22.1,0.0075,Yes,1,User Playlist,3
+STR00022,20250827,14,41,Shining Hearts,LST1206,Australia,Free,Smart TV,6,19.0,0.009,No,0,User Playlist,2
+STR00760,20250827,20,59,Endless Dreams,LST1210,France,Free,Mobile,2,5.3,0.003,No,1,Radio,5
+STR01707,20250827,4,10,Midnight Echoes,LST1180,Australia,Premium,Smart Speaker,15,48.6,0.1025,No,5,Album Page,5
+STR00273,20250828,15,45,Fading Fire,LST1272,Brazil,Free,Tablet,1,3.1,0.0015,No,2,Album Page,1
+STR01691,20250828,9,27,Silent Stars,LST1125,Brazil,Free,Mobile,8,28.7,0.012,Yes,4,Radio,2
+STR00054,20250829,8,24,Summer Sky,LST1347,Australia,Free,Smart TV,12,51.1,0.018,Yes,3,Album Page,5
+STR00202,20250829,8,24,Broken Fire,LST1163,Australia,Free,Smart Speaker,15,63.2,0.0225,Yes,4,User Playlist,1
+STR00108,20250830,6,16,Shining Sky,LST1165,Japan,Free,Smart TV,2,7.0,0.003,No,2,Radio,2
+STR00265,20250830,12,34,Endless Rain,LST1295,France,Student,Smart TV,15,40.0,0.063,No,4,Editorial Playlist,1
+STR00302,20250901,9,26,Silent Hearts,LST1373,UK,Free,Tablet,5,19.1,0.0075,No,0,Album Page,4
+STR00331,20250901,11,32,Silent Memories,LST1036,Australia,Premium,Mobile,1,4.0,0.0395,Yes,0,Radio,3
+STR01653,20250901,9,25,Broken Echoes,LST1335,Japan,Free,Smart TV,16,62.2,0.024,Yes,2,Search,4
+STR00817,20250902,14,40,Golden Sky,LST1077,Japan,Premium,Mobile,7,15.1,0.0665,Yes,2,Radio,5
+STR01585,20250902,11,33,Distant Light,LST1191,USA,Family,Smart TV,15,61.8,0.082,No,4,Radio,2
+STR00309,20250903,20,58,Broken Rain,LST1320,Japan,Free,Desktop,3,14.3,0.0045,No,2,User Playlist,1
+STR00536,20250903,14,42,Electric Dreams,LST1167,Canada,Student,Desktop,3,8.5,0.027,No,0,Search,2
+STR00800,20250903,20,60,Silent Echoes,LST1025,UAE,Free,Tablet,9,19.9,0.0135,Yes,2,Radio,5
+STR01370,20250903,10,29,Golden Rain,LST1093,UAE,Free,Desktop,8,35.8,0.012,Yes,1,Editorial Playlist,1
+STR00588,20250904,20,58,Distant Hearts,LST1448,Japan,Family,Mobile,10,37.3,0.063,Yes,1,Search,1
+STR00736,20250904,2,6,Electric Stars,LST1068,USA,Premium,Desktop,11,40.8,0.0845,Yes,2,Album Page,2
+STR00806,20250905,4,12,Distant Road,LST1447,Brazil,Free,Tablet,17,78.8,0.0255,Yes,5,User Playlist,3
+STR01379,20250905,17,50,Golden Sky,LST1189,Canada,Free,Smart Speaker,5,18.6,0.0075,No,1,User Playlist,3
+STR01681,20250905,4,11,Dancing Rain,LST1123,Japan,Free,Mobile,6,17.1,0.009,No,2,Editorial Playlist,5
+STR01689,20250905,17,49,Fading Waves,LST1006,Germany,Family,Smart Speaker,4,8.8,0.0402,No,3,User Playlist,3
+STR00179,20250906,1,2,Summer Dreams,LST1367,Canada,Family,Tablet,4,16.4,0.0402,Yes,5,Editorial Playlist,5
+STR00233,20250906,11,31,Midnight Dreams,LST1419,USA,Free,Smart TV,6,13.2,0.009,No,5,Radio,3
+STR00683,20250906,8,23,Distant Sky,LST1394,Germany,Free,Smart Speaker,7,19.9,0.0105,Yes,2,Search,2
+STR00845,20250906,9,27,Electric Rain,LST1019,UAE,Free,Tablet,10,45.8,0.015,Yes,4,Search,2
+STR01220,20250906,17,51,Shining Hearts,LST1286,Canada,Premium,Desktop,14,36.6,0.098,Yes,0,Editorial Playlist,5
+STR00744,20250907,20,59,Broken Echoes,LST1175,UAE,Free,Smart Speaker,1,4.6,0.0015,Yes,0,Search,5
+STR00310,20250908,18,54,Golden Memories,LST1391,Japan,Free,Smart TV,3,9.3,0.0045,Yes,0,Album Page,3
+STR00813,20250908,8,22,Summer Waves,LST1403,Australia,Premium,Tablet,8,29.2,0.071,Yes,1,Search,4
+STR00846,20250908,4,11,Summer Fire,LST1039,Brazil,Premium,Tablet,9,34.3,0.0755,No,2,Search,1
+STR00443,20250909,5,13,Endless Road,LST1198,Germany,Family,Smart Speaker,14,57.2,0.0782,No,1,User Playlist,4
+STR00864,20250909,4,12,Endless Sky,LST1441,Canada,Student,Mobile,15,50.3,0.063,Yes,3,Search,3
+STR01319,20250909,1,1,Summer Waves,LST1297,Australia,Family,Mobile,17,63.3,0.0896,No,5,Editorial Playlist,1
+STR00081,20250910,17,49,Silent Rain,LST1315,Japan,Free,Mobile,17,81.0,0.0255,Yes,0,Radio,1
+STR00495,20250910,16,46,Little Hearts,LST1234,Australia,Free,Desktop,7,25.0,0.0105,No,4,Editorial Playlist,3
+STR00585,20250910,5,15,Shining Sky,LST1183,Brazil,Free,Tablet,9,39.7,0.0135,Yes,3,Radio,4
+STR01564,20250910,10,28,Dancing Rain,LST1052,UAE,Student,Mobile,1,4.6,0.021,No,0,Radio,3
+STR01604,20250910,12,36,Shining Echoes,LST1364,France,Family,Smart TV,13,34.3,0.0744,Yes,3,Editorial Playlist,4
+STR01756,20250910,15,43,Electric Stars,LST1110,Brazil,Free,Tablet,8,24.9,0.012,No,2,Editorial Playlist,3
+STR00197,20250911,5,14,Shining Dreams,LST1076,USA,Premium,Smart Speaker,8,32.8,0.071,No,1,Radio,1
+STR00883,20250911,20,60,Little Echoes,LST1234,Canada,Student,Tablet,16,37.8,0.066,No,3,User Playlist,1
+STR01377,20250911,16,47,Golden Fire,LST1022,India,Free,Mobile,13,50.3,0.0195,No,2,Search,2
+STR01583,20250911,20,59,Fading Waves,LST1330,Canada,Free,Smart TV,12,36.5,0.018,Yes,2,User Playlist,1
+STR00370,20250912,4,11,Silent Stars,LST1280,Germany,Free,Smart TV,8,33.8,0.012,Yes,0,Radio,5
+STR00576,20250912,12,35,Midnight Rain,LST1353,Japan,Premium,Mobile,11,47.7,0.0845,Yes,2,Radio,3
+STR01268,20250912,3,8,Endless Hearts,LST1001,India,Free,Smart Speaker,5,17.6,0.0075,Yes,5,Search,5
+STR00017,20250913,19,55,Endless Memories,LST1053,UAE,Premium,Tablet,4,18.0,0.053,Yes,1,Radio,1
+STR00500,20250913,12,35,Golden Light,LST1155,UAE,Premium,Desktop,8,30.8,0.071,Yes,4,Search,1
+STR00727,20250913,6,18,Dancing Sky,LST1178,Brazil,Family,Smart Speaker,5,14.6,0.044,Yes,0,Editorial Playlist,4
+STR00878,20250913,10,28,Shining Rain,LST1242,India,Free,Mobile,13,42.9,0.0195,Yes,0,User Playlist,3
+STR00280,20250914,5,13,Dancing Light,LST1278,India,Family,Desktop,8,20.1,0.0554,Yes,3,Editorial Playlist,2
+STR00602,20250914,3,8,Little Home,LST1329,UAE,Premium,Desktop,10,46.6,0.08,No,2,Search,5
+STR00870,20250914,11,32,Fading Memories,LST1015,Japan,Premium,Tablet,6,28.2,0.062,Yes,0,Editorial Playlist,2
+STR01185,20250914,11,31,Distant Memories,LST1197,Japan,Free,Tablet,6,27.0,0.009,Yes,0,Search,3
+STR01576,20250914,10,28,Silent Waves,LST1027,India,Free,Smart Speaker,16,75.0,0.024,No,1,User Playlist,2
+STR01616,20250914,13,37,Distant Fire,LST1227,Australia,Family,Desktop,8,20.5,0.0554,Yes,3,Radio,5
+STR01030,20250915,5,15,Fading Dreams,LST1061,Japan,Free,Smart TV,16,58.2,0.024,No,0,Radio,5
+STR01034,20250915,19,56,Summer Rain,LST1006,UK,Free,Tablet,8,20.8,0.012,No,0,User Playlist,3
+STR01272,20250915,19,57,Little Echoes,LST1046,USA,Family,Mobile,11,38.6,0.0668,Yes,0,Album Page,2
+STR00363,20250916,1,3,Fading Road,LST1198,France,Family,Tablet,9,25.4,0.0592,Yes,2,Radio,4
+STR00555,20250916,2,5,Summer Rain,LST1409,Brazil,Family,Mobile,7,16.0,0.0516,Yes,1,Album Page,2
+STR00847,20250916,13,39,Endless Sky,LST1066,Brazil,Free,Smart TV,6,15.0,0.009,Yes,1,Search,5
+STR01121,20250916,19,56,Little Rain,LST1154,Germany,Family,Desktop,3,10.6,0.0364,No,2,Search,4
+STR01067,20250917,13,39,Golden Dreams,LST1067,Brazil,Free,Smart Speaker,5,19.6,0.0075,Yes,0,Album Page,2
+STR01280,20250917,11,32,Shining Rain,LST1386,Germany,Student,Mobile,6,14.9,0.036,Yes,1,Album Page,3
+STR00330,20250918,1,2,Silent Sky,LST1046,Japan,Family,Smart Speaker,2,5.9,0.0326,No,1,Album Page,1
+STR00762,20250918,15,44,Broken Stars,LST1139,Japan,Premium,Desktop,5,15.0,0.0575,No,3,Search,1
+STR01012,20250919,8,22,Broken Sky,LST1301,UAE,Free,Mobile,11,34.0,0.0165,Yes,2,Album Page,2
+STR01426,20250919,18,53,Fading Home,LST1014,Canada,Premium,Tablet,2,9.1,0.044,Yes,3,Album Page,4
+STR00967,20250920,15,45,Dancing Hearts,LST1229,UK,Student,Desktop,11,44.7,0.051,No,4,Album Page,5
+STR00388,20250921,14,42,Shining Light,LST1094,UK,Premium,Smart Speaker,14,48.2,0.098,Yes,5,User Playlist,1
+STR01139,20250921,20,60,Fading Waves,LST1383,Japan,Premium,Smart TV,6,15.2,0.062,No,0,Editorial Playlist,1
+STR01455,20250921,2,4,Summer Fire,LST1055,Canada,Family,Desktop,10,21.8,0.063,Yes,2,Radio,3
+STR01206,20250922,10,30,Midnight Memories,LST1020,Japan,Free,Tablet,17,62.8,0.0255,No,5,User Playlist,4
+STR01309,20250922,6,17,Broken Light,LST1331,UAE,Student,Desktop,3,11.6,0.027,Yes,0,User Playlist,1
+STR00147,20250923,18,54,Shining Home,LST1411,Australia,Family,Smart TV,5,12.5,0.044,No,0,Search,5
+STR00549,20250923,13,37,Silent Stars,LST1193,Brazil,Premium,Smart TV,1,3.5,0.0395,No,2,Editorial Playlist,1
+STR01229,20250923,1,2,Midnight Stars,LST1320,India,Premium,Smart Speaker,10,32.0,0.08,Yes,0,Editorial Playlist,2
+STR01241,20250923,2,4,Shining Memories,LST1163,UK,Student,Desktop,7,24.7,0.039,No,5,Search,2
+STR01000,20250924,9,26,Fading Memories,LST1108,UAE,Free,Tablet,1,3.2,0.0015,No,5,Album Page,5
+STR01454,20250924,20,59,Golden Rain,LST1407,Brazil,Free,Smart Speaker,4,17.6,0.006,Yes,0,Editorial Playlist,5
+STR00934,20250925,15,45,Silent Echoes,LST1163,Germany,Free,Smart TV,12,43.0,0.018,Yes,3,Radio,5
+STR01045,20250925,9,26,Little Light,LST1175,India,Free,Mobile,9,22.1,0.0135,No,2,Editorial Playlist,1
+STR00212,20250926,7,19,Golden Dreams,LST1098,France,Premium,Desktop,6,23.8,0.062,No,4,Album Page,3
+STR00224,20250926,18,53,Little Light,LST1209,Germany,Free,Mobile,10,43.3,0.015,No,2,Album Page,4
+STR00743,20250926,3,7,Broken Echoes,LST1308,Canada,Premium,Smart Speaker,5,13.4,0.0575,Yes,1,Album Page,3
+STR00641,20250929,13,38,Broken Light,LST1009,India,Free,Mobile,8,26.6,0.012,Yes,4,Search,3
+STR01378,20250930,1,1,Electric Memories,LST1213,Japan,Premium,Desktop,11,37.6,0.0845,Yes,3,Radio,2
+STR00116,20251001,17,51,Fading Home,LST1269,France,Free,Desktop,11,46.6,0.0165,No,2,User Playlist,5
+STR00278,20251001,5,14,Summer Stars,LST1414,Brazil,Free,Smart Speaker,12,33.3,0.018,No,2,Editorial Playlist,1
+STR00965,20251001,4,11,Fading Stars,LST1234,USA,Student,Smart TV,12,54.6,0.054,No,3,Album Page,2
+STR01128,20251001,17,49,Midnight Stars,LST1308,Germany,Family,Smart Speaker,1,4.2,0.0288,Yes,0,User Playlist,2
+STR01618,20251001,9,26,Shining Dreams,LST1397,Japan,Free,Desktop,15,59.1,0.0225,No,0,Album Page,3
+STR01663,20251001,19,55,Golden Fire,LST1219,Australia,Student,Tablet,11,42.0,0.051,Yes,3,Radio,1
+STR01544,20251002,9,25,Dancing Waves,LST1426,UK,Student,Smart TV,16,65.0,0.066,Yes,4,User Playlist,5
+STR00501,20251003,8,22,Fading Stars,LST1033,USA,Free,Desktop,7,18.2,0.0105,Yes,1,Radio,4
+STR01721,20251003,19,56,Fading Dreams,LST1173,Japan,Family,Smart Speaker,1,3.2,0.0288,No,4,User Playlist,4
+STR00532,20251004,19,55,Endless Sky,LST1054,France,Premium,Mobile,4,16.9,0.053,Yes,4,Album Page,4
+STR00921,20251004,16,47,Fading Home,LST1200,Australia,Free,Smart Speaker,11,32.4,0.0165,No,0,Radio,4
+STR01436,20251004,20,60,Shining Home,LST1449,India,Premium,Smart TV,7,27.4,0.0665,Yes,3,Editorial Playlist,5
+STR01613,20251004,4,11,Golden Echoes,LST1194,India,Free,Smart Speaker,10,36.3,0.015,No,0,User Playlist,3
+STR01091,20251005,13,38,Silent Light,LST1092,India,Premium,Desktop,14,48.3,0.098,Yes,3,Radio,1
+STR01354,20251005,7,19,Distant Home,LST1429,Brazil,Student,Mobile,10,36.5,0.048,Yes,5,User Playlist,2
+STR01433,20251005,3,8,Electric Hearts,LST1285,UAE,Family,Mobile,8,27.9,0.0554,No,1,User Playlist,1
+STR00237,20251006,2,4,Shining Light,LST1247,France,Free,Smart TV,8,21.6,0.012,Yes,2,Radio,5
+STR00861,20251006,15,43,Shining Stars,LST1099,India,Free,Smart TV,4,15.9,0.006,No,5,Album Page,1
+STR01512,20251006,6,18,Little Memories,LST1346,UK,Free,Mobile,11,29.1,0.0165,No,3,Radio,5
+STR01535,20251007,16,47,Electric Stars,LST1004,Canada,Free,Desktop,13,35.8,0.0195,No,3,Editorial Playlist,5
+STR00624,20251008,17,51,Shining Waves,LST1375,USA,Free,Smart TV,14,43.5,0.021,Yes,0,Search,3
+STR00095,20251009,5,13,Summer Sky,LST1079,Japan,Free,Smart Speaker,5,20.8,0.0075,Yes,3,Search,5
+STR00724,20251009,2,6,Summer Light,LST1308,Japan,Free,Smart TV,1,4.1,0.0015,Yes,4,Editorial Playlist,5
+STR01044,20251010,13,37,Golden Hearts,LST1118,Germany,Premium,Smart Speaker,9,42.0,0.0755,Yes,0,User Playlist,4
+STR01095,20251010,20,59,Fading Rain,LST1240,Brazil,Premium,Desktop,2,8.0,0.044,No,3,Album Page,4
+STR01472,20251010,11,33,Silent Hearts,LST1445,Brazil,Premium,Tablet,10,26.6,0.08,No,2,User Playlist,1
+STR00285,20251011,16,46,Midnight Home,LST1152,Japan,Free,Desktop,12,45.0,0.018,Yes,4,Radio,2
+STR01632,20251011,20,60,Summer Dreams,LST1294,India,Free,Smart TV,4,13.8,0.006,Yes,0,User Playlist,3
+STR01326,20251012,8,24,Shining Hearts,LST1257,Brazil,Free,Desktop,17,49.0,0.0255,No,4,Editorial Playlist,5
+STR01412,20251012,13,39,Dancing Memories,LST1250,USA,Student,Desktop,7,21.8,0.039,Yes,3,Editorial Playlist,5
+STR00078,20251013,13,37,Golden Sky,LST1175,Japan,Free,Smart TV,6,18.2,0.009,Yes,5,Editorial Playlist,4
+STR00082,20251013,5,13,Fading Light,LST1253,UK,Student,Tablet,8,19.5,0.042,No,0,Radio,3
+STR00109,20251013,10,30,Golden Light,LST1138,Germany,Free,Desktop,12,33.3,0.018,Yes,0,Album Page,1
+STR01109,20251013,2,6,Midnight Echoes,LST1438,Japan,Free,Mobile,6,24.0,0.009,Yes,3,Search,2
+STR01762,20251014,10,29,Midnight Home,LST1269,Japan,Family,Desktop,9,37.1,0.0592,Yes,5,Radio,5
+STR00084,20251015,19,56,Silent Light,LST1340,Japan,Family,Smart Speaker,8,35.0,0.0554,No,0,User Playlist,1
+STR00299,20251015,20,60,Golden Dreams,LST1045,India,Free,Smart TV,10,22.2,0.015,No,3,Search,4
+STR01781,20251015,11,32,Shining Sky,LST1386,Japan,Premium,Mobile,16,73.2,0.107,Yes,1,Editorial Playlist,4
+STR01024,20251016,9,25,Dancing Memories,LST1056,Japan,Family,Smart TV,5,10.8,0.044,No,2,Album Page,5
+STR00024,20251017,3,7,Electric Rain,LST1156,France,Free,Mobile,13,42.1,0.0195,Yes,0,Radio,4
+STR00548,20251017,1,3,Electric Waves,LST1360,Australia,Premium,Smart Speaker,10,45.5,0.08,No,4,User Playlist,4
+STR01104,20251017,2,6,Midnight Stars,LST1344,Australia,Premium,Tablet,2,6.5,0.044,Yes,5,Radio,3
+STR01277,20251017,2,5,Golden Sky,LST1433,Japan,Family,Smart Speaker,2,9.4,0.0326,No,1,Search,2
+STR01352,20251017,16,46,Distant Hearts,LST1142,Australia,Family,Tablet,7,24.8,0.0516,Yes,4,Radio,3
+STR01598,20251017,16,48,Distant Home,LST1361,Japan,Family,Mobile,12,40.6,0.0706,Yes,0,Editorial Playlist,4
+STR00460,20251018,10,28,Distant Sky,LST1318,India,Premium,Smart TV,9,20.8,0.0755,No,0,Search,5
+STR01191,20251018,4,11,Broken Memories,LST1106,Australia,Free,Mobile,16,60.5,0.024,No,0,User Playlist,1
+STR00312,20251021,4,11,Broken Hearts,LST1026,UAE,Free,Smart TV,1,2.3,0.0015,No,0,User Playlist,5
+STR00757,20251021,20,60,Little Sky,LST1107,France,Free,Mobile,4,8.5,0.006,Yes,0,Editorial Playlist,2
+STR01035,20251021,8,24,Fading Echoes,LST1282,UAE,Free,Tablet,12,36.8,0.018,Yes,0,User Playlist,5
+STR01148,20251021,8,22,Endless Light,LST1231,Japan,Premium,Desktop,1,2.3,0.0395,Yes,2,Search,5
+STR01546,20251021,15,45,Endless Stars,LST1170,UK,Premium,Tablet,7,25.6,0.0665,No,5,User Playlist,1
+STR00926,20251022,8,24,Shining Road,LST1177,UAE,Premium,Desktop,3,12.8,0.0485,No,0,Search,2
+STR01452,20251022,2,4,Midnight Sky,LST1355,UK,Free,Tablet,4,14.7,0.006,Yes,5,User Playlist,4
+STR00065,20251023,8,23,Fading Memories,LST1031,Germany,Free,Smart TV,1,3.5,0.0015,Yes,0,Album Page,4
+STR00828,20251025,19,57,Midnight Rain,LST1047,Japan,Free,Desktop,10,43.2,0.015,Yes,3,Radio,1
+STR01007,20251025,4,10,Silent Road,LST1313,Australia,Family,Smart Speaker,17,46.7,0.0896,No,0,Album Page,2
+STR01788,20251025,17,51,Broken Fire,LST1237,Canada,Premium,Mobile,1,3.2,0.0395,No,0,User Playlist,3
+STR00563,20251026,5,13,Golden Waves,LST1032,USA,Free,Smart Speaker,3,10.3,0.0045,Yes,2,Radio,4
+STR00874,20251026,9,26,Silent Stars,LST1297,Australia,Free,Mobile,14,45.5,0.021,No,1,Album Page,1
+STR01110,20251026,17,51,Golden Memories,LST1134,UK,Premium,Smart TV,7,31.3,0.0665,Yes,4,Editorial Playlist,3
+STR01289,20251026,9,26,Endless Rain,LST1377,Australia,Free,Smart TV,10,41.8,0.015,No,0,Search,2
+STR00560,20251027,18,54,Electric Hearts,LST1276,USA,Family,Smart Speaker,6,28.6,0.0478,No,4,User Playlist,5
+STR00663,20251029,11,33,Midnight Waves,LST1290,Germany,Family,Smart Speaker,2,9.0,0.0326,Yes,5,Album Page,3
+STR01428,20251029,17,50,Midnight Sky,LST1143,France,Free,Mobile,17,67.8,0.0255,No,5,Album Page,2
+STR01227,20251030,6,16,Dancing Dreams,LST1271,Brazil,Free,Smart Speaker,5,11.6,0.0075,Yes,0,Radio,3
+STR00044,20251031,13,37,Endless Dreams,LST1081,UK,Free,Mobile,14,52.6,0.021,Yes,0,Radio,5
+STR00249,20251031,1,2,Shining Sky,LST1254,France,Premium,Desktop,16,71.7,0.107,No,4,Search,3
+STR00362,20251031,1,2,Broken Waves,LST1092,USA,Free,Smart TV,9,35.6,0.0135,Yes,5,User Playlist,5
+STR01074,20251031,16,47,Silent Dreams,LST1369,Canada,Family,Tablet,17,46.1,0.0896,Yes,0,Editorial Playlist,1
+STR01671,20251031,12,36,Electric Stars,LST1422,Japan,Premium,Mobile,2,7.4,0.044,Yes,3,Editorial Playlist,4
+STR00890,20251101,13,37,Golden Stars,LST1434,UAE,Free,Smart Speaker,16,46.8,0.024,Yes,3,Radio,2
+STR01668,20251101,20,60,Silent Road,LST1118,France,Premium,Smart TV,12,30.5,0.089,Yes,1,Radio,4
+STR00389,20251102,1,1,Shining Road,LST1386,France,Premium,Mobile,17,63.7,0.1115,Yes,3,Radio,5
+STR00524,20251102,12,34,Distant Road,LST1289,Canada,Free,Tablet,14,50.0,0.021,Yes,0,Search,2
+STR00823,20251102,18,54,Summer Dreams,LST1087,Canada,Premium,Desktop,7,19.2,0.0665,No,0,Album Page,5
+STR01250,20251102,19,57,Silent Waves,LST1408,UAE,Free,Tablet,1,3.6,0.0015,Yes,5,Search,2
+STR01284,20251102,17,50,Dancing Home,LST1137,France,Free,Smart Speaker,11,38.8,0.0165,No,2,Search,3
+STR00435,20251103,3,8,Fading Dreams,LST1145,UK,Student,Smart Speaker,7,25.5,0.039,Yes,5,Search,1
+STR00689,20251103,10,28,Electric Rain,LST1328,France,Student,Mobile,8,35.3,0.042,Yes,2,Editorial Playlist,4
+STR00801,20251103,1,3,Midnight Fire,LST1280,Japan,Premium,Smart TV,13,47.1,0.0935,Yes,4,User Playlist,5
+STR01425,20251103,1,2,Golden Sky,LST1224,UK,Premium,Smart Speaker,12,56.0,0.089,Yes,2,Radio,2
+STR00250,20251104,3,8,Distant Fire,LST1145,UAE,Student,Tablet,13,30.3,0.057,Yes,3,Album Page,1
+STR00453,20251104,19,56,Shining Light,LST1140,UK,Premium,Mobile,13,34.3,0.0935,Yes,4,Radio,3
+STR00726,20251104,20,60,Electric Road,LST1396,UK,Free,Smart Speaker,1,3.2,0.0015,Yes,4,Radio,3
+STR01692,20251104,7,21,Silent Echoes,LST1216,UAE,Free,Smart TV,6,19.4,0.009,Yes,3,User Playlist,1
+STR01734,20251104,9,26,Midnight Fire,LST1008,UAE,Premium,Mobile,5,20.9,0.0575,Yes,4,Radio,2
+STR00247,20251105,7,19,Electric Road,LST1027,UK,Premium,Smart TV,11,40.6,0.0845,No,2,User Playlist,3
+STR00982,20251106,7,21,Silent Home,LST1303,France,Free,Smart Speaker,17,50.9,0.0255,No,2,Album Page,4
+STR01343,20251106,13,37,Little Echoes,LST1057,Australia,Free,Desktop,14,44.3,0.021,Yes,3,User Playlist,2
+STR01399,20251106,9,25,Fading Fire,LST1177,India,Free,Smart TV,4,8.9,0.006,Yes,4,User Playlist,5
+STR01710,20251106,7,19,Broken Sky,LST1202,France,Student,Tablet,9,38.3,0.045,No,0,User Playlist,2
+STR00172,20251107,12,36,Silent Echoes,LST1258,UK,Free,Mobile,16,51.9,0.024,Yes,2,Editorial Playlist,2
+STR00297,20251107,18,52,Little Rain,LST1086,USA,Premium,Smart TV,2,5.2,0.044,No,1,User Playlist,1
+STR00306,20251107,18,52,Golden Memories,LST1443,Brazil,Free,Smart TV,14,65.9,0.021,Yes,0,Album Page,4
+STR00787,20251107,7,21,Electric Memories,LST1420,Germany,Premium,Smart Speaker,15,48.3,0.1025,No,5,Radio,3
+STR00219,20251108,5,13,Midnight Memories,LST1313,Germany,Family,Mobile,4,8.8,0.0402,Yes,2,Editorial Playlist,3
+STR00902,20251108,2,5,Golden Home,LST1248,France,Premium,Desktop,1,2.9,0.0395,No,4,Album Page,4
+STR00141,20251109,19,56,Midnight Fire,LST1016,USA,Free,Tablet,4,15.8,0.006,No,2,Radio,5
+STR00158,20251109,6,17,Endless Waves,LST1295,Germany,Family,Tablet,8,38.3,0.0554,Yes,3,Radio,3
+STR00582,20251109,16,46,Midnight Fire,LST1309,India,Premium,Smart Speaker,16,55.7,0.107,Yes,2,Search,5
+STR00413,20251111,19,56,Fading Fire,LST1351,France,Free,Mobile,13,37.6,0.0195,No,0,Radio,2
+STR00442,20251111,1,2,Distant Sky,LST1028,Australia,Free,Mobile,10,25.1,0.015,Yes,1,Radio,4
+STR00863,20251111,16,48,Broken Echoes,LST1205,UAE,Free,Desktop,7,32.3,0.0105,Yes,2,Radio,2
+STR00993,20251111,5,13,Fading Road,LST1132,UAE,Free,Desktop,10,24.6,0.015,No,3,Album Page,1
+STR01236,20251111,17,51,Summer Rain,LST1029,Canada,Free,Tablet,17,65.6,0.0255,Yes,0,Album Page,5
+STR01471,20251111,9,27,Broken Memories,LST1292,Germany,Free,Smart TV,13,47.6,0.0195,Yes,2,Album Page,2
+STR01253,20251112,5,13,Electric Echoes,LST1322,Canada,Premium,Tablet,17,76.6,0.1115,Yes,4,Radio,5
+STR01697,20251112,11,32,Distant Sky,LST1229,UAE,Free,Mobile,12,55.2,0.018,No,4,Search,2
+STR00190,20251113,20,59,Little Hearts,LST1369,Australia,Family,Desktop,14,30.6,0.0782,Yes,5,User Playlist,5
+STR00211,20251113,8,23,Electric Road,LST1053,UAE,Free,Tablet,9,21.4,0.0135,No,1,Editorial Playlist,2
+STR00129,20251114,5,14,Shining Memories,LST1289,India,Premium,Desktop,4,16.9,0.053,No,5,Search,3
+STR01163,20251114,18,53,Summer Stars,LST1389,USA,Premium,Tablet,15,52.3,0.1025,Yes,4,Editorial Playlist,4
+STR01486,20251114,6,16,Shining Light,LST1124,USA,Premium,Mobile,3,6.5,0.0485,Yes,4,Editorial Playlist,4
+STR00068,20251115,19,56,Summer Waves,LST1071,UAE,Premium,Smart TV,9,21.4,0.0755,No,4,Editorial Playlist,3
+STR00102,20251115,5,13,Dancing Sky,LST1326,USA,Premium,Smart Speaker,1,2.3,0.0395,No,4,Radio,5
+STR00400,20251115,3,8,Dancing Fire,LST1103,UAE,Family,Mobile,11,40.7,0.0668,Yes,1,Radio,2
+STR00474,20251115,4,10,Midnight Home,LST1187,Canada,Free,Tablet,14,47.2,0.021,Yes,0,Editorial Playlist,3
+STR00484,20251115,9,27,Little Memories,LST1051,India,Premium,Smart Speaker,3,7.3,0.0485,No,3,User Playlist,3
+STR00006,20251116,14,40,Summer Dreams,LST1277,USA,Free,Tablet,16,51.6,0.024,Yes,3,Editorial Playlist,1
+STR01167,20251116,16,48,Fading Home,LST1330,UAE,Premium,Mobile,15,35.8,0.1025,No,0,Radio,2
+STR00039,20251117,11,31,Distant Road,LST1258,Brazil,Student,Tablet,1,2.7,0.021,No,2,Album Page,2
+STR01409,20251117,9,27,Golden Road,LST1035,UK,Free,Smart Speaker,11,33.8,0.0165,Yes,5,Radio,5
+STR00656,20251118,3,9,Electric Light,LST1446,UK,Free,Tablet,12,33.1,0.018,Yes,5,Editorial Playlist,5
+STR00829,20251118,3,7,Summer Home,LST1117,Japan,Premium,Smart Speaker,7,29.9,0.0665,No,3,Radio,5
+STR01630,20251118,17,49,Midnight Sky,LST1429,Brazil,Free,Mobile,6,27.1,0.009,No,4,Album Page,3
+STR01557,20251119,11,32,Electric Light,LST1172,Germany,Premium,Tablet,16,62.6,0.107,No,3,Radio,5
+STR01594,20251119,1,2,Midnight Dreams,LST1014,USA,Free,Mobile,6,17.6,0.009,Yes,3,Radio,3
+STR01401,20251120,16,48,Electric Home,LST1426,France,Premium,Smart Speaker,8,25.1,0.071,No,1,Editorial Playlist,5
+STR00414,20251122,13,39,Broken Hearts,LST1363,Australia,Family,Tablet,4,9.3,0.0402,Yes,2,Album Page,5
+STR00646,20251122,13,39,Shining Road,LST1039,USA,Family,Tablet,13,41.8,0.0744,No,5,Search,5
+STR00103,20251123,13,37,Little Hearts,LST1041,Germany,Family,Smart TV,2,4.3,0.0326,Yes,3,Album Page,5
+STR00669,20251123,9,26,Endless Dreams,LST1304,India,Family,Tablet,2,6.7,0.0326,Yes,3,User Playlist,2
+STR01774,20251123,8,24,Distant Stars,LST1180,Brazil,Free,Tablet,8,36.0,0.012,Yes,0,Album Page,2
+STR00291,20251124,1,3,Fading Memories,LST1429,Brazil,Family,Tablet,16,42.0,0.0858,No,4,Radio,4
+STR00360,20251124,2,4,Silent Dreams,LST1005,France,Free,Mobile,11,50.3,0.0165,Yes,1,Editorial Playlist,5
+STR00483,20251124,14,41,Distant Memories,LST1280,USA,Family,Desktop,3,10.1,0.0364,Yes,5,Radio,2
+STR00685,20251124,5,13,Shining Sky,LST1051,UAE,Premium,Smart TV,1,2.5,0.0395,Yes,4,User Playlist,5
+STR01141,20251125,14,40,Distant Fire,LST1412,Canada,Free,Smart TV,12,35.8,0.018,Yes,3,Album Page,5
+STR01447,20251125,3,8,Silent Waves,LST1386,UK,Student,Smart Speaker,14,44.3,0.06,Yes,2,User Playlist,2
+STR01748,20251125,11,32,Fading Light,LST1171,USA,Premium,Tablet,15,45.7,0.1025,Yes,5,Search,2
+STR00496,20251126,7,19,Silent Hearts,LST1099,UK,Premium,Tablet,9,40.0,0.0755,Yes,1,Search,5
+STR01015,20251126,19,56,Summer Waves,LST1262,UAE,Free,Mobile,14,60.2,0.021,No,2,Radio,5
+STR00060,20251127,9,27,Endless Waves,LST1187,UAE,Free,Desktop,10,43.2,0.015,Yes,4,User Playlist,5
+STR00391,20251127,18,52,Distant Dreams,LST1187,UK,Family,Mobile,16,58.2,0.0858,Yes,3,User Playlist,4
+STR00989,20251127,3,7,Fading Road,LST1233,France,Free,Mobile,6,26.3,0.009,Yes,4,Search,4
+STR01552,20251127,11,32,Midnight Rain,LST1273,Australia,Premium,Smart TV,13,47.8,0.0935,Yes,5,Editorial Playlist,2
+STR01650,20251127,13,38,Silent Rain,LST1051,Australia,Premium,Tablet,14,65.3,0.098,Yes,0,Album Page,2
+STR01654,20251127,19,57,Silent Sky,LST1360,Brazil,Premium,Desktop,5,20.1,0.0575,No,4,Search,1
+STR00013,20251128,17,50,Dancing Home,LST1445,France,Student,Desktop,11,27.6,0.051,Yes,4,Search,4
+STR00168,20251129,4,11,Fading Sky,LST1300,Brazil,Family,Smart TV,14,42.7,0.0782,No,5,Search,5
+STR01160,20251129,1,3,Midnight Dreams,LST1200,Germany,Free,Desktop,4,16.6,0.006,No,0,Editorial Playlist,5
+STR01504,20251129,7,19,Summer Sky,LST1400,UAE,Family,Smart TV,5,11.3,0.044,No,4,Editorial Playlist,4
+STR00404,20251201,7,20,Distant Stars,LST1155,Brazil,Free,Smart TV,5,17.5,0.0075,Yes,0,Search,4
+STR00774,20251201,2,6,Summer Waves,LST1021,UK,Free,Tablet,2,7.0,0.003,No,1,Editorial Playlist,1
+STR00803,20251201,12,34,Electric Fire,LST1403,Australia,Free,Tablet,10,28.5,0.015,No,0,Radio,1
+STR00171,20251202,11,32,Distant Stars,LST1395,Germany,Family,Desktop,6,28.1,0.0478,Yes,3,User Playlist,5
+STR00235,20251202,5,15,Little Light,LST1124,France,Free,Desktop,3,9.6,0.0045,No,3,Editorial Playlist,1
+STR00403,20251202,4,11,Distant Stars,LST1052,UK,Free,Tablet,3,13.2,0.0045,No,3,Editorial Playlist,3
+STR01096,20251202,12,35,Endless Hearts,LST1104,Germany,Premium,Tablet,17,53.1,0.1115,No,1,User Playlist,1
+STR01168,20251202,2,5,Little Rain,LST1049,Japan,Free,Tablet,10,21.3,0.015,No,2,User Playlist,2
+STR01530,20251202,14,40,Dancing Home,LST1260,Brazil,Free,Smart Speaker,1,2.9,0.0015,No,3,Radio,5
+STR01659,20251202,14,40,Little Fire,LST1362,India,Free,Desktop,17,54.1,0.0255,No,1,Search,3
+STR00369,20251203,16,47,Endless Sky,LST1231,India,Free,Desktop,10,22.5,0.015,Yes,3,Radio,2
+STR00471,20251203,14,40,Shining Hearts,LST1346,USA,Premium,Desktop,11,41.7,0.0845,Yes,3,Album Page,1
+STR00943,20251203,8,23,Endless Dreams,LST1026,India,Free,Smart Speaker,14,52.7,0.021,No,5,Editorial Playlist,3
+STR01420,20251203,9,25,Electric Light,LST1133,USA,Free,Tablet,6,23.7,0.009,No,5,Radio,5
+STR00223,20251204,12,35,Broken Memories,LST1366,USA,Premium,Tablet,15,61.3,0.1025,Yes,5,Editorial Playlist,3
+STR00719,20251204,15,43,Distant Dreams,LST1229,Australia,Family,Smart Speaker,15,69.6,0.082,Yes,0,User Playlist,1
+STR01097,20251204,13,39,Summer Waves,LST1269,Germany,Family,Mobile,11,28.6,0.0668,No,4,Search,3
+STR00057,20251205,11,33,Endless Hearts,LST1396,USA,Premium,Mobile,1,2.8,0.0395,No,5,User Playlist,3
+STR00573,20251205,20,58,Electric Sky,LST1251,Canada,Student,Desktop,17,47.4,0.069,No,4,Editorial Playlist,1
+STR00930,20251205,17,51,Golden Dreams,LST1411,Germany,Premium,Smart Speaker,13,55.4,0.0935,Yes,4,Album Page,4
+STR00963,20251205,7,19,Fading Home,LST1366,UAE,Premium,Tablet,14,46.9,0.098,No,0,Editorial Playlist,4
+STR01089,20251205,17,49,Endless Rain,LST1409,Germany,Student,Smart Speaker,15,71.6,0.063,Yes,0,Album Page,4
+STR00186,20251207,2,5,Summer Dreams,LST1361,Germany,Student,Smart TV,12,52.9,0.054,Yes,0,Search,3
+STR00329,20251207,10,30,Distant Memories,LST1122,France,Premium,Smart Speaker,8,27.4,0.071,Yes,1,User Playlist,5
+STR00517,20251208,11,32,Distant Road,LST1243,UAE,Free,Mobile,6,15.6,0.009,Yes,4,User Playlist,1
+STR00581,20251208,9,27,Broken Hearts,LST1432,Brazil,Premium,Smart Speaker,10,45.0,0.08,Yes,3,User Playlist,5
+STR01287,20251208,13,39,Distant Memories,LST1285,USA,Free,Mobile,16,66.3,0.024,No,1,Radio,2
+STR00075,20251209,15,45,Summer Light,LST1062,Japan,Premium,Tablet,9,26.7,0.0755,Yes,5,User Playlist,3
+STR00137,20251209,10,30,Electric Light,LST1368,France,Free,Tablet,1,3.1,0.0015,No,4,Search,5
+STR00946,20251209,13,39,Summer Sky,LST1344,Canada,Family,Smart Speaker,13,29.6,0.0744,Yes,4,Search,5
+STR00953,20251210,12,36,Summer Sky,LST1436,France,Free,Mobile,7,33.0,0.0105,Yes,4,Album Page,2
+STR01675,20251210,1,2,Shining Echoes,LST1118,UK,Family,Mobile,12,37.9,0.0706,Yes,1,Radio,1
+STR00124,20251211,7,20,Distant Dreams,LST1264,France,Free,Tablet,15,44.6,0.0225,No,1,Radio,5
+STR00679,20251211,8,24,Golden Fire,LST1057,Japan,Family,Desktop,8,19.5,0.0554,Yes,4,Editorial Playlist,5
+STR00161,20251212,5,15,Golden Hearts,LST1012,Germany,Free,Mobile,7,30.5,0.0105,Yes,4,Search,1
+STR00667,20251212,5,15,Summer Home,LST1315,USA,Premium,Smart Speaker,7,20.8,0.0665,No,5,Radio,2
+STR00045,20251213,15,43,Distant Waves,LST1120,USA,Premium,Smart TV,11,24.3,0.0845,Yes,4,User Playlist,2
+STR01369,20251214,13,39,Electric Light,LST1043,Australia,Family,Smart TV,13,48.2,0.0744,No,2,Search,5
+STR01517,20251214,7,20,Dancing Light,LST1350,Germany,Free,Tablet,14,55.9,0.021,Yes,1,Album Page,5
+STR00970,20251215,15,43,Little Rain,LST1136,Brazil,Premium,Desktop,5,13.2,0.0575,Yes,1,Search,3
+STR01195,20251215,5,14,Endless Home,LST1333,Germany,Premium,Tablet,11,48.1,0.0845,No,2,Editorial Playlist,3
+STR01466,20251216,13,38,Broken Rain,LST1088,UAE,Free,Tablet,17,72.6,0.0255,Yes,4,Editorial Playlist,3
+STR00314,20251217,5,14,Little Echoes,LST1250,UAE,Family,Mobile,5,19.9,0.044,No,4,User Playlist,2
+STR00571,20251217,18,53,Broken Home,LST1082,India,Free,Smart TV,8,17.1,0.012,Yes,2,Radio,1
+STR00614,20251217,9,25,Dancing Waves,LST1234,Brazil,Premium,Tablet,5,19.3,0.0575,Yes,3,Album Page,3
+STR00634,20251217,11,31,Midnight Fire,LST1292,Germany,Family,Tablet,1,2.2,0.0288,No,0,Editorial Playlist,4
+STR01101,20251217,5,14,Endless Fire,LST1393,USA,Student,Smart TV,9,40.9,0.045,No,2,Album Page,3
+STR00918,20251218,7,21,Dancing Home,LST1194,UAE,Free,Smart TV,10,40.1,0.015,Yes,2,Radio,4
+STR01396,20251219,5,14,Broken Fire,LST1027,Japan,Free,Smart Speaker,16,48.8,0.024,Yes,5,Search,1
+STR01427,20251219,17,51,Summer Dreams,LST1313,USA,Free,Smart TV,13,36.2,0.0195,Yes,2,Search,2
+STR01550,20251219,17,50,Broken Sky,LST1250,Brazil,Free,Mobile,6,13.3,0.009,No,1,Editorial Playlist,2
+STR00275,20251220,7,20,Silent Waves,LST1279,USA,Family,Tablet,13,27.5,0.0744,Yes,3,Radio,4
+STR00923,20251220,19,57,Dancing Rain,LST1027,USA,Premium,Tablet,2,5.8,0.044,No,4,Radio,1
+STR00948,20251220,15,43,Golden Stars,LST1408,France,Free,Smart TV,8,23.3,0.012,Yes,3,Editorial Playlist,5
+STR01113,20251220,14,42,Fading Rain,LST1440,Canada,Premium,Desktop,16,42.3,0.107,Yes,3,Editorial Playlist,4
+STR01177,20251220,4,10,Distant Hearts,LST1283,Canada,Free,Smart Speaker,13,30.8,0.0195,Yes,1,Album Page,1
+STR01290,20251220,3,9,Golden Rain,LST1216,UAE,Free,Smart Speaker,11,33.1,0.0165,Yes,4,User Playlist,1
+STR01548,20251220,5,13,Endless Dreams,LST1274,France,Free,Tablet,4,13.2,0.006,No,5,Editorial Playlist,5
+STR00966,20251221,18,53,Dancing Hearts,LST1187,USA,Premium,Desktop,16,59.7,0.107,No,4,User Playlist,3
+STR01755,20251221,3,8,Electric Road,LST1303,UAE,Free,Tablet,4,15.4,0.006,Yes,3,Editorial Playlist,4
+STR00492,20251222,19,56,Fading Rain,LST1169,Canada,Free,Desktop,2,7.8,0.003,No,2,Radio,5
+STR01467,20251223,9,26,Shining Sky,LST1101,UK,Free,Desktop,2,7.9,0.003,No,4,Editorial Playlist,2
+STR01682,20251223,11,31,Broken Waves,LST1035,Canada,Premium,Tablet,15,58.1,0.1025,Yes,2,Search,4
+STR01759,20251223,20,60,Distant Echoes,LST1373,Canada,Family,Mobile,17,38.3,0.0896,Yes,4,Editorial Playlist,1
+STR00802,20251224,5,13,Summer Waves,LST1150,Australia,Free,Desktop,5,21.8,0.0075,No,4,Search,3
+STR00808,20251224,2,5,Endless Memories,LST1056,Brazil,Premium,Desktop,5,15.0,0.0575,No,5,Editorial Playlist,4
+STR00067,20251225,4,10,Midnight Hearts,LST1146,USA,Premium,Smart TV,5,18.4,0.0575,No,2,Album Page,3
+STR01340,20251225,6,18,Fading Fire,LST1310,Brazil,Free,Smart TV,11,25.5,0.0165,No,2,Search,4
+STR00076,20251226,10,30,Silent Road,LST1134,USA,Free,Smart Speaker,8,18.1,0.012,Yes,3,Radio,2
+STR01346,20251226,20,60,Endless Sky,LST1022,UAE,Premium,Smart TV,4,8.8,0.053,Yes,5,Radio,5
+STR01766,20251226,10,28,Distant Hearts,LST1394,Japan,Premium,Desktop,13,35.9,0.0935,Yes,2,Search,1
+STR01718,20251227,2,4,Distant Home,LST1410,Brazil,Premium,Smart Speaker,5,22.4,0.0575,No,2,Editorial Playlist,5
+STR00231,20251228,6,16,Shining Light,LST1187,Australia,Free,Smart Speaker,17,59.8,0.0255,Yes,3,Radio,1
+STR00776,20251228,2,5,Summer Fire,LST1109,UAE,Premium,Smart Speaker,3,7.5,0.0485,Yes,3,User Playlist,2
+STR00837,20251228,13,39,Little Memories,LST1090,India,Premium,Smart Speaker,17,40.9,0.1115,No,3,User Playlist,3
+STR01142,20251228,6,16,Broken Home,LST1348,Japan,Free,Smart Speaker,16,35.4,0.024,No,1,Radio,1
+STR01279,20251228,4,10,Endless Waves,LST1167,Canada,Premium,Desktop,10,32.6,0.08,Yes,0,Album Page,2
+STR00411,20251229,7,19,Midnight Light,LST1345,Germany,Free,Smart Speaker,1,4.2,0.0015,No,3,Editorial Playlist,4
+STR00530,20251229,17,51,Distant Echoes,LST1132,Australia,Premium,Tablet,4,18.7,0.053,Yes,2,Album Page,5
+STR00121,20251230,8,24,Shining Light,LST1056,Germany,Free,Desktop,13,34.2,0.0195,No,5,Editorial Playlist,1
+STR00889,20251230,15,45,Dancing Home,LST1107,Australia,Student,Desktop,16,47.6,0.066,No,2,User Playlist,2
+STR01066,20251230,12,34,Fading Stars,LST1228,Germany,Family,Mobile,1,3.4,0.0288,No,2,Radio,1
+STR00540,20251231,19,55,Distant Light,LST1266,France,Premium,Smart Speaker,4,15.1,0.053,No,3,User Playlist,5
+STR01056,20251231,1,3,Shining Memories,LST1311,India,Free,Tablet,3,10.9,0.0045,Yes,1,User Playlist,3
